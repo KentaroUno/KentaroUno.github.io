@@ -1,6 +1,8 @@
-title: Kentaro Uno - Robotics Researcher
-logo: /assets/img/logo.png
-description: I am a researcher. My research interests are in the robotics in the harsh environment such as space, cliffs, caves, and plant.
-show_downloads: true
+title: <a href="index.html"><span>English</span></a> | <a href="index_j.html"><span>Japanese</span></a> <font size="4"> <a href="./bio.html"><span>Biography >>>> </span></a> | <a href="bio_j.html"><span>経歴</span></a> <br> <a href="pub.html"><span>Publications >> </span></a> | <a href="pub_j.html"><span>業績</span></a> <br> <a href="proj.html"><span>Projects >>>>>> </span></a> | <a href="proj_j.html"><span>プロジェクト</span></a> </font> <br><br> Kentaro Uno <p><font size="4"> - Robotics Researcher</font></p> 
+
+logo: /assets/img/bio-photo.png
+
+description: I am a researcher. My research interests are in the robotics in the harsh environment such as space, cliffs, caves, and plant. <div class="cv" target="_blank">Feel free to download my <a href="/assets/files/CV.pdf">CV</a>.<br> <br> Kentaro Uno All Rights Reserved.
+# show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
