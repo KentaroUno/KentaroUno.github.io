@@ -35,9 +35,9 @@ layout: default
 
 * Apr. 2010 -- Mar. 2013　Hokkaido Sapporo Minami High School (Sapporo, Japan)
 
-## 研究業績
+## Publications
 
-* Publications [here](pub_j.html)
+* Publications [here](pub.html)
 
 * My Google Scholar Citations are [here](https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ)
 

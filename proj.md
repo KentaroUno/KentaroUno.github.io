@@ -13,13 +13,46 @@ I am interested in the field and service robotics in the extreme environment. Th
 For exploring the steep and irregular terrain represented as an outcrop, cliff wall, cave ceiling, and Lunar and Martian lava tube, the legged robot equipped with the gripping mechanism, called <I>limbed climbing robot</I> is to be the innovative strategy to expand the traversable areas by a mobile robot. For the future advanced exploration mission, this research and development project tackles the challenge to realize the autonomous limbed robot's climbing locomotion.
 
 ### HubRobo: Quadrupedal Climbing Robot Testbed
-![HubRobo_v_3_1_color](./assets/img/HubRobo_v_3_1_color.png)
+![HubRobo picture](./assets/img/hubrobo_picture.png)
+
+-  HubRobo is a couple kg class ground-gripping legged mobile robot platform aimed to be deployed for exploration, inspection, monitoring and so on in harsh environment. 
+- Highly energy-efficient, miniaturized, and strong passive spine grippers are installed at the tip of the each foot, which allow it to climb up rocky uneven slope.
+- **Please watch the [YouTube video](https://www.youtube.com/embed/hK9ax_vVjNc) indroducing HubRobo.**
 
 ### ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics
-![ClimbLab simulation image](./assets/img/climblab_example_sim.png)
+
+![ClimbLab simulation image](./assets/img/climblab.png)
+
+| Slope climbing | Path planning | Foothold planning |
+|-------------|---------------|---------------|
+| ![ClimbLab simulation image](./assets/img/climblab_anymal_climbing_sim.png) | ![ClimbLab simulation image](./assets/img/climblab_path_planning_sim.png) | ![ClimbLab simulation image](./assets/img/climblab_gait_planning_sim.gif) |
+
+- ClimbLab is a MATLAB simulator for the articulated robotics system particularly for climbing application.
+
+- This simulator wraps up functions for:
+
+  ☑ Dynamic analysis and simulation of articulated multi-body systems with a floating base (*This is performed by [SpaceDyn](https://github.com/Space-Robotics-Laboratory/SpaceDyn)*)
+
+  ☑ Design of legged robotic system
+
+  ☑ Environment demonstration (different terrain shape, inclination, and gravity)
+
+  ☑ Visualization (Robot, map, support polygons, stability criterion, and time-history of any state variables) 
+
+- **ClimbLab is an open-sourced simulator. See the [GitHub page](https://github.com/Space-Robotics-Laboratory/ClimbLab).**
 
 ### Terrain-, Inclination-, and Gravity-Adjustable Testfield
+- We can arrange any environment for the climbing robot's experiment.
+
 ![Testfield image](./assets/img/testfield.png)
+
+<!-- ### Mobile Manipulator in Microgravity 
+![ISS HubRobo picture](./assets/img/iss_hubrobo_picture.png)
+
+- International Space Station -->
+
+### Sensorized Spined Gripper
+
 
 ## Lunar/Planetary Exploration Rover
 
@@ -27,5 +60,8 @@ Wheeled robotic exploration on the planetary surface needs an innovation in term
 
 ### Qualification and Implementation of Time-of-Flight Camera for Space Exploration Microrover
 ![ToF camera testing image](./assets/img/tof_testing.png)
+
+## Robotic Active Debris Removal in Orbit
+
 
 ## [back](./)
