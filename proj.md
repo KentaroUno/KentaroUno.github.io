@@ -52,16 +52,28 @@ For exploring the steep and irregular terrain represented as an outcrop, cliff w
 - International Space Station -->
 
 ### Sensorized Spined Gripper
-
+... (detail information still under constuction) ...
 
 ## Lunar/Planetary Exploration Rover
 
-Wheeled robotic exploration on the planetary surface needs an innovation in terms of the efficiency and locomotion speed for advanced mission.
+Wheeled robotic exploration on planetary surfaces needs an innovation in terms of the efficiency and locomotion speed for advanced mission. Increse of the ratio of the on-board autonomization (sensing, mapping, localization, online path planning, and navigation) is the essential mission.
 
 ### Qualification and Implementation of Time-of-Flight Camera for Space Exploration Microrover
+
 ![ToF camera testing image](./assets/img/tof_testing.png)
+
+- ToF (Time-of-Flight) has not been the space-grade technology. However, optical and software filtering 
+enables to be robust under the direct sunlight illumination.
+
+... (detail information still under constuction) ...
 
 ## Robotic Active Debris Removal in Orbit
 
+Active Debris Removal (ADR) is the essential theme towards the sustainable orbital activity.
+
+... (detail information still under constuction) ...
+
+### Structure-from-Motion-based Spacecraft Pose Estimation
+![Structure from Motion](./assets/img/sfm.png)
 
 ## [back](./)
