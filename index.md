@@ -19,6 +19,7 @@ layout: default
 
 | DATE        | CONTENT          |
 |:------------|:------------------|
+| 2021.10.15. | [Publication page](./pub.html) and [Project page](./proj.html) are updated! |
 | 2022.09.29. | Whole webpage is renewed. |
 | 2021.11.02. | Our three proceedings paper for the International Symposium on System Integration (SII) and International Symposium on Space Technology Science (ISTS) are all accepted! ([Publication page](./pub.html)) |
 | 2021.10.01. | I started working as a staff of Space Robotics Lab. in Tohoku Universtity, Japan. ([Biography page](./bio.html)) |

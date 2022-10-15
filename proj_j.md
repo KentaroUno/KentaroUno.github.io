@@ -2,8 +2,11 @@
 layout: default
 ---
 
-# Projects
+# プロジェクト
 
+日本語のページはただいま準備中です．運用開始まで，[英語のページ](./proj.html)をご覧ください．
+
+<!-- 
 I am interested in the field and service robotics in the extreme environment. The followings are the main projects that I have been performing. Each detailed page will be updated soon...
 
 # Lunar/Planetary Exploration Rover
@@ -64,7 +67,7 @@ For exploring the steep and irregular terrain represented as an outcrop, cliff w
 
 - International Space Station -->
 
-## Sensorized Spined Gripper
+<!-- ## Sensorized Spined Gripper
 ![Sensorized Spined Gripper](./assets/img/sensorized_gripper.png)
 
 # Robotic Active Debris Removal in Orbit
@@ -74,6 +77,6 @@ Active Debris Removal (ADR) is the essential theme towards the sustainable orbit
 ... (detail information still under constuction) ...
 
 ## Structure-from-Motion-based Spacecraft Pose Estimation
-![Structure from Motion](./assets/img/sfm.png)
+![Structure from Motion](./assets/img/sfm.png)  -->
 
 ## [Back to Top Page](./)

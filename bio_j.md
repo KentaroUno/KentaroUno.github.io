@@ -4,6 +4,10 @@ layout: default
 
 # 経歴
 
+<!-- <img src="assets/img/srl.png" width="120"> -->
+<img src="assets/img/Toh_E_L_P_K.gif" width="100" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10">
+<img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10">
+
 ## 職歴
 * 2021年10月 ～ 現在　東北大学　大学院工学研究科　航空宇宙工学専攻　助教 （所属：[宇宙探査工学分野「宇宙ロボット研究室」](http://www.astro.mech.tohoku.ac.jp/index.html)）
 

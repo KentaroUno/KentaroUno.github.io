@@ -20,6 +20,7 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
+| 2021.10.15. | [研究業績](./pub_j.html) と [Project page](./proj.html) を更新しました． |
 | 2021.11.02. | システムインテグレーション国際会議(SII)に共著論文1報が，第33回 宇宙技術および科学の国際シンポジウム(ISTS)に共著論文2報がそれぞれアクセプトされました．（ [研究業績](./pub_j.html) ） |
 | 2021.10.01. | 東北大学大学院工学研究科の助教として着任いたしました．引き続きよろしくお願いいたします．（ [経歴](./bio_j.html) ） |
 | 2021.09.07. | 共著学術論文 "Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain" が TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES, AEROSPACE TECHNOLOGY JAPAN（日本航空宇宙学会による国際学術論文集）にて発行されました． （ [研究業績](./pub_j.html) ）.  |

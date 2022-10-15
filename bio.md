@@ -4,7 +4,12 @@ layout: default
 
 # Biography
 
+<!-- <img src="assets/img/srl.png" width="120"> -->
+<img src="assets/img/Toh_E_L_P_K.gif" width="100" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10">
+<img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10">
+
 ## Work Experience
+
 * Oct. 2021 -- Today　Assistant Professor, Graduate School of Engineering, Tohoku University. (Lab: [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html))
 
   ### Lectures (Tohoku University)
