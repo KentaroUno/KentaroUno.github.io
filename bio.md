@@ -14,11 +14,11 @@ layout: default
   - Oct. 2021 -- Today　Creative Engineering Training: for undergraduates
 
 
-* Nov. 2019 -- Oct. 2020　Academic Guest, Department of Mechanical and Process Engineering, Institute of Robotics and Intelligent Systems, ETH Zurich (Zürich, Switzerland).
+* Nov. 2019 -- Oct. 2020　Research Intern, Department of Mechanical and Process Engineering, Institute of Robotics and Intelligent Systems, ETH Zurich (Zürich, Switzerland).
 
 * Apr. 2019 -- Sep. 2021　JSPS Research Fellowship for Young Scientists DC1
 
-* Jul. 2018 -- Mar. 2019　Software Engineer Intern, ispace inc.
+* Jul. 2018 -- Mar. 2019　Software Engineer Intern, [ispace inc.](https://ispace-inc.com)
 
 ## Education
 * Oct. 2018 -- Sep. 2021　Ph.D. in Aerospace Engineering @Tohoku University (Sendai, Japan)
@@ -37,7 +37,7 @@ layout: default
 
 ## Publications
 
-* Publications [here](pub.html)
+* Publication list is [here](pub.html)
 
 * My Google Scholar Citations are [here](https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ)
 
@@ -45,7 +45,7 @@ layout: default
 
 * My researchmap is [here](https://researchmap.jp/unoken)
 
-## Patents
+## Patent
 
 * Takuya Kato, Kentaro Uno, "Gripping Mechanism", PCT/JP2022/021947, May 30th, 2022.
 
@@ -61,7 +61,8 @@ layout: default
 
 ## Award
 
-* 2022年01月　若手奨励賞優秀賞，日本航空宇宙学会 （第65回宇宙科学技術連合講演会において）
+* Jan. 2022　Young Encouragement Award Excellence Award, JSASS.
+<!-- （第65回宇宙科学技術連合講演会において） -->
 
 * Sep. 2021　The 24th International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR), The Highly Commended Paper, 2021. (For the excellent paper in the conference) NEW
 
@@ -85,18 +86,19 @@ layout: default
 * 2017年03月01日【TV出演】1億人の大質問！？笑ってコラえて！（日本テレビ）．（月面探査ローバーの研究開発を紹介） -->
 
 
-<!-- ## その他の活動
+## Outreaching Activities
 
-* 2022年01月25日　札幌市立中央中学校　総合的な学習の時間（学外講師として授業参加） -->
+* Apr. 4, 2022　Guest lecturer for "Space Robotics Training Programme" organized by Spacenova, India.
 
-<!-- 
-## 共同研究先
+<!-- * 2022年01月25日　札幌市立中央中学校　総合的な学習の時間（学外講師として授業参加） -->
 
-* Robotics Systems Lab., Department of Mechanical and Process Engineering,ETH Zurich (Zürich, Switzerland)
+## Joint Research Partnerships
 
-* JAXA 有人宇宙技術部門 有人宇宙技術センター
+* Robotics Systems Lab., Department of Mechanical and Process Engineering, ETH Zurich (Zürich, Switzerland)
 
-* 川崎重工業株式会社 -->
+* JAXA Human Spaceflight Technology Center
+
+* Kawasaki Heavy Industries, Ltd.
 
 ## Community
 
@@ -108,4 +110,4 @@ layout: default
 
 * IEEE
 
-## [back](./)
+## [Back to Top Page](./)

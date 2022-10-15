@@ -5,6 +5,9 @@ layout: default
 # 研究業績
 
 ## 学術誌論文
+
+* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，第40回 日本ロボット学会学術講演会，#4K3-07，2022．（査読中）
+
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "[Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain](https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article)", Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, vol. 19, no. 5, pp. 794--801, 2021.
 
 * **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, "[Qualification of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover](https://www.jstage.jst.go.jp/article/tastj/16/7/16_619/_article/-char/en)", Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, vol. 16, no. 7, pp. 619--627, 2018.
@@ -15,11 +18,11 @@ layout: default
 
 <!-- * Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, ICRA2023 -->
 
-<!-- * Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, ROBIO2022 -->
+* Andrew Price, **Kentaro Uno**, Kazuya Yoshida, "Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions," Proceedings of the 2023 IEEE Aerospace Conference, 2023. (abstract accepted)
 
-* Andrew Price, **Kentaro Uno**, Kazuya Yoshida, "Render-to-real image dataset and CNN pose estimation for down-link restricted spacecraft missions", Proceedings of the 2023 IEEE Aerospace Conference, 2023. (accepted)
+* Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile," Proceedings of the IEEE ROBIO, 2022. (accepted)
 
-* Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, "Low-Reaction Trajectory Generation for a Legged Robot in Microgravity," *Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII)*, 2022.
+* Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, "[Low-Reaction Trajectory Generation for a Legged Robot in Microgravity](https://ieeexplore.ieee.org/document/9708772)," *Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII)*, 2022.
 
 * Keigo Haji, **Kentaro Uno**, Warley F. R. Ribeiro, Kazuya Yoshida, "Path and Gait Planning of Limbed Climbing Robots for Planetary Cliff Exploration," *Proceedings of the 33rd International Symposium on Space Technology Science (ISTS)*, 2022.
 
@@ -33,9 +36,9 @@ layout: default
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "[Dynamic Equilibrium of Climbing Robots Based on Stability Polyhedron for Gravito-Inertial Acceleration](https://clawar.org/wp-content/uploads/2021/02/Clawar2020_Paper_18.pdf)", *Proceedings of the 23rd International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR)*, pp. 297--304, 2020. **(Conference Awards a Third Prize)** [[Video]](https://www.youtube.com/watch?v=0evShZIG-F4)
 
-* Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "[Gait Planning for a Free-Climbing Robot based on Tumble Stability](https://ieeexplore.ieee.org/document/8700455)", *Proceedings of the 2019 IEEE/SICE International Symposium on System Integration*, pp. 289-294, 2019.
+* **Kentaro Uno**, Warley F. R. Ribeiro, William Jones, Yuki Shirai, Hayato Minote, Kenji Nagaoka, Kazuya Yoshida, "[Gait Planning for a Free-Climbing Robot based on Tumble Stability](https://ieeexplore.ieee.org/document/8700455)", *Proceedings of the 2019 IEEE/SICE International Symposium on System Integration*, pp. 289-294, 2019.
 
-* **Kentaro Uno**, Louis-Jerome Burtz, Masafumi Endo, Kenji Nagaoka, Kazuya Yoshida, "[Quality of the 3D Point Cloud of a Time-of-Flight Camera Under Lunar Surface Illumination Conditions: Impact Improvement Techniques](/assets/files/2018isairas_uno.pdf)", *Proceedings of the 14th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, #10a-2, 2018.
+* **Kentaro Uno**, Louis-Jerome Burtz, Masafumi Endo, Kenji Nagaoka, Kazuya Yoshida, "[Quality of the 3D Point Cloud of a Time-of-Flight Camera Under Lunar Surface Illumination Conditions: Impact Improvement Techniques](https://robotics.estec.esa.int/i-SAIRAS/isairas2018/Papers/Session%2010a/2_uno-86-110-Uno-Kentaro.pdf)", *Proceedings of the 14th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, #10a-2, 2018.
 
 * **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, "[Capability of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover](/assets/files/ISTS2017_KentaroUno.pdf)", *Proceedings of the 31st International Symposium on Space Technology Science (ISTS)*, #2017-k-37, 2017.
 
@@ -45,7 +48,7 @@ layout: default
 
 ## 国内会議発表論文および口頭発表
 
-* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，第40回 日本ロボット学会学術講演会，#4K3-07，2022．
+* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，第40回 日本ロボット学会学術講演会，#4K3-07，2022．（日本ロボット学会誌へのレター同時投稿オプション（査読有り）で論文発表）
 
 * 梅村 歩，**宇野 健太朗**，Mickael Laine，吉田 和哉，“ループ閉じ込み時の相対位置情報を利用した複数ロボットの協調SLAMの開発”，ロボティクス・メカトロニクス講演会2022，#1A1-K12，2022．
 
@@ -71,4 +74,4 @@ layout: default
 
 * 吉田 和哉，永岡 健司，**宇野 健太朗**，白井 有樹，William Jones，“崖降り・崖登り探査のための脚型ロボットの研究開発”，第62回宇宙科学技術連合講演会，#3D15，2018．
 
-## [back](./)
+## [Back to Top Page](./)

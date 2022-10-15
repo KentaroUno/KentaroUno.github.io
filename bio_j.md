@@ -18,7 +18,7 @@ layout: default
 
 * 2019年04月 ～ 2021年09月　独立行政法人 日本学術振興会 特別研究員DC1
 
-* 2018年07月 ～ 2019年03月　株式会社ispace ソフトウェアエンジニアインターン
+* 2018年07月 ～ 2019年03月　[株式会社ispace](https://ispace-inc.com/jpn/) ソフトウェアエンジニアインターン
 
 ## 学歴
 * 2018年10月 ～ 2021年09月　東北大学大学院　工学研究科　航空宇宙工学専攻　博士課程後期3年の課程（博士課程）
@@ -37,7 +37,7 @@ layout: default
 
 ## 研究業績
 
-* これまでの研究業績は [こちら]()
+* これまでの研究業績は [こちら](pub_j.html)
 
 * Google Scholar Citationsは [こちら](https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ)
 
@@ -63,7 +63,7 @@ layout: default
 
 * 2022年01月　若手奨励賞優秀賞，日本航空宇宙学会 （第65回宇宙科学技術連合講演会において）
 
-* 2021年09月　The 24th International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR), The Highly Commended Paper, 2021. (For the excellent paper in the conference) NEW
+* 2021年09月　The 24th International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR), The Highly Commended Paper, 2021. (For the excellent paper in the conference) 
 
 * 2020年03月　計測自動制御学会 東北支部 優秀発表奨励賞（第328回計測自動制御学会東北支部研究集会において）
 
@@ -86,6 +86,8 @@ layout: default
 
 ## その他の活動
 
+* 2022年04月04日　Guest lecturer for "Space Robotics Training Programme" organized by Spacenova, India.
+
 * 2022年01月25日　札幌市立中央中学校　総合的な学習の時間（学外講師として授業参加）
 
 
@@ -107,4 +109,4 @@ layout: default
 
 * IEEE
 
-## [back](./)
+## [Back to Top Page](./)

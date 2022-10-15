@@ -15,11 +15,12 @@ layout: default
 
 <!-- * Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, ICRA2023 -->
 
-<!-- * Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, ROBIO2022 -->
+* Andrew Price, **Kentaro Uno**, Kazuya Yoshida, "Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions," Proceedings of the 2023 IEEE Aerospace Conference, 2023. (abstract accepted)
 
-* Andrew Price, **Kentaro Uno**, Kazuya Yoshida, "Render-to-real image dataset and CNN pose estimation for down-link restricted spacecraft missions", Proceedings of the 2023 IEEE Aerospace Conference, 2023. (accepted)
+* Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile," Proceedings of the IEEE ROBIO, 2022. (accepted)
 
-* Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, "Low-Reaction Trajectory Generation for a Legged Robot in Microgravity," *Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII)*, 2022.
+* Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, "[Low-Reaction Trajectory Generation for a Legged Robot in Microgravity](https://ieeexplore.ieee.org/document/9708772)," *Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII)*, 2022.
+
 
 * Keigo Haji, **Kentaro Uno**, Warley F. R. Ribeiro, Kazuya Yoshida, "Path and Gait Planning of Limbed Climbing Robots for Planetary Cliff Exploration," *Proceedings of the 33rd International Symposium on Space Technology Science (ISTS)*, 2022.
 
@@ -33,9 +34,9 @@ layout: default
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "[Dynamic Equilibrium of Climbing Robots Based on Stability Polyhedron for Gravito-Inertial Acceleration](https://clawar.org/wp-content/uploads/2021/02/Clawar2020_Paper_18.pdf)", *Proceedings of the 23rd International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR)*, pp. 297--304, 2020. **(Conference Awards a Third Prize)** [[Video]](https://www.youtube.com/watch?v=0evShZIG-F4)
 
-* Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "[Gait Planning for a Free-Climbing Robot based on Tumble Stability](https://ieeexplore.ieee.org/document/8700455)", *Proceedings of the 2019 IEEE/SICE International Symposium on System Integration*, pp. 289-294, 2019.
+* **Kentaro Uno**, Warley F. R. Ribeiro, William Jones, Yuki Shirai, Hayato Minote, Kenji Nagaoka, Kazuya Yoshida, "[Gait Planning for a Free-Climbing Robot based on Tumble Stability](https://ieeexplore.ieee.org/document/8700455)", *Proceedings of the 2019 IEEE/SICE International Symposium on System Integration*, pp. 289-294, 2019.
 
-* **Kentaro Uno**, Louis-Jerome Burtz, Masafumi Endo, Kenji Nagaoka, Kazuya Yoshida, "[Quality of the 3D Point Cloud of a Time-of-Flight Camera Under Lunar Surface Illumination Conditions: Impact Improvement Techniques](/assets/files/2018isairas_uno.pdf)", *Proceedings of the 14th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, #10a-2, 2018.
+* **Kentaro Uno**, Louis-Jerome Burtz, Masafumi Endo, Kenji Nagaoka, Kazuya Yoshida, "[Quality of the 3D Point Cloud of a Time-of-Flight Camera Under Lunar Surface Illumination Conditions: Impact Improvement Techniques](https://robotics.estec.esa.int/i-SAIRAS/isairas2018/Papers/Session%2010a/2_uno-86-110-Uno-Kentaro.pdf)", *Proceedings of the 14th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, #10a-2, 2018.
 
 * **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, "[Capability of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover](/assets/files/ISTS2017_KentaroUno.pdf)", *Proceedings of the 31st International Symposium on Space Technology Science (ISTS)*, #2017-k-37, 2017.
 
@@ -47,4 +48,4 @@ layout: default
 
 Please see the [Japanese page](./pub_j.html).
 
-## [back](./)
+## [Back to Top Page](./)
