@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Publications
+# <font size="8"> Publications </font>
+
 
 ## Journals
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "[Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain](https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article)", Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, vol. 19, no. 5, pp. 794--801, 2021.

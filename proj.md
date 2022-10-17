@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Projects
+# <font size="8"> Projects </font>
 
 I am interested in the field and service robotics in the extreme environment. The followings are the main projects that I have been performing. Each detailed page will be updated soon...
 
@@ -17,20 +17,50 @@ Wheeled robotic exploration on planetary surfaces needs an innovation in terms o
 - ToF (Time-of-Flight) has not been the space-grade technology. However, optical and software filtering 
 enables to be robust under the direct sunlight illumination.
 
+- Related publication is below:
+
+- Major publication(s) related to this work is as follows:
+
+  ```
+  @article{kentaroUno2018,
+    title={Qualification of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover},
+    author={Kentaro UNO and Louis-Jerome BURTZ and Marc HULCELLE and Kazuya YOSHIDA},
+    journal={TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES, AEROSPACE TECHNOLOGY JAPAN},
+    volume={16},
+    number={7},
+    pages={619--627},
+    year={2018},
+    doi={10.2322/tastj.16.619}
+  }
+  ```
+
 ## High-Speed and High-Traversability Rover Testbed
 
-![EX-1 image](./assets/img/ex-1.png)
+<img src="assets/img/ex-1.gif" alt="ex-1.gif" border="0" align="center" hspace="0" vspace="10">
+<!-- ![EX-1 image](./assets/img/ex-1.png) -->
 
 # Legged Climbing Robotics
 
 For exploring the steep and irregular terrain represented as an outcrop, cliff wall, cave ceiling, and Lunar and Martian lava tube, the legged robot equipped with the gripping mechanism, called <I>limbed climbing robot</I> is to be the innovative strategy to expand the traversable areas by a mobile robot. For the future advanced exploration mission, this research and development project tackles the challenge to realize the autonomous limbed robot's climbing locomotion.
 
 ## HubRobo: Quadrupedal Climbing Robot Testbed
-![HubRobo picture](./assets/img/hubrobo_picture.png)
+<!-- ![HubRobo picture](./assets/img/hubrobo_picture.png) -->
+<img src="assets/img/hubrobo_gif.gif" alt="hubrobo_gif.gif" border="0" align="center" hspace="0" vspace="10">
 
 -  HubRobo is a couple kg class ground-gripping legged mobile robot platform aimed to be deployed for exploration, inspection, monitoring and so on in harsh environment. 
 - Highly energy-efficient, miniaturized, and strong passive spine grippers are installed at the tip of the each foot, which allow it to climb up rocky uneven slope.
 - **Please watch the [YouTube video](https://www.youtube.com/embed/hK9ax_vVjNc) indroducing HubRobo.**
+- Major publication(s) related to this work is as follows:
+
+  ```
+  @inproceedings{uno2021hubrobo,
+    title={HubRobo: A Lightweight Multi-Limbed Climbing Robot for Exploration in Challenging Terrain},
+    author={Kentaro Uno and Naomasa Takada and Taku Okawara and Keigo Haji and Arthur Candalot and Warley F. R. Ribeiro and Kenji Nagaoka and Kazuya Yoshida},
+    booktitle={Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)},
+    pages={209--215},
+    year={2021}
+  }
+  ```
 
 ## ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics
 
@@ -38,7 +68,7 @@ For exploring the steep and irregular terrain represented as an outcrop, cliff w
 
 | Slope climbing | Path planning | Foothold planning |
 |-------------|---------------|---------------|
-| ![ClimbLab simulation image](./assets/img/climblab_anymal_climbing_sim.png) | ![ClimbLab simulation image](./assets/img/climblab_path_planning_sim.png) | ![ClimbLab simulation image](./assets/img/climblab_gait_planning_sim.gif) |
+| <img src="assets/img/climblab_anymal_b_slope_climbing.gif" alt="climblab_anymal_b_slope_climbing.gif" border="0" align="center" hspace="0" vspace="0"> | <img src="assets/img/climblab_path_planning.gif" alt="climblab_path_planning.gif" border="0" align="center" hspace="0" vspace="0"> | <img src="assets/img/climblab_gait_planning_sim.gif" alt="climblab_gait_planning_sim.gif" border="0" align="center" hspace="0" vspace="0"> |
 
 - ClimbLab is a MATLAB simulator for the articulated robotics system particularly for climbing application.
 
@@ -53,6 +83,20 @@ For exploring the steep and irregular terrain represented as an outcrop, cliff w
   ☑ Visualization (Robot, map, support polygons, stability criterion, and time-history of any state variables) 
 
 - **ClimbLab is an open-sourced simulator. See the [GitHub page](https://github.com/Space-Robotics-Laboratory/ClimbLab).**
+
+- Major publication(s) related to this work is as follows:
+
+  ```
+  @inproceedings{uno2021climblab,
+    title={ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics},
+    author={Kentaro Uno and Warley F. R. Ribeiro and Yusuke Koizumi and Keigo Haji and Koki Kurihara and William Jones and Kazuya Yoshida},
+    booktitle={Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021},
+    pages={179--191},
+    year={2021}
+  }
+  ```
+
+- **Please watch the [YouTube video](https://www.youtube.com/watch?v=nNB8uTTsJJg)** (presented in CLAWAR conference) for more information!
 
 ## Terrain-, Inclination-, and Gravity-Adjustable Testfield
 - We can arrange any environment for the climbing robot's experiment.

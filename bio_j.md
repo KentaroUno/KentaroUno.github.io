@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# 経歴
+# <font size="8"> 経歴 </font>
 
 <!-- <img src="assets/img/srl.png" width="120"> -->
-<img src="assets/img/Toh_E_L_P_K.gif" width="100" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10">
+<img src="assets/img/Toh_E_L_P_K.gif" width="80" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10">
 <img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10">
 
 ## 職歴
