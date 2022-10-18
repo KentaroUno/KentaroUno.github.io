@@ -23,7 +23,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:36px;
 }
 
 h2 {
@@ -83,12 +83,17 @@ pre {
 table {
   width:100%;
   border-collapse:collapse;
+  border: dashed 1px #808080;
+  color: #333; /* 全体の文字色 */
+  background-color: #ffffff; /* 全体の背景色 */
+  text-align: center;
 }
 
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px dashed #808080;
+  border: solid 1px #808080; /* dashed: 点線 */
 }
 
 dt {
