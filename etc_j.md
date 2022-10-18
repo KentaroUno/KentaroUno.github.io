@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# プロジェクト
+# その他のコンテンツ
 
-日本語のページはただいま準備中です．運用開始まで，[英語のページ](./proj.html)をご覧ください．
+ここでは，個人の勉強ノートや日記・備忘録などを記録していきます．
 
 <!-- 
 I am interested in the field and service robotics in the extreme environment. The followings are the main projects that I have been performing. Each detailed page will be updated soon...

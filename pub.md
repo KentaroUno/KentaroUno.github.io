@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <font size="8"> Publications </font>
+# Publications
 
 
 ## Journals
@@ -45,7 +45,7 @@ layout: default
 
 * Takuto Oikawa, Toshiki Tanaka, John Walker, **Kentaro Uno**, Paulo Costa, Nathan Britton, Kazuya Yoshida, "Thermal Design Analysis of Conceptual Flight Model for a Lunar Exploration Rove," *Proceedings of the 13th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, 2016.
 
-### Domestic Conference Proceedings
+## Domestic Conference Proceedings
 
 Please see the [Japanese page](./pub_j.html).
 

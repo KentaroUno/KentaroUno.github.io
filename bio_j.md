@@ -2,13 +2,14 @@
 layout: default
 ---
 
-# <font size="8"> 経歴 </font>
-
-<!-- <img src="assets/img/srl.png" width="120"> -->
-<img src="assets/img/Toh_E_L_P_K.gif" width="80" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10">
-<img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10">
+# 経歴
 
 ## 職歴
+
+<!-- <img src="assets/img/srl.png" width="120"> -->
+[<img src="assets/img/Toh_E_L_P_K.gif" width="80" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10">](https://www.tohoku.ac.jp/japanese/)
+[<img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10">](http://www.astro.mech.tohoku.ac.jp/index.html)
+
 * 2021年10月 ～ 現在　東北大学　大学院工学研究科　航空宇宙工学専攻　助教 （所属：[宇宙探査工学分野「宇宙ロボット研究室」](http://www.astro.mech.tohoku.ac.jp/index.html)）
 
   ### 担当講義（東北大学）
@@ -112,5 +113,11 @@ layout: default
 * 日本計測自動制御学会
 
 * IEEE
+
+## 趣味など
+
+* 雪面滑走スポーツ（スキー，スノーボード）
+
+* コーヒー（カフェイン中毒）
 
 ## [Back to Top Page](./)

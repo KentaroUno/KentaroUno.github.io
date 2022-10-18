@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <font size="8"> Projects </font>
+# Projects
 
 I am interested in the field and service robotics in the extreme environment. The followings are the main projects that I have been performing. Each detailed page will be updated soon...
 

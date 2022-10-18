@@ -1,4 +1,28 @@
-title: <font size="4"> <a href="index.html"><span>English</span></a> | <a href="index_j.html"><span>Japanese</span></a> <br> <a href="./bio.html"><span>Biography >>>> </span></a> | <a href="bio_j.html"><span>経歴</span></a> <br> <a href="pub.html"><span>Publications >> </span></a> | <a href="pub_j.html"><span>業績</span></a> <br> <a href="proj.html"><span>Projects >>>>>> </span></a> | <a href="proj_j.html"><span>プロジェクト</span></a> </font> <br><br> Kentaro Uno <p><font size="4"> - Robotics Researcher</font></p> 
+title: <font size="4">
+  <table>
+    <tr>
+      <td> <a href="index.html"><span>English</span></a> </th>
+      <td> <a href="index_j.html"><span>Japanese</span></a> </th>
+    </tr>
+    <tr>
+      <td> <a href="./bio.html"><span>Biography </span></a> </td>
+      <td> <a href="bio_j.html"><span>経歴</span></a> </td>
+    </tr>
+    <tr>
+      <td> <a href="pub.html"><span>Publications</span></a> </td>
+      <td> <a href="pub_j.html"><span>業績</span></a> </td>
+    </tr>
+    <tr>
+      <td> <a href="proj.html"><span>Projects </span></a> </td>
+      <td> <a href="proj_j.html"><span>プロジェクト</span></a> </td>
+    </tr>
+    <tr>
+      <td colspan="2"> <a href="etc_j.html"><span>その他（勉強ノート・日記）</span></a> </td>
+    </tr>
+  </table>
+  </font>
+  <a href="/assets/files/CV.pdf">Kentaro Uno</a> <p><font size="4"> - Robotics Researcher</font></p> 
+# <font size="4"> <a href="index.html"><span>English</span></a> | <a href="index_j.html"><span>Japanese</span></a> <br> <a href="./bio.html"><span>Biography >>>> </span></a> | <a href="bio_j.html"><span>経歴</span></a> <br> <a href="pub.html"><span>Publications >> </span></a> | <a href="pub_j.html"><span>業績</span></a> <br> <a href="proj.html"><span>Projects >>>>>> </span></a> | <a href="proj_j.html"><span>プロジェクト</span></a> </font> <br><br> Kentaro Uno <p><font size="4"> - Robotics Researcher</font></p> 
 
 logo: /assets/img/bio-photo-landscape.png
 

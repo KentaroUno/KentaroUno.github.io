@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <font size="8"> 研究業績 </font>
+# 研究業績
 
 ## 学術誌論文
 
