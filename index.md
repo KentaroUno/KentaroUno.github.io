@@ -10,8 +10,8 @@ layout: default
 |:-------------|:------------------|
 | Present | Some of Japanese page and Project page are still under construction. Twitter's link is not yet available.  |
 | 2022.09.29. | Whole webpage is renewed. <span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
-| 2022.04.19. | [We will be the Japanese TV news on Apr. 19th!](https://www.mech.tohoku.ac.jp/news220419_1/) (only for Japan Tohoku area bloadcast.)<span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
-| 2022.02.17. | [We will be the Japanese TV news on Feb. 25th!](https://www.mech.tohoku.ac.jp/news210222/) (only for Japan Tohoku area bloadcast.)<span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
+| 2022.04.19. | [We will be the Japanese TV news on Apr. 19th!](https://www.mech.tohoku.ac.jp/news220419_1/) (only for Japan Tohoku area broadcast.)<span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
+| 2022.02.17. | [We will be the Japanese TV news on Feb. 25th!](https://www.mech.tohoku.ac.jp/news210222/) (only for Japan Tohoku area broadcast.)<span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
 | 2021.11.22. | Japan Tohoku area local news paper "Kahoku-Shinpo" featured our research project! |
 
 
