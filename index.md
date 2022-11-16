@@ -6,7 +6,7 @@ layout: default
 
 ## What's New
 
-| DATE        | CONTENT          |
+| DATE         | CONTENT           |
 |:-------------|:------------------|
 | Present | Some of Japanese page and Project page are still under construction. Twitter's link is not yet available.  |
 | 2022.09.29. | Whole webpage is renewed. <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
@@ -19,6 +19,7 @@ layout: default
 
 | DATE        | CONTENT          |
 |:------------|:------------------|
+| 2022.11.16. | Our two proceedings paper for the IEEE ROBIO and IEEE Aerospace Conference are accepted! ([Publication page](./pub.html)) |
 | 2022.10.15. | [Publication page](./pub.html) and [Project page](./proj.html) are updated! |
 | 2022.09.29. | Whole webpage is renewed. |
 | 2021.11.02. | Our three proceedings paper for the International Symposium on System Integration (SII) and International Symposium on Space Technology Science (ISTS) are all accepted! ([Publication page](./pub.html)) |

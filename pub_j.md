@@ -16,11 +16,11 @@ layout: default
 
 ## 国際会議発表論文および口頭発表
 
-<!-- * Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, ICRA2023 -->
+<!-- * Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, ICRA2023 -->
 
-* Andrew Price, **Kentaro Uno**, Kazuya Yoshida, "Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions," Proceedings of the 2023 IEEE Aerospace Conference, 2023. (abstract accepted)
+* Andrew Price, **Kentaro Uno**, Kazuya Yoshida, "Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions," Proceedings of the 2023 IEEE Aerospace Conference, pp. TBD, 2023. (accepted)
 
-* Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile," Proceedings of the IEEE ROBIO, 2022. (accepted)
+* Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile," Proceedings of the IEEE ROBIO, pp. TBD, 2022. (accepted)
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, "[Low-Reaction Trajectory Generation for a Legged Robot in Microgravity](https://ieeexplore.ieee.org/document/9708772)," *Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII)*, 2022.
 
