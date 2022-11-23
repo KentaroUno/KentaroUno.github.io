@@ -14,6 +14,8 @@ layout: default
 
 ## Conference Proceedings
 
+<!-- * Ayumi Umemura, **Kentaro Uno**, Shreya Santra, Miguel Angel OLIVARES MENDEZ, Kazuya Yoshida, ICVR2023 -->
+
 <!-- * Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, ICRA2023 -->
 
 * Andrew Price, **Kentaro Uno**, Kazuya Yoshida, "Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions," Proceedings of the 2023 IEEE Aerospace Conference, pp. TBD, 2023. (accepted)
@@ -22,7 +24,6 @@ layout: default
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, "[Low-Reaction Trajectory Generation for a Legged Robot in Microgravity](https://ieeexplore.ieee.org/document/9708772)," *Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII)*, 2022.
 
-
 * Keigo Haji, **Kentaro Uno**, Warley F. R. Ribeiro, Kazuya Yoshida, "Path and Gait Planning of Limbed Climbing Robots for Planetary Cliff Exploration," *Proceedings of the 33rd International Symposium on Space Technology Science (ISTS)*, 2022.
 
 * Taku Okawara, **Kentaro Uno**, Kazuya Yoshida, "Lunar Skylight Exploration by a Limbed Climbing Robot Using a Hand-Eye System," *Proceedings of the 33rd International Symposium on Space Technology Science (ISTS)*, 2022.
@@ -30,6 +31,8 @@ layout: default
 * **Kentaro Uno**, Giorgio Valsecchi, Marco Hutter, Kazuya Yoshida, "[Simulation-Based Climbing Capability Analysis for Quadrupedal Robots](https://doi.org/10.1007/978-3-030-86294-7_16)", *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 179--191, 2021. [[Video]](https://www.youtube.com/watch?v=dEEmm8hlXPU)
 
 * **Kentaro Uno**, Warley F. R. Ribeiro, Yusuke Koizumi, Keigo Haji, Koki Kurihara, William Jones, Kazuya Yoshida, "[ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics](https://doi.org/10.1007/978-3-030-86294-7_20)", *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 179--191, 2021. **(Highly Commended Paper in the 24th International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR))** [[Video]](https://www.youtube.com/watch?v=nNB8uTTsJJg)
+
+* **Kentaro Uno**, Naomasa Takada, Taku Okawara, Keigo Haji, Arthur Candalot, Warley F. R. Ribeiro, Kenji Nagaoka, Kazuya Yoshida, "[HubRobo: A Lightweight Multi-Limbed Climbing Robot for Exploration in Challenging Terrain](https://ieeexplore.ieee.org/document/9555799)", *Proceedings of the 2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids)*, pp. 209--215, 2021.
 
 * **Kentaro Uno**, Yusuke Koizumi, Keigo Haji, Maximilian Keiff, Simon Harms, Warley F. R. Ribeiro, Kenji Nagaoka, Kazuya Yoshida, "[Non-Periodic Gait Planning Based on Salient Region Detection for a Planetary Cave Exploration Robot](https://www.hou.usra.edu/meetings/isairas2020fullpapers/pdf/5027.pdf)", *Proceedings of the 15th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, #5027, 2020.
 
