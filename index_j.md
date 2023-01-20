@@ -20,6 +20,7 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
+| 2023.01.20. | Roboticsのトップ国際会議 ICRA に共著論文 "[RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity](https://arxiv.org/abs/2301.07996)" がアクセプトされました．（ [研究業績](./pub_j.html) ） |
 | 2022.11.16. | 国際会議 IEEE ROBIO と IEEE Aerospace Conference に共著論文1報がそれぞれアクセプトされました．（ [研究業績](./pub_j.html) ） |
 | 2022.10.15. | [研究業績](./pub_j.html) と [Project page](./proj.html) を更新しました． |
 | 2022.09.29. | ウェブページを刷新． |

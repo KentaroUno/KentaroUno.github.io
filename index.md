@@ -19,6 +19,7 @@ layout: default
 
 | DATE        | CONTENT          |
 |:------------|:------------------|
+| 2023.01.20. | Our proceedings paper "[RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity](https://arxiv.org/abs/2301.07996)" was accepted for ICRA! ([Publication page](./pub.html)) |
 | 2022.11.16. | Our two proceedings paper for the IEEE ROBIO and IEEE Aerospace Conference are accepted! ([Publication page](./pub.html)) |
 | 2022.10.15. | [Publication page](./pub.html) and [Project page](./proj.html) are updated! |
 | 2022.09.29. | Whole webpage is renewed. |
