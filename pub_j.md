@@ -8,7 +8,7 @@ layout: default
 
 ## 学術誌論文
 
-* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，第40回 日本ロボット学会学術講演会，#4K3-07，2022．（査読中）
+* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，第40回 日本ロボット学会学術講演会，#4K3-07，2022．（採択済み）
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "[Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain](https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article)", Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, vol. 19, no. 5, pp. 794--801, 2021.
 
@@ -53,6 +53,12 @@ layout: default
 *  Takuto Oikawa, Toshiki Tanaka, John Walker, **Kentaro Uno**, Paulo Costa, Nathan Britton, Kazuya Yoshida, "Thermal Design Analysis of Conceptual Flight Model for a Lunar Exploration Rove," *Proceedings of the 13th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, 2016.
 
 ## 国内会議発表論文および口頭発表
+
+<!-- * 髙田 一輝，**宇野 健太朗**，，吉田 和哉，“ISS船内伝い歩き移動ロボットの微小重力模擬移動実験”，ロボティクス・メカトロニクス講演会2023，#TBD，2023． -->
+
+<!-- * 竹花 佳祐，木﨑 詩乃，**宇野 健太朗**，吉田 和哉，“月面探査ローバー用グラウザ付き車輪の牽引特性評価”，ロボティクス・メカトロニクス講演会2023，#TBD，2023． -->
+
+<!-- * 澤 健太，**宇野 健太朗**，宇田 昌弘，工藤 元，David Rodriguez-Martinez，吉田 和哉，“高速走行する月惑星探査ローバーのためのサスペンション機構の開発と実験的評価”，ロボティクス・メカトロニクス講演会2023，#TBD，2023． -->
 
 * 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，第40回 日本ロボット学会学術講演会，#4K3-07，2022．（日本ロボット学会誌へのレター同時投稿オプション（査読有り）で論文発表）
 
