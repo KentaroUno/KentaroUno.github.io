@@ -14,7 +14,13 @@ layout: default
 
 ## Conference Proceedings
 
-<!-- * Ayumi Umemura, **Kentaro Uno**, Shreya Santra, Miguel Angel OLIVARES MENDEZ, Kazuya Yoshida, ICVR2023 -->
+<!-- * Ayumi Umemura, **Kentaro Uno**, Shreya Santra, Miguel Angel OLIVARES MENDEZ, Kazuya Yoshida, ICVR2023 workshop -->
+
+<!-- * Keisuke Takehana, Shino Kizaki, Kentaro Uno, Tomomi Tanaka, Gentaro Suda and Kazuya Yoshida, "Evaluation and Comparison of Driving Performance of a Lunar Exploration Rover Wheel in Different Soils," Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS), pp. TBD, 2023. -->
+
+<!-- * James Hurrell, Keisuke Takehana, Gentaro Suda, **Kentaro Uno**, Kazuya Yoshida, "Rashid Rover Discrete Element Method Simulation Analysis," Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS), pp. TBD, 2023. -->
+
+<!-- * James Hurrell, Keisuke Takehana, **Kentaro Uno**, Kazuya Yoshida, "Lunar Rover Terramechanics Simulation Study," Proceedings of the 74th International Astronautical Congress (IAC), pp. TBD, 2023. -->
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Masazumi Imai, Koki Murase, Kazuya Yoshida, "RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity," Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2023), pp. TBD, 2023. (accepted) [**(arXiv link)**](https://arxiv.org/abs/2301.07996)
 
