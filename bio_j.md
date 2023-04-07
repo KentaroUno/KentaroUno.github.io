@@ -26,6 +26,7 @@ layout: default
 * 2018年07月 ～ 2019年03月　[株式会社ispace](https://ispace-inc.com/jpn/) ソフトウェアエンジニアインターン
 
 ## 学歴
+
 * 2018年10月 ～ 2021年09月　東北大学大学院　工学研究科　航空宇宙工学専攻　博士課程後期3年の課程（博士課程）
   
   博士論文題目: "Autonomous Limbed Climbing Robots for Challenging Terrain Exploration（挑戦的地形探査のための自律脚型クライミングロボット）"，GPA: 4.00/4.00
@@ -54,19 +55,27 @@ layout: default
 
 * 加藤 匠哉，宇野 健太朗，“把持機構”，国際特願PCT/JP2022/021947，出願日：2022年5月30日．
 
-## 研究助成等
+## 研究助成・競争的資金の獲得状況等
 
-<!-- * 2023年04月 ～ 2026年03月　日本学術振興会 科学研究費補助金 若手研究
+### 研究代表者
+
+* 2023年04月 ～ 2026年03月　日本学術振興会 科学研究費補助金 若手研究
   
-  研究課題名："[つかみごたえ評価による脚型クライミングロボットの動的安定運動制御法の構築](TBD)" -->
+  研究課題名："[つかみごたえ評価による脚型クライミングロボットの動的安定運動制御法の構築](TBD)"
 
 * 2023年04月 ～ 2025年03月　公益財団法人 NSKメカトロニクス技術高度化財団 研究助成
   
-  - 研究課題名："[車輪－グリッパ間変形可能ユニットを用いたマルチモーダル移動ロボットの開発](http://www.nskfam.or.jp/objperson/2022d_develop.html)"
+  研究課題名："[車輪－グリッパ間変形可能ユニットを用いたマルチモーダル移動ロボットの開発](http://www.nskfam.or.jp/objperson/2022d_develop.html)"
+
+<!-- * 2023年04月 ～ 2024年03月　公益財団法人JKA 機械工業振興補助事業研究補助（若手研究）
+
+  研究課題名："[ピン配列型把持機構を応用したクライミングロボットの研究開発](TBD)" -->
 
 * 2019年04月 ～ 2022年03月　日本学術振興会 科学研究費助成事業（科研費）特別研究員奨励費
   
-  - 研究課題名："[地形情報とグリッパの力学にもとづくフリークライミングロボットの自律制御原理の開拓](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J20685/)"
+  研究課題名："[地形情報とグリッパの力学にもとづくフリークライミングロボットの自律制御原理の開拓](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J20685/)"
+
+### 研究助成
 
 * 2018年10月 ～ 2021年09月　東北大学 [機械科学技術国際共同大学院](http://www.spss.or.jp/support/ryohi.html)
 
@@ -83,6 +92,8 @@ layout: default
 * 2019年03月　[日本機械学会 三浦賞](https://www.jsme.or.jp/event_project/award/miura-award)（日本国内の大学院機械工学系の当該年度修了者で，人格，学業ともに最も優秀である と認められた者）
 
 ## メディア出演・掲載など
+
+* 2023年03月02日【新聞掲載】日本経済新聞　宇宙空間向けAI開発へ（AI inside株式会社さまとの共同研究について）
 
 * 2022年04月20日【TV出演】東北大　世界をリードする宇宙研究　月面探査ロボット＆帰還型人工衛星開発，チャージ！（khb東日本放送）．
 
@@ -104,13 +115,15 @@ layout: default
 * 2022年01月25日　札幌市立中央中学校　総合的な学習の時間（学外講師として授業参加）
 
 
-## 共同研究先
+## 共同研究先（敬称略）
 
-* Robotics Systems Lab., Department of Mechanical and Process Engineering,ETH Zurich (Zürich, Switzerland)
+* Robotics Systems Lab., Department of Mechanical and Process Engineering, ETH Zurich (Zürich, Switzerland)
 
 * JAXA 有人宇宙技術部門 有人宇宙技術センター
 
 * 川崎重工業株式会社
+
+* AI inside 株式会社 
 
 ## 所属学会
 

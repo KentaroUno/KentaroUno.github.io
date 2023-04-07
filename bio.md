@@ -57,21 +57,31 @@ layout: default
 
 ## Funding
 
-<!-- * 2023年04月 ～ 2026年03月　日本学術振興会 科学研究費補助金 若手研究
+### Principal Investigator
+
+* Apr. 2023 -- Mar. 2026　　Grant-in-Aid for Early-Career Scientists, Grants-in-Aid for Scientific Research (KAKENHI).
   
-  研究課題名："[つかみごたえ評価による脚型クライミングロボットの動的安定運動制御法の構築](TBD)" -->
+  - "[Dynamically Stable Legged Climbing Locomotion by Grasping Performance Evaluation]()"
 
 * Apr. 2023 -- Mar. 2025　　NSK Foundation for Advancement of Mechatronics
   
   - "[Development of a Multimodal Mobile Robot using a Transformable Unit between a Wheel and Gripper](http://www.nskfam.or.jp/objperson/2022d_develop.html)"
 
+<!-- * Apr. 2023 -- Mar. 2024    JKA Research Grant for Young Researchers
+
+  - "Research and Development of a Climbing Robot with the Application of a Pin-Array Gripping Mechanism" -->
+
 * Apr. 2019 -- Mar. 2022　　Grant-in-Aid for JSPS Fellows, Grants-in-Aid for Scientific Research (KAKENHI).
   
   - "[Autonomous Gait Control for a Free-Climbing Robot in Consideration of the Terrain Information and the Gripping Mechanics](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19J20685/)"
 
-* Oct. 2018 -- Sep. 2021　　Tohoku University [GP-mech Program](http://gp-mech.tohoku.ac.jp/)
+### Academic Grant
 
-* Apr. 2018　[Society for Promotion of Space Science](http://www.spss.or.jp/support/ryohi.html), Japan
+* Apr. 2019 -- Mar. 2022　　Japan Society for the Promotion of Science (JSPS), [Research Fellowships for Young Scientists, Doctoral Course (DC1)](https://www.jsps.go.jp/english/e-pd/), Japan.
+
+* Oct. 2018 -- Sep. 2021　　Tohoku University [GP-mech Program](http://gp-mech.tohoku.ac.jp/), Japan.
+
+* Apr. 2018　[Society for Promotion of Space Science](http://www.spss.or.jp/support/ryohi.html), Japan.
 
 ## Award
 

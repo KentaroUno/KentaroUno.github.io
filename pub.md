@@ -24,7 +24,7 @@ layout: default
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Masazumi Imai, Koki Murase, Kazuya Yoshida, "RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity," Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2023), pp. TBD, 2023. (accepted) [**(arXiv link)**](https://arxiv.org/abs/2301.07996)
 
-* Andrew Price, **Kentaro Uno**, Kazuya Yoshida, "Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions," Proceedings of the 2023 IEEE Aerospace Conference, pp. TBD, 2023. (accepted)
+* Andrew Price, **Kentaro Uno**, Kazuya Yoshida, "Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions," Proceedings of the 2023 IEEE Aerospace Conference, pp. TBD, 2023.
 
 * Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile," Proceedings of the IEEE ROBIO, pp. TBD, 2022. (accepted)
 
