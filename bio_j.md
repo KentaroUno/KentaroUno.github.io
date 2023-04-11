@@ -7,10 +7,11 @@ layout: default
 ## 職歴
 
 <!-- <img src="assets/img/srl.png" width="120"> -->
-[<img src="assets/img/Toh_E_L_P_K.gif" width="80" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10">](https://www.tohoku.ac.jp/japanese/)
-[<img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10">](http://www.astro.mech.tohoku.ac.jp/index.html)
+<a href="https://www.tohoku.ac.jp/japanese/" target="_blank">
+<img src="assets/img/Toh_E_L_P_K.gif" width="80" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10"></a>
+<a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank"><img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10"></a>
 
-* 2021年10月 ～ 現在　東北大学　大学院工学研究科　航空宇宙工学専攻　助教 （所属：[宇宙探査工学分野「宇宙ロボット研究室」](http://www.astro.mech.tohoku.ac.jp/index.html)）
+* 2021年10月 ～ 現在　東北大学　大学院工学研究科　航空宇宙工学専攻　助教 （所属：<a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank">宇宙探査工学分野「宇宙ロボット研究室」</a>）
 
   ### 担当講義（東北大学）
   - 2022年04月 ～ 現在　機械知能・航空実験Ⅰ：工学部 機械知能・航空工学科3年生
@@ -43,13 +44,13 @@ layout: default
 
 ## 研究業績
 
-* これまでの研究業績は [こちら](pub_j.html)
+* これまでの研究業績は <a href="pub.html" target="_blank">こちら</a>
 
-* Google Scholar Citationsは [こちら](https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ)
+* Google Scholar Citationsは <a href="https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ" target="_blank">こちら</a>
 
-* SCOPUSは [こちら](https://www.scopus.com/authid/detail.uri?authorId=57208746798)
+* SCOPUSは <a href="https://www.scopus.com/authid/detail.uri?authorId=57208746798" target="_blank">こちら</a>
 
-* researchmap [こちら](https://researchmap.jp/unoken)
+* researchmapは <a href="https://researchmap.jp/unoken" target="_blank">こちら</a>
 
 ## 特許
 
@@ -61,25 +62,27 @@ layout: default
 
 * 2023年04月 ～ 2026年03月　日本学術振興会 科学研究費補助金 若手研究
   
-  研究課題名："[つかみごたえ評価による脚型クライミングロボットの動的安定運動制御法の構築](TBD)"
+  研究課題名："つかみごたえ評価による脚型クライミングロボットの動的安定運動制御法の構築"
 
 * 2023年04月 ～ 2025年03月　公益財団法人 NSKメカトロニクス技術高度化財団 研究助成
   
-  研究課題名："[車輪－グリッパ間変形可能ユニットを用いたマルチモーダル移動ロボットの開発](http://www.nskfam.or.jp/objperson/2022d_develop.html)"
+  研究課題名："<a href="http://www.nskfam.or.jp/objperson/2022d_develop.html" target="_blank">車輪－グリッパ間変形可能ユニットを用いたマルチモーダル移動ロボットの開発</a>"
 
-<!-- * 2023年04月 ～ 2024年03月　公益財団法人JKA 機械工業振興補助事業研究補助（若手研究）
+* 2023年04月 ～ 2024年03月　公益財団法人JKA 機械工業振興補助事業研究補助（若手研究）
 
-  研究課題名："[ピン配列型把持機構を応用したクライミングロボットの研究開発](TBD)" -->
+  研究課題名："<a href="https://hojo.keirin-autorace.or.jp/about/list/kikai/2023/index.html" target="_blank">ピン配列型把持機構を応用したクライミングロボットの研究開発</a>"
 
 * 2019年04月 ～ 2022年03月　日本学術振興会 科学研究費助成事業（科研費）特別研究員奨励費
   
-  研究課題名："[地形情報とグリッパの力学にもとづくフリークライミングロボットの自律制御原理の開拓](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J20685/)"
+  研究課題名："<a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J20685/" target="_blank">地形情報とグリッパの力学にもとづくフリークライミングロボットの自律制御原理の開拓</a>"
 
 ### 研究助成
 
-* 2018年10月 ～ 2021年09月　東北大学 [機械科学技術国際共同大学院](http://www.spss.or.jp/support/ryohi.html)
+* 2019年04月 ～ 2021年09月　<a href="https://www.jsps.go.jp/j-pd/pd_gaiyo.html" target="_blank">日本学術振興会 特別研究員DC1</a> 
 
-* 2018年04月　公益財団法人 宇宙科学振興会 研究者支援 国際学会出席旅費支援
+* 2018年10月 ～ 2021年09月　東北大学 <a href="http://gp-mech.tohoku.ac.jp/" target="_blank">機械科学技術国際共同大学院</a>
+
+* 2018年04月　公益財団法人 <a href="http://www.spss.or.jp/support/ryohi.html" target="_blank">宇宙科学振興会 研究者支援 国際学会出席旅費支援</a>
 
 ## 受賞歴
 
@@ -89,7 +92,7 @@ layout: default
 
 * 2020年03月　計測自動制御学会 東北支部 優秀発表奨励賞（第328回計測自動制御学会東北支部研究集会において）
 
-* 2019年03月　[日本機械学会 三浦賞](https://www.jsme.or.jp/event_project/award/miura-award)（日本国内の大学院機械工学系の当該年度修了者で，人格，学業ともに最も優秀である と認められた者）
+* 2019年03月　<a href="https://www.jsme.or.jp/event_project/award/miura-award" target="_blank">日本機械学会 三浦賞</a>（日本国内の大学院機械工学系の当該年度修了者で，人格，学業ともに最も優秀である と認められた者）
 
 ## メディア出演・掲載など
 
@@ -99,13 +102,13 @@ layout: default
 
 * 2022年02月25日【TV出演】ミヤギ news every. (ミヤギテレビ)．（月面探査ロッククライミングロボットの研究開発を紹介）
 
-* 2021年11月21日【新聞掲載】[未来をつくる科学の力（１）宇宙探査ロボット開発，河北新報社　こども新聞](https://kahoku.news/articles/20211122khn000012.html)．
+* 2021年11月21日【新聞掲載】<a href="https://kahoku.news/articles/20211122khn000012.html" target="_blank">未来をつくる科学の力（１）宇宙探査ロボット開発，河北新報社　こども新聞</a>．
 
-* 2021年02月26日【Webメディア出演】 [東北大学 「震災 10年の知と未来事業」による第４回オンラインシンポジウム「探究と生きる」](https://www.youtube.com/watch?v=aUklRM_V4x8)，東北大学．（ドキュメンタリー 内にて研究プロジェクト紹介）
+* 2021年02月26日【Webメディア出演】<a href="https://www.youtube.com/watch?v=aUklRM_V4x8" target="_blank">東北大学 「震災 10年の知と未来事業」による第４回オンラインシンポジウム「探究と生きる」</a>，東北大学（ドキュメンタリー内にて研究プロジェクト紹介）．
 
-* 2017年08月27日【雑誌掲載】日本の大学における早期卒業制度に関して体験をもとに紹介，[朝日新聞出版AERA](https://dot.asahi.com/aera/2017082400063.html?page=1)．
+* 2017年08月27日【雑誌掲載】<a href="https://dot.asahi.com/aera/2017082400063.html?page=1" target="_blank">朝日新聞出版AERA</a>（日本の大学における早期卒業制度に関して体験をもとに紹介）．
 
-* 2017年03月01日【TV出演】1億人の大質問！？笑ってコラえて！（日本テレビ）．（月面探査ローバーの研究開発を紹介）
+* 2017年03月01日【TV出演】1億人の大質問！？笑ってコラえて！（日本テレビ）（月面探査ローバーの研究開発を紹介）．
 
 
 ## その他の活動

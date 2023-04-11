@@ -7,11 +7,11 @@ layout: default
 ## Work Experience
 
 <!-- <img src="assets/img/srl.png" width="120"> -->
-[<img src="assets/img/Toh_E_L_P_K.gif" width="80" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10">](https://www.tohoku.ac.jp/en/)
-[<img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10">](http://www.astro.mech.tohoku.ac.jp/e/index.html)
+<a href="https://www.tohoku.ac.jp/en/" target="_blank"><img src="assets/img/Toh_E_L_P_K.gif" width="80" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10"></a>
+<a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank"><img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10"></a>
 
 
-* Oct. 2021 -- Today　Assistant Professor, Graduate School of Engineering, Tohoku University. (Lab: [Space Robotics Laboratory](http://www.astro.mech.tohoku.ac.jp/e/index.html))
+* Oct. 2021 -- Today　Assistant Professor, Graduate School of Engineering, Tohoku University. (Lab: <a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank">Space Robotics Laboratory</a>)
 
   ### Lectures (Tohoku University)
   - Apr. 2022 -- Today　Laboratory Experiment I: for undergraduates
@@ -24,7 +24,7 @@ layout: default
 
 * Apr. 2019 -- Sep. 2021　JSPS Research Fellowship for Young Scientists DC1
 
-* Jul. 2018 -- Mar. 2019　Software Engineer Intern, [ispace inc.](https://ispace-inc.com)
+* Jul. 2018 -- Mar. 2019　Software Engineer Intern, <a href="https://ispace-inc.com" target="_blank">ispace inc.</a>
 
 ## Education
 * Oct. 2018 -- Sep. 2021　Ph.D. in Aerospace Engineering @Tohoku University (Sendai, Japan)
@@ -43,13 +43,13 @@ layout: default
 
 ## Publications
 
-* Publication list is [here](pub.html)
+* Publication list is <a href="pub.html" target="_blank">here</a>
 
-* My Google Scholar Citations are [here](https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ)
+* My Google Scholar Citations are <a href="https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ" target="_blank">here</a>
 
-* My SCOPUS is [here](https://www.scopus.com/authid/detail.uri?authorId=57208746798)
+* My SCOPUS is <a href="https://www.scopus.com/authid/detail.uri?authorId=57208746798" target="_blank">here</a>
 
-* My researchmap is [here](https://researchmap.jp/unoken)
+* My researchmap is <a href="https://researchmap.jp/unoken" target="_blank">here</a>
 
 ## Patent
 
@@ -61,27 +61,27 @@ layout: default
 
 * Apr. 2023 -- Mar. 2026　　Grant-in-Aid for Early-Career Scientists, Grants-in-Aid for Scientific Research (KAKENHI).
   
-  - "[Dynamically Stable Legged Climbing Locomotion by Grasping Performance Evaluation]()"
+  - "Dynamically Stable Legged Climbing Locomotion by Grasping Performance Evaluation"
 
 * Apr. 2023 -- Mar. 2025　　NSK Foundation for Advancement of Mechatronics
   
-  - "[Development of a Multimodal Mobile Robot using a Transformable Unit between a Wheel and Gripper](http://www.nskfam.or.jp/objperson/2022d_develop.html)"
+  - "<a href="http://www.nskfam.or.jp/objperson/2022d_develop.html" target="_blank">Development of a Multimodal Mobile Robot using a Transformable Unit between a Wheel and Gripper</a>"
 
-<!-- * Apr. 2023 -- Mar. 2024    JKA Research Grant for Young Researchers
+* Apr. 2023 -- Mar. 2024    JKA Research Grant for Young Researchers
 
-  - "Research and Development of a Climbing Robot with the Application of a Pin-Array Gripping Mechanism" -->
+  - "<a href="https://hojo.keirin-autorace.or.jp/about/list/kikai/2023/index.html" target="_blank">Research and Development of a Climbing Robot with the Application of a Pin-Array Gripping Mechanism</a>"
 
 * Apr. 2019 -- Mar. 2022　　Grant-in-Aid for JSPS Fellows, Grants-in-Aid for Scientific Research (KAKENHI).
   
-  - "[Autonomous Gait Control for a Free-Climbing Robot in Consideration of the Terrain Information and the Gripping Mechanics](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19J20685/)"
+  - "<a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19J20685/" target="_blank">Autonomous Gait Control for a Free-Climbing Robot in Consideration of the Terrain Information and the Gripping Mechanics</a>"
 
 ### Academic Grant
 
-* Apr. 2019 -- Mar. 2022　　Japan Society for the Promotion of Science (JSPS), [Research Fellowships for Young Scientists, Doctoral Course (DC1)](https://www.jsps.go.jp/english/e-pd/), Japan.
+* Apr. 2019 -- Sep. 2021　　Japan Society for the Promotion of Science (JSPS), <a href="https://www.jsps.go.jp/english/e-pd/" target="_blank">Research Fellowships for Young Scientists, Doctoral Course (DC1)</a>, Japan.
 
-* Oct. 2018 -- Sep. 2021　　Tohoku University [GP-mech Program](http://gp-mech.tohoku.ac.jp/), Japan.
+* Oct. 2018 -- Sep. 2021　　Tohoku University <a href="http://gp-mech.tohoku.ac.jp/" target="_blank">GP-mech Program</a>, Japan.
 
-* Apr. 2018　[Society for Promotion of Space Science](http://www.spss.or.jp/support/ryohi.html), Japan.
+* Apr. 2018　<a href="http://www.spss.or.jp/support/ryohi.html" target="_blank">Society for Promotion of Space Science</a>, Japan.
 
 ## Award
 
@@ -93,7 +93,7 @@ layout: default
 * Mar. 2020　The Society of Instrument and Control Engineers Tohoku Chapter, The Best
 	Presentation Award (For the most excellent presentation in the 328th SICE Tohoku chapter workshop)
 
-* Mar. 2019　[The Japan Society of Mechanical Engineering (JSME), Miura Award](https://www.jsme.or.jp/event_project/award/miura-award) (For the most excellent student in personality and academic learning in each department)
+* Mar. 2019　<a href="https://www.jsme.or.jp/event_project/award/miura-award" target="_blank">The Japan Society of Mechanical Engineering (JSME), Miura Award</a> (For the most excellent student in personality and academic learning in each department)
 
 <!-- ## メディア出演・掲載など
 

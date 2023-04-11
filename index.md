@@ -19,6 +19,7 @@ layout: default
 
 | DATE        | CONTENT          |
 |:------------|:------------------|
+| 2023.04.11. | The information of research grant is updated. ([Biography page](./bio.html)) |
 | 2023.03.16. | The information of research grant is updated. ([Biography page](./bio.html)) |
 | 2023.01.20. | Our ICRA workshop webpage is now open! "[Heterogeneous multi-robot cooperation for exploration and science in extreme environments](https://espace.epfl.ch/hermes/)" |
 | 2023.01.20. | Our proceedings paper "[RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity](https://arxiv.org/abs/2301.07996)" was accepted for ICRA! ([Publication page](./pub.html)) |

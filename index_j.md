@@ -20,6 +20,7 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
+| 2023.04.11. | 研究助成に関する情報を更新しました（ [経歴](./bio_j.html) ） |
 | 2023.03.16. | 研究助成に関する情報を更新しました（ [経歴](./bio_j.html) ） |
 | 2023.01.20. | Roboticsのトップ国際会議 ICRA にてWorkshop: "[Heterogeneous multi-robot cooperation for exploration and science in extreme environments](https://espace.epfl.ch/hermes/)" をハイブリッド開催します． |
 | 2023.01.20. | Roboticsのトップ国際会議 ICRA に共著論文 "[RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity](https://arxiv.org/abs/2301.07996)" がアクセプトされました．（ [研究業績](./pub_j.html) ） |

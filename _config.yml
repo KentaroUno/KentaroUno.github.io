@@ -21,13 +21,14 @@ title: <font size="4">
     </tr>
   </table>
   </font>
-  <a href="/assets/files/CV.pdf">Kentaro Uno</a> <p><font size="4"> - Robotics Researcher</font></p> 
+  <a href="/assets/files/CV.pdf">Kentaro Uno</a> <p><font size="4"> -- Robotics Researcher</font></p> 
 # <font size="4"> <a href="index.html"><span>English</span></a> | <a href="index_j.html"><span>Japanese</span></a> <br> <a href="./bio.html"><span>Biography >>>> </span></a> | <a href="bio_j.html"><span>経歴</span></a> <br> <a href="pub.html"><span>Publications >> </span></a> | <a href="pub_j.html"><span>業績</span></a> <br> <a href="proj.html"><span>Projects >>>>>> </span></a> | <a href="proj_j.html"><span>プロジェクト</span></a> </font> <br><br> Kentaro Uno <p><font size="4"> - Robotics Researcher</font></p> 
 
 logo: /assets/img/bio-photo-landscape.png
 
-description: I am a researcher. My research interests are in the robotics in the harsh environment such as space and unstructured terrain. <div class="cv" target="_blank">Feel free to download my <a href="/assets/files/CV.pdf">CV</a> (Contact info. is in it.).<br> <br> My <a href="https://www.linkedin.com/in/unoken/">LinkedIn</a> is also available. <br> <br> Kentaro Uno All Rights Reserved.
-
+description: I am a researcher. My research interests are in the robotics in the harsh environment such as space and unstructured terrain. <p> <div class="cv" target="_blank">Feel free to download my <a href="/assets/files/CV.pdf">CV</a> (Contact info. is in it.). </p> <p> &emsp; <a href="https://jka-cycle.jp" target="_blank"><img src="/assets/img/banner2.png"></a> <br> &emsp; <a href="https://keirin.jp/pc/top" target="_blank"><img src="/assets/img/keirinjp_banner_pc.gif"></a> <br> <small>  Some projects are supported by JKA and its promotion funds from KEIRIN RACE. </small> </p> <p> Kentaro Uno All Rights Reserved. </p>
+# <p> My <a href="https://www.linkedin.com/in/unoken/" target="_blank">LinkedIn</a> is also available. </p>
+# <div style="line-height:1em;"> xxxx </div> 
 show_downloads:
 
 google_analytics:
