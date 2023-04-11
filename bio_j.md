@@ -68,7 +68,7 @@ layout: default
   
   研究課題名："<a href="http://www.nskfam.or.jp/objperson/2022d_develop.html" target="_blank">車輪－グリッパ間変形可能ユニットを用いたマルチモーダル移動ロボットの開発</a>"
 
-* 2023年04月 ～ 2024年03月　公益財団法人JKA 機械工業振興補助事業研究補助（若手研究）
+* 2023年04月 ～ 2024年03月　公益財団法人JKA 機械振興補助事業 研究補助（若手研究）
 
   研究課題名："<a href="https://hojo.keirin-autorace.or.jp/about/list/kikai/2023/index.html" target="_blank">ピン配列型把持機構を応用したクライミングロボットの研究開発</a>"
 
