@@ -60,8 +60,8 @@ layout: default
 ### Principal Investigator
 
 * Apr. 2023 -- Mar. 2026　　Grant-in-Aid for Early-Career Scientists, Grants-in-Aid for Scientific Research (KAKENHI).
-  
-  - "Dynamically Stable Legged Climbing Locomotion by Grasping Performance Evaluation"
+
+  - "<a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K13281/" target="_blank">Dynamically Stable Legged Climbing Locomotion by Grasping Performance Evaluation</a>"
 
 * Apr. 2023 -- Mar. 2025　　NSK Foundation for Advancement of Mechatronics
   
