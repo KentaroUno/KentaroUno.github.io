@@ -40,7 +40,7 @@ layout: default
 
 * **Kentaro Uno**, Giorgio Valsecchi, Marco Hutter, Kazuya Yoshida, "[Simulation-Based Climbing Capability Analysis for Quadrupedal Robots](https://doi.org/10.1007/978-3-030-86294-7_16)", *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 179--191, 2021. [[Video]](https://www.youtube.com/watch?v=dEEmm8hlXPU)
 
-* **Kentaro Uno**, Warley F. R. Ribeiro, Yusuke Koizumi, Keigo Haji, Koki Kurihara, William Jones, Kazuya Yoshida, "[ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics](https://doi.org/10.1007/978-3-030-86294-7_20)", *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 179--191, 2021. **(Highly Commended Paper in the 24th International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR))** [[Video]](https://www.youtube.com/watch?v=nNB8uTTsJJg)
+* **Kentaro Uno**, Warley F. R. Ribeiro, Yusuke Koizumi, Keigo Haji, Koki Kurihara, William Jones, Kazuya Yoshida, "[ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics](https://doi.org/10.1007/978-3-030-86294-7_20)", *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 179--191, 2021. **<span style="color: #002266">(Highly Commended Paper in the 24th International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR))</span>** [[Video]](https://www.youtube.com/watch?v=nNB8uTTsJJg)
 
 * **Kentaro Uno**, Naomasa Takada, Taku Okawara, Keigo Haji, Arthur Candalot, Warley F. R. Ribeiro, Kenji Nagaoka, Kazuya Yoshida, "[HubRobo: A Lightweight Multi-Limbed Climbing Robot for Exploration in Challenging Terrain](https://ieeexplore.ieee.org/document/9555799)", *Proceedings of the 2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids)*, pp. 209--215, 2021.
 
@@ -80,13 +80,13 @@ layout: default
 
 * 今井 正純，**宇野 健太朗**，Warley F. R. Ribeiro，山口 正光 ピヨトル，板倉 理一，和田 勝，吉田 和哉，“ISS船内移動ロボットのための脚構成検討と歩容計画”，ロボティクス・メカトロニクス講演会2022，#1P1-H06，2022．  
 
-* **宇野 健太朗**，大河原 拓，髙田 尚昌，Warley F. R. Ribeiro，羽地 啓悟，吉田 和哉，“HubRobo: 崖登り探査を可能とする脚型ロボットの研究開発”，第65回宇宙科学技術連合講演会，#3K18，2021．
+* **宇野 健太朗**，大河原 拓，髙田 尚昌，Warley F. R. Ribeiro，羽地 啓悟，吉田 和哉，“HubRobo: 崖登り探査を可能とする脚型ロボットの研究開発”，第65回宇宙科学技術連合講演会，#3K18，2021．**<a href="https://branch.jsass.or.jp/ukaren65/%e8%8b%a5%e6%89%8b%e5%a5%a8%e5%8a%b1%e8%b3%9e%e5%8f%97%e8%b3%9e%e8%80%85/" target="_blank">（若手奨励賞優秀賞）</a>**
 
 * 大河原 拓，**宇野 健太朗**，髙田 尚昌，吉田 和哉，“ハンドアイカメラを用いた脚型クライミングロボットのための把持状態判定手法”，第331回 計測自動制御学会 東北支部研究集会，#331-2，2021．
 
 * 比内 俊樹，**宇野 健太朗**，吉田 和哉，“鉤爪型グリッパを有するクライミングロボットのための機械学習を用いた把持状態判定手法”，第21回 計測自動制御学会 システムインテグレーション部門講演会，#1H3-04，2020．
 
-* **宇野 健太朗**，錦織 広樹，Arthur Candalot，Louis Mamelle，吉田 和哉，“フリークライミングロボットのための不整地登攀実験環境の設計と開発”，第328回 計測自動制御学会 東北支部研究集会，#328-1，2020．（優秀発表奨励賞）
+* **宇野 健太朗**，錦織 広樹，Arthur Candalot，Louis Mamelle，吉田 和哉，“フリークライミングロボットのための不整地登攀実験環境の設計と開発”，第328回 計測自動制御学会 東北支部研究集会，#328-1，2020．**<span style="color: #002266">（優秀発表奨励賞）</span>**
 
 * **宇野 健太朗**，Warley F. R. Ribeiro，白井 有樹，永岡 健司，吉田 和哉，“フリークライミングロボットのための歩容計画法の提案”，第19回 計測自動制御学会 システムインテグレーション部門講演会，2018．
 
