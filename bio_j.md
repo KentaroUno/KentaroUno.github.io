@@ -87,7 +87,7 @@ layout: default
 
 ## 受賞歴
 
-* 2022年01月　若手奨励賞優秀賞，日本航空宇宙学会 （第65回宇宙科学技術連合講演会において）
+* 2022年01月　<a href="https://branch.jsass.or.jp/ukaren65/%e8%8b%a5%e6%89%8b%e5%a5%a8%e5%8a%b1%e8%b3%9e%e5%8f%97%e8%b3%9e%e8%80%85/" target="_blank">若手奨励賞優秀賞</a>，日本航空宇宙学会 （第65回宇宙科学技術連合講演会において）
 
 * 2021年09月　The 24th International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR), The Highly Commended Paper, 2021. (For the excellent paper in the conference) 
 
@@ -127,11 +127,13 @@ layout: default
 
 * 川崎重工業株式会社
 
-* AI inside 株式会社 
+* AI inside 株式会社
 
 ## 所属学会
 
 * 日本機械学会
+
+* 日本ロボット学会
 
 * 日本航空宇宙学会
 
