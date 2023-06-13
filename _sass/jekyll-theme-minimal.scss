@@ -2,10 +2,10 @@
 @import "rouge-github";
 
 body {
-  background-color: #e5e5e5;
+  background-color: #c0c0c0;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#6c6c6c; // this is the main text color
+  color:#333333; // this is the main text color
   font-weight:400;
 }
 
@@ -85,7 +85,7 @@ table {
   border-collapse:collapse;
   border: dashed 1px #333333;
   color: #333333; /* 全体の文字色 */
-  background-color: #f8f8f8; /* 全体の背景色 */
+  background-color: #dddddd; /* 全体の背景色 */
   text-align: center;
 }
 
