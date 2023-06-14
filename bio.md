@@ -128,6 +128,8 @@ layout: default
 
 * JSME (The Japan Society for Aeronautical and Space Sciences)
 
+* RSJ (The Robotics Society of Japan)
+
 * JSASS (The Japan Society of Mechanical Engineers)
 
 * SICE (The Society of Instrument and Control Engineers)
