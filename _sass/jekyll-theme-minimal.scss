@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: #c0c0c0;
+  background-color: #eeeeee;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#333333; // this is the main text color
@@ -18,25 +18,34 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+  p.small{
+    font-size:12px;
+    line-height:1.2;
+  }
+
 h1, h2, h3 {
-  line-height:1.1;
+  line-height:1.2;
+  font-weight:1000;
 }
 
 h1 {
   font-size:36px;
+  color:#333333;
 }
 
 h2 {
+  font-size:24px;
   color:#333333;
 }
 
 h3, h4, h5, h6 {
+  font-size:20px;
   color:#333333;
 }
 
 a {
   color:#002060;
-  text-decoration:underline;
+  text-decoration:none;
 }
 
 a:hover, a:focus {
@@ -56,7 +65,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:1080px; /* 全体のページ幅 */
   margin:0 auto;
 }
 
@@ -83,9 +92,9 @@ pre {
 table {
   width:100%;
   border-collapse:collapse;
-  border: dashed 1px #333333;
+  border: dashed 1px #333333; /* dashed: 点線 */
   color: #333333; /* 全体の文字色 */
-  background-color: #dddddd; /* 全体の背景色 */
+  background-color: #eeeeee; /* 全体の背景色 */
   text-align: center;
 }
 
@@ -93,7 +102,7 @@ th, td {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px dashed #333333;
-  border: solid 1px #333333; /* dashed: 点線 */
+  border: dashed 1px #333333; /* dashed: 点線 */
 }
 
 dt {
@@ -124,7 +133,7 @@ kbd {
 }
 
 header {
-  width:270px;
+  width:320px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -191,13 +200,14 @@ strong {
 }
 
 section {
-  width:500px;
+  width:680px; /* ページ右側の記事の横幅 */
   float:right;
   padding-bottom:50px;
 }
 
 small {
   font-size:11px;
+  line-height:95%;
 }
 
 hr {
@@ -208,7 +218,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:540px;
   float:left;
   position:fixed;
   bottom:50px;

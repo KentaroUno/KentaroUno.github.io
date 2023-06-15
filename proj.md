@@ -6,11 +6,11 @@ layout: default
 
 I am interested in the field and service robotics in the extreme environment. The followings are the main projects that I have been performing. Each detailed page will be updated soon...
 
-# Lunar/Planetary Exploration Rover
+## Lunar/Planetary Exploration Rover
 
 Wheeled robotic exploration on planetary surfaces needs an innovation in terms of the efficiency and locomotion speed for advanced mission. Increse of the ratio of the on-board autonomization (sensing, mapping, localization, online path planning, and navigation) is the essential mission.
 
-## Qualification and Implementation of Time-of-Flight Camera for Space Exploration Microrover
+### Qualification and Implementation of Time-of-Flight Camera for Space Exploration Microrover
 
 ![ToF camera testing image](./assets/img/tof_testing.png)
 
@@ -34,16 +34,16 @@ enables to be robust under the direct sunlight illumination.
   }
   ```
 
-## High-Speed and High-Traversability Rover Testbed
+### High-Speed and High-Traversability Rover Testbed
 
 <img src="assets/img/ex-1.gif" alt="ex-1.gif" border="0" align="center" hspace="0" vspace="10">
 <!-- ![EX-1 image](./assets/img/ex-1.png) -->
 
-# Legged Climbing Robotics
+## Legged Climbing Robotics
 
 For exploring the steep and irregular terrain represented as an outcrop, cliff wall, cave ceiling, and Lunar and Martian lava tube, the legged robot equipped with the gripping mechanism, called <I>limbed climbing robot</I> is to be the innovative strategy to expand the traversable areas by a mobile robot. For the future advanced exploration mission, this research and development project tackles the challenge to realize the autonomous limbed robot's climbing locomotion.
 
-## HubRobo: Quadrupedal Climbing Robot Testbed
+### HubRobo: Quadrupedal Climbing Robot Testbed
 <!-- ![HubRobo picture](./assets/img/hubrobo_picture.png) -->
 <img src="assets/img/hubrobo_gif.gif" alt="hubrobo_gif.gif" border="0" align="center" hspace="0" vspace="10">
 
@@ -62,7 +62,7 @@ For exploring the steep and irregular terrain represented as an outcrop, cliff w
   }
   ```
 
-## ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics
+### ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics
 
 ![ClimbLab simulation image](./assets/img/climblab.png)
 
@@ -98,7 +98,7 @@ For exploring the steep and irregular terrain represented as an outcrop, cliff w
 
 - **Please watch the [YouTube video](https://www.youtube.com/watch?v=nNB8uTTsJJg)** (presented in CLAWAR conference) for more information!
 
-## Terrain-, Inclination-, and Gravity-Adjustable Testfield
+### Terrain-, Inclination-, and Gravity-Adjustable Testfield
 - We can arrange any environment for the climbing robot's experiment.
 
 ![Testfield image](./assets/img/testfield.png)
@@ -108,16 +108,16 @@ For exploring the steep and irregular terrain represented as an outcrop, cliff w
 
 - International Space Station -->
 
-## Sensorized Spined Gripper
+### Sensorized Spined Gripper
 ![Sensorized Spined Gripper](./assets/img/sensorized_gripper.png)
 
-# Robotic Active Debris Removal in Orbit
+## Robotic Active Debris Removal in Orbit
 
 Active Debris Removal (ADR) is the essential theme towards the sustainable orbital activity.
 
 ... (detail information still under constuction) ...
 
-## Structure-from-Motion-based Spacecraft Pose Estimation
+### Structure-from-Motion-based Spacecraft Pose Estimation
 ![Structure from Motion](./assets/img/sfm.png)
 
 ## [Back to Top Page](./)
