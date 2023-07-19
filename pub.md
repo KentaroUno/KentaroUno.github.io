@@ -15,6 +15,8 @@ layout: default
 
 ## Conference Proceedings
 
+* Kazuki Takada, **Kentaro Uno**, and Kazuya Yoshida, "Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots," Proceedings of the 2023 8th International Conference on Robotics and Automation Engineering (ICRAE 2023), pp. TBD, 2023. (accepted)
+
 <!-- * Keisuke Takehana, Shino Kizaki, Kentaro Uno, Tomomi Tanaka, Gentaro Suda and Kazuya Yoshida, "Evaluation and Comparison of Driving Performance of a Lunar Exploration Rover Wheel in Different Soils," Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS), pp. TBD, 2023. -->
 
 <!-- * James Hurrell, Keisuke Takehana, Gentaro Suda, **Kentaro Uno**, Kazuya Yoshida, "Rashid Rover Discrete Element Method Simulation Analysis," Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS), pp. TBD, 2023. -->
