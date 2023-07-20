@@ -53,6 +53,8 @@ layout: default
 
 ## Patent
 
+* Masahiro Uda, Kenta Sawa, Takuya Kato, Kentaro Uno, "End-Effector and Robot", 特願2023-102850, June 22nd, 2023.
+
 * Takuya Kato, Kentaro Uno, "Gripping Mechanism", PCT/JP2022/021947, May 30th, 2022.
 
 ## Funding
