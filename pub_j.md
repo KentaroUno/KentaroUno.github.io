@@ -18,6 +18,8 @@ layout: default
 
 ## 国際会議発表論文および口頭発表
 
+* David Rodr´ıguez-Mart´ınez, **Kentaro Uno**, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>**
+
 * Kazuki Takada, **Kentaro Uno**, and Kazuya Yoshida, "Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots," Proceedings of the 2023 8th International Conference on Robotics and Automation Engineering (ICRAE 2023), pp. TBD, 2023. (accepted)
 
 <!-- * Keisuke Takehana, Shino Kizaki, Kentaro Uno, Tomomi Tanaka, Gentaro Suda and Kazuya Yoshida, "Evaluation and Comparison of Driving Performance of a Lunar Exploration Rover Wheel in Different Soils," Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS), pp. TBD, 2023. -->
@@ -30,7 +32,7 @@ layout: default
 
 * Ayumi Umemura, **Kentaro Uno**, Shreya Santra, Miguel Angel Olivares Mendez, Kazuya Yoshida, "Optimizing Planetary Exploration by Refinement Localization and Mapping using Multiple Rovers", Contributed paper of the ICRA2023 workshop: Heterogeneous multi-robot cooperation for exploration and science in extreme environments, 2023. **<a href="https://drive.google.com/file/d/10JRqLc0sMEBdbQs2Prm8IGE5pU9_qIOQ/view" target="_blank">(link of the workshop presentation material)</a>**
 
-* Warley F. R. Ribeiro, **Kentaro Uno**, Masazumi Imai, Koki Murase, Kazuya Yoshida, "RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity," *Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2023)*, pp. TBD, 2023. **<a href="https://arxiv.org/abs/2301.07996" target="_blank">(arXiv link)</a>**
+* Warley F. R. Ribeiro, **Kentaro Uno**, Masazumi Imai, Koki Murase, Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10161185" target="_blank">RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity</a>," *Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2023)*, pp. 11845--11851, 2023. **<a href="https://arxiv.org/abs/2301.07996" target="_blank">(arXiv link)</a>**
 
     **<a href="https://www.icra2023.org/awards-finalists" target="_blank">(Selected for the ICRA 2023 Outstanding Locomotion Paper Finalist)</a>** 
     

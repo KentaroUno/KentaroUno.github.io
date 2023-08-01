@@ -20,6 +20,7 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
+| 2023.08.01. | Please check our latest paper about high-speed rover development: "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>"! <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.07.19. | [研究業績](./pub_j.html) を更新しました． |
 | 2023.05.31. | **Our proceedings paper in ICRA "[RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity](https://arxiv.org/abs/2301.07996)" was selected for the ICRA 2023 Outstanding Locomotion Paper Finalist as well as the IEEE RAS Japan Joint Chapter Young Award (ICRA2023)!! ([Publication page](./pub.html))** <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.04.11. | 研究助成に関する情報を更新しました（ [経歴](./bio_j.html) ） |

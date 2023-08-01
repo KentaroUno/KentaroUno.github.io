@@ -20,6 +20,7 @@ layout: default
   - 2021年10月 ～ 現在　創造工学研修（研究室分担）：工学部1年生
 
 
+
 * 2019年11月 ～ 2020年10月　ETH Zurich (Zürich, Switzerland), Department of Mechanical and Process Engineering, Institute of Robotics and Intelligent Systems, 学術研究員
 
 * 2019年04月 ～ 2021年09月　独立行政法人 日本学術振興会 特別研究員DC1
