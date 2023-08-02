@@ -15,19 +15,21 @@ layout: default
 
 ## Conference Proceedings
 
+<!-- * Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, Kentaro Uno and Kazuya Yoshida, "Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions," *Proceedings of the 2024 IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. -->
+
 * David Rodr´ıguez-Mart´ınez, **Kentaro Uno**, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>**
 
-* Kazuki Takada, **Kentaro Uno**, and Kazuya Yoshida, "Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots," Proceedings of the 2023 8th International Conference on Robotics and Automation Engineering (ICRAE 2023), pp. TBD, 2023. (accepted)
+* Kazuki Takada, **Kentaro Uno**, and Kazuya Yoshida, "Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots," *Proceedings of the 2023 8th International Conference on Robotics and Automation Engineering (ICRAE 2023)*, pp. TBD, 2023. (accepted)
 
-<!-- * Keisuke Takehana, Shino Kizaki, Kentaro Uno, Tomomi Tanaka, Gentaro Suda and Kazuya Yoshida, "Evaluation and Comparison of Driving Performance of a Lunar Exploration Rover Wheel in Different Soils," Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS), pp. TBD, 2023. -->
+* Keisuke Takehana, Shino Kizaki, Kentaro Uno, Tomomi Tanaka, Gentaro Suda and Kazuya Yoshida, "Evaluation and Comparison of Driving Performance of a Lunar Exploration Rover Wheel in Different Soils," *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023. (accepted)
 
-<!-- * James Hurrell, Keisuke Takehana, Gentaro Suda, **Kentaro Uno**, Kazuya Yoshida, "Rashid Rover Discrete Element Method Simulation Analysis," Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS), pp. TBD, 2023. -->
+* James Hurrell, Keisuke Takehana, Gentaro Suda, **Kentaro Uno**, Kazuya Yoshida, "Rashid Rover Discrete Element Method Simulation Analysis," *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023. (accepted)
 
-<!-- * James Hurrell, Keisuke Takehana, **Kentaro Uno**, Kazuya Yoshida, "Lunar Rover Terramechanics Simulation Study," Proceedings of the 74th International Astronautical Congress (IAC), pp. TBD, 2023. -->
+<!-- * James Hurrell, Keisuke Takehana, **Kentaro Uno**, Kazuya Yoshida, "Lunar Rover Terramechanics Simulation Study," *Proceedings of the 74th International Astronautical Congress (IAC)*, pp. TBD, 2023. -->
 
-* Warley F. R. Ribeiro, **Kentaro Uno**, Masazumi Imai, Koki Murase, Barış Can Yalçın, Matteo El Hariry, Miguel A. Olivares-Mendez and Kazuya Yoshida, "Mobility Strategy of Multi-Limbed Climbing Robots for Asteroid Exploration", Proceedings of the CLAWAR 2023, pp. TBD, 2023. (accepted)
+* Warley F. R. Ribeiro, **Kentaro Uno**, Masazumi Imai, Koki Murase, Barış Can Yalçın, Matteo El Hariry, Miguel A. Olivares-Mendez and Kazuya Yoshida, "Mobility Strategy of Multi-Limbed Climbing Robots for Asteroid Exploration", *Proceedings of the CLAWAR 2023*, pp. TBD, 2023. (accepted)
 
-* Ayumi Umemura, **Kentaro Uno**, Shreya Santra, Miguel Angel Olivares Mendez, Kazuya Yoshida, "Optimizing Planetary Exploration by Refinement Localization and Mapping using Multiple Rovers", Contributed paper of the ICRA2023 workshop: Heterogeneous multi-robot cooperation for exploration and science in extreme environments, 2023. **<a href="https://drive.google.com/file/d/10JRqLc0sMEBdbQs2Prm8IGE5pU9_qIOQ/view" target="_blank">(link of the workshop presentation material)</a>**
+* Ayumi Umemura, **Kentaro Uno**, Shreya Santra, Miguel Angel Olivares Mendez, Kazuya Yoshida, "Optimizing Planetary Exploration by Refinement Localization and Mapping using Multiple Rovers", *Contributed paper of the ICRA2023 workshop: Heterogeneous multi-robot cooperation for exploration and science in extreme environments*, 2023. **<a href="https://drive.google.com/file/d/10JRqLc0sMEBdbQs2Prm8IGE5pU9_qIOQ/view" target="_blank">(link of the workshop presentation material)</a>**
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Masazumi Imai, Koki Murase, Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10161185" target="_blank">RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity</a>," *Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2023)*, pp. 11845--11851, 2023. **<a href="https://arxiv.org/abs/2301.07996" target="_blank">(arXiv link)</a>**
 
@@ -37,8 +39,7 @@ layout: default
 
 * Andrew Price, **Kentaro Uno**, Swapnil Parekh, Til Reichelt, Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10115874" target="_blank">Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions</a>," *Proceedings of the 2023 IEEE Aerospace Conference*, pp. 1--11, 2023.
 
-* Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10011858" target="_blank">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile</a>," *Proceedings of the 2022 IEEE
-International Conference on Robotics and Biomimetics (ROBIO 2022)*, pp. 1365--1370, 2022. (accepted)
+* Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10011858" target="_blank">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile</a>," *Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO 2022)*, pp. 1365--1370, 2022. (accepted)
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/9708772" target="_blank">Low-Reaction Trajectory Generation for a Legged Robot in Microgravity</a>," *Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII)*, pp. 505--510, 2022.
 
