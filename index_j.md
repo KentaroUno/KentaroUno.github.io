@@ -20,6 +20,7 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
+| 2023.09.01. | 9月11日～14日に仙台で開催される日本ロボット学会学術講演会 2023では，計6件の発表をおこないます．→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.08.01. | Please check our latest paper about high-speed rover development: "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>"! <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.07.19. | [研究業績](./pub_j.html) を更新しました． |
 | 2023.06.30. | 名古屋で開催されたロボティクス・メカトロニクス講演会 2023にて，所属研究室から3件の発表をおこないました．→[研究業績](./pub_j.html) |

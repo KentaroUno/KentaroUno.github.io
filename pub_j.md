@@ -8,7 +8,9 @@ layout: default
 
 ## 学術誌論文
 
-* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，第40回 日本ロボット学会学術講演会，#4K3-07，2022．（採択済み）
+* **宇野 健太朗**，Warley F. R. Ribeiro，小泉 裕介，永岡 健司，吉田 和哉，“重力慣性加速度（GIA）を用いた 脚型壁登りロボットの転倒安定性評価基準”，日本ロボット学会誌，pp. TBD，2023．（採択済み）
+
+* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，日本ロボット学会誌，pp. TBD，2023．（採択済み）
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank">Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain</a>", Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, vol. 19, no. 5, pp. 794--801, 2021.
 
@@ -18,7 +20,9 @@ layout: default
 
 ## 国際学会発表論文および口頭発表
 
-<!-- * Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, Kentaro Uno and Kazuya Yoshida, "Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions," *Proceedings of the 2024 IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. -->
+<!-- * Kentaro Uno, Kazuki Takada, Keita Nagaoka, Takuya Kato, Arthur Candalot, and Kazuya Yoshida, "Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments," *Proceedings of the 2024 IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** -->
+
+<!-- * Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, Kentaro Uno and Kazuya Yoshida, "Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions," *Proceedings of the 2024 IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** -->
 
 * David Rodr´ıguez-Mart´ınez, **Kentaro Uno**, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>**
 
@@ -74,17 +78,17 @@ layout: default
 
 * **宇野 健太朗**，藤井 康丸（(株)浜野製作所），髙田 一輝，江口 幹生，今井 正純，加藤 匠哉，村瀬 晃基，大河原 拓，吉田 和哉（東北大），内田 博也，角田 旭，宮地 史也（(株)浜野製作所），板倉 理一，山口 正光ピヨトル，稲垣 哲哉（宇宙航空研究開発機構）“ポストISS・探査に向けた自動化・自律化 ～船内伝い歩き移動ロボットのプロトタイプ開発と地上実証～”，第67回宇宙科学技術連合講演会，#TBD，2023．（発表予定）
 
-* **宇野 健太朗**，Warley F. R. Ribeiro，小泉 裕介，永岡 健司，吉田 和哉，“重力慣性加速度（GIA）を用いた 脚型壁登りロボットの転倒安定性評価基準”，第41回 日本ロボット学会学術講演会，#TBD，2023．（発表予定）
+* **宇野 健太朗**，Warley F. R. Ribeiro，小泉 裕介，永岡 健司，吉田 和哉，“重力慣性加速度（GIA）を用いた 脚型壁登りロボットの転倒安定性評価基準”，第41回 日本ロボット学会学術講演会，#2D1-01，2023．（第41回 日本ロボット学会誌へのレター同時投稿オプションで論文発表）
 
-* 髙田 一輝，**宇野 健太朗**，吉田 和哉，“宇宙ステーション船内伝い歩き移動ロボットのためのグラフ理論にもとづく経路計画手法”，第41回 日本ロボット学会学術講演会，#TBD，2023．（発表予定）
+* 髙田 一輝，**宇野 健太朗**，吉田 和哉，“宇宙ステーション船内伝い歩き移動ロボットのためのグラフ理論にもとづく経路計画手法”，第41回 日本ロボット学会学術講演会，#2G1-05，2023．（発表予定）
 
-* 山口 椋，**宇野 健太朗**，吉田 和哉，“脚型ロボットの障害物回避のための深層強化学習を用いた局所移動方向決定手法”，第41回 日本ロボット学会学術講演会，#TBD，2023．（発表予定）
+* 山口 椋，**宇野 健太朗**，吉田 和哉，“脚型ロボットの障害物回避のための深層強化学習を用いた局所移動方向決定手法”，第41回 日本ロボット学会学術講演会，#2D2-01，2023．（発表予定）
 
-* 松岡 雄大，**宇野 健太朗**，吉田 和哉，“多視点画像群からの三次元復元(SfM)法を応用した軌道上物体の運動推定アルゴリズムの検討”，第41回 日本ロボット学会学術講演会，#TBD，2023．（発表予定）
+* 松岡 雄大，**宇野 健太朗**，吉田 和哉，“多視点画像群からの三次元復元(SfM)法を応用した軌道上物体の運動推定アルゴリズムの検討”，第41回 日本ロボット学会学術講演会，#2G1-04，2023．（発表予定）
 
-* 宇田 昌弘，澤 健太，**宇野 健太朗**，Travis，吉田 和哉，“車輪－グリッパ間変形可能機構の開発と把持性能評価”，第41回 日本ロボット学会学術講演会，#TBD，2023．（発表予定）
+* 宇田 昌弘，澤 健太，**宇野 健太朗**，Travis，吉田 和哉，“車輪－グリッパ間変形可能機構の開発と把持性能評価”，第41回 日本ロボット学会学術講演会，#1C4-01，2023．（発表予定）
 
-* 内田 亮慈，**宇野 健太朗**，吉田 和哉，“インピーダンス制御を用いた双腕ロボットによる宇宙デブリ捕獲手法”，第41回 日本ロボット学会学術講演会，#TBD，2023．（発表予定）
+* 内田 亮慈，**宇野 健太朗**，吉田 和哉，“インピーダンス制御を用いた双腕ロボットによる宇宙デブリ捕獲手法”，第41回 日本ロボット学会学術講演会，#2G1-03，2023．（発表予定）
 
 * 髙田 一輝，**宇野 健太朗**，村瀬 晃基，大河原 拓，今井 正純，Warley F. R. Ribeiro（東北大），山口 正光ピヨトル，板倉 理一，大塚聡子，稲垣哲哉，和田勝（JAXA），吉田 和哉（東北大），“ISS船内伝い歩き移動ロボットの微小重力模擬移動実験”，ロボティクス・メカトロニクス講演会 2023，#1A2-B27，2023．
 
@@ -92,7 +96,7 @@ layout: default
 
 * 澤 健太，**宇野 健太朗**，宇田 昌弘，工藤 元（東北大），David Rodriguez-Martinez（EPFL），吉田 和哉（東北大），“高速走行する月惑星探査ローバーのためのサスペンション機構の開発と実験的評価”，ロボティクス・メカトロニクス講演会 2023，#1A2-B26，2023．
 
-* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，第40回 日本ロボット学会学術講演会，#4K3-07，2022．（日本ロボット学会誌へのレター同時投稿オプションで論文発表）
+* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，第40回 日本ロボット学会学術講演会，#4K3-07，2022．（第40回 日本ロボット学会誌へのレター同時投稿オプションで論文発表）
 
 * 梅村 歩，**宇野 健太朗**，Mickael Laine，吉田 和哉，“ループ閉じ込み時の相対位置情報を利用した複数ロボットの協調SLAMの開発”，ロボティクス・メカトロニクス講演会 2022，#1A1-K12，2022．
 

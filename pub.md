@@ -7,6 +7,10 @@ layout: default
 
 ## Journals
 
+* **Kentaro Uno**, Yusuke Koizumi, Warley F. R. Ribeiro, Kenji Nagaoka, Kazuya Yoshida, "Tumble Stability Criterion Using Gravito-Inertial Acceleration for Wall-Climbing Motion of Legged Robots", Journal of the Robotics Society of Japan, vol. TBD, no. TBD, pp. TBD, 2023. (accepted)
+
+* Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "A Gripper with Pin-Array Structure for Convex and Concave Terrain Shapes", Journal of the Robotics Society of Japan, vol. TBD, no. TBD, pp. TBD, 2023. (accepted)
+
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank">Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain</a>", Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, vol. 19, no. 5, pp. 794--801, 2021.
 
 * **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_619/_article/-char/en" target="_blank">Qualification of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>", Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, vol. 16, no. 7, pp. 619--627, 2018.
@@ -15,7 +19,9 @@ layout: default
 
 ## Conference Proceedings
 
-<!-- * Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, Kentaro Uno and Kazuya Yoshida, "Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions," *Proceedings of the 2024 IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. -->
+<!-- * Kentaro Uno, Kazuki Takada, Keita Nagaoka, Takuya Kato, Arthur Candalot, and Kazuya Yoshida, "Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments," *Proceedings of the 2024 IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** -->
+
+<!-- * Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, Kentaro Uno and Kazuya Yoshida, "Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions," *Proceedings of the 2024 IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** -->
 
 * David Rodr´ıguez-Mart´ınez, **Kentaro Uno**, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>**
 
