@@ -39,6 +39,15 @@ enables to be robust under the direct sunlight illumination.
 <img src="assets/img/ex-1.gif" alt="ex-1.gif" border="0" align="center" hspace="0" vspace="10">
 <!-- ![EX-1 image](./assets/img/ex-1.png) -->
 
+  ```
+  @article{rodriguez2023enabling,
+    title={Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension},
+    author={Rodr{\'\i}guez-Mart{\'\i}nez, David and Uno, Kentaro and Sawa, Kenta and Uda, Masahiro and Kudo, Gen and Diaz, Gustavo Hernan and Umemura, Ayumi and Santra, Shreya and Yoshida, Kazuya},
+    journal={arXiv preprint arXiv:2307.04494},
+    year={2023}
+  }
+  ```
+
 ## Legged Climbing Robotics
 
 For exploring the steep and irregular terrain represented as an outcrop, cliff wall, cave ceiling, and Lunar and Martian lava tube, the legged robot equipped with the gripping mechanism, called <I>limbed climbing robot</I> is to be the innovative strategy to expand the traversable areas by a mobile robot. For the future advanced exploration mission, this research and development project tackles the challenge to realize the autonomous limbed robot's climbing locomotion.
@@ -49,7 +58,7 @@ For exploring the steep and irregular terrain represented as an outcrop, cliff w
 
 -  HubRobo is a couple kg class ground-gripping legged mobile robot platform aimed to be deployed for exploration, inspection, monitoring and so on in harsh environment. 
 - Highly energy-efficient, miniaturized, and strong passive spine grippers are installed at the tip of the each foot, which allow it to climb up rocky uneven slope.
-- **Please watch the [YouTube video](https://www.youtube.com/embed/hK9ax_vVjNc) indroducing HubRobo.**
+- **Please watch the [YouTube video](https://www.youtube.com/watch?v=CZyJCvOKx9A) indroducing HubRobo.**
 - Major publication(s) related to this work is as follows:
 
   ```

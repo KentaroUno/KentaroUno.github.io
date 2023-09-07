@@ -21,7 +21,7 @@ layout: default
 
 <!-- * Kentaro Uno, Kazuki Takada, Keita Nagaoka, Takuya Kato, Arthur Candalot, and Kazuya Yoshida, "Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments," *Proceedings of the 2024 IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** -->
 
-<!-- * Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, Kentaro Uno and Kazuya Yoshida, "Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions," *Proceedings of the 2024 IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** -->
+* Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions," 2023. (submitted to IEEE/SICE International Symposium on System Integration (SII)) **<a href="https://arxiv.org/abs/2309.01055" target="_blank">(arXiv link)</a>**
 
 * David Rodr´ıguez-Mart´ınez, **Kentaro Uno**, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>**
 
