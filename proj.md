@@ -39,6 +39,7 @@ enables to be robust under the direct sunlight illumination.
 <img src="assets/img/ex-1.gif" alt="ex-1.gif" border="0" align="center" hspace="0" vspace="10">
 <!-- ![EX-1 image](./assets/img/ex-1.png) -->
 
+
   ```
   @article{rodriguez2023enabling,
     title={Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension},
