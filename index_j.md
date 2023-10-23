@@ -20,6 +20,8 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
+| 2023.10.23. | 10月17日～20日に富山で開催された第67回宇宙科学技術連合講演会において，ISS船内伝い歩き移動ロボットの開発と地上評価に関する研究成果を発表しました．→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
+| 2023.09.28. | 7月11日にオンライン開催された <a href="https://shingi.jst.go.jp/list/list_2023/2023_tohoku.html#20230711X-001" target="_blank">東北大学 新技術説明会</a>にて「さまざまな凹凸形状をつかめるピン配列型把持機構」という発表をおこないました（同技術については特許出願済）．→ <a href="https://youtu.be/uEP9wexJkyE?feature=shared" target="_blank">[YouTube]</a> <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.09.01. | 9月11日～14日に仙台で開催される日本ロボット学会学術講演会 2023では，計6件の発表をおこないます．→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.08.01. | Please check our latest paper about high-speed rover development: "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>"! <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.07.19. | [研究業績](./pub_j.html) を更新しました． |

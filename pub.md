@@ -7,6 +7,8 @@ layout: default
 
 ## Journals
 
+* Masahiro Uda, Kenta Sawa, **Kentaro Uno**, Takuya Kato, Li Zheng Travis Limo, Kazuya Yoshida, "Development and Grasping Performance Evaluation of a Wheel-Gripper Transformable Mechanism", Journal of the Robotics Society of Japan, vol. TBD, no. TBD, pp. TBD, 2023. (accepted)
+
 * **Kentaro Uno**, Yusuke Koizumi, Warley F. R. Ribeiro, Kenji Nagaoka, Kazuya Yoshida, "Tumble Stability Criterion Using Gravito-Inertial Acceleration for Wall-Climbing Motion of Legged Robots", Journal of the Robotics Society of Japan, vol. TBD, no. TBD, pp. TBD, 2023. (accepted)
 
 * Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "A Gripper with Pin-Array Structure for Convex and Concave Terrain Shapes", Journal of the Robotics Society of Japan, vol. TBD, no. TBD, pp. TBD, 2023. (accepted)
@@ -33,7 +35,7 @@ layout: default
 
 * Keisuke Takehana, Shino Kizaki, **Kentaro Uno**, Tomomi Tanaka, Gentaro Suda and Kazuya Yoshida, "Evaluation and Comparison of Driving Performance of a Lunar Exploration Rover Wheel in Different Soils," *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023. (accepted)
 
-* James Hurrell, Keisuke Takehana, Gentaro Suda, **Kentaro Uno**, Kazuya Yoshida, "Rashid Rover Discrete Element Method Simulation Analysis," *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023. (accepted)
+* James Hurrell, Keisuke Takehana, Gentaro Suda, **Kentaro Uno**, Kazuya Yoshida, "Lunar Rover Discrete Element Method Study and Calibration," *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023. (accepted)
 
 <!-- * James Hurrell, Keisuke Takehana, **Kentaro Uno**, Kazuya Yoshida, "Lunar Rover Terramechanics Simulation Study," *Proceedings of the 74th International Astronautical Congress (IAC)*, pp. TBD, 2023. -->
 

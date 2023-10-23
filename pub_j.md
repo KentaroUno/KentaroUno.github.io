@@ -8,6 +8,8 @@ layout: default
 
 ## 学術誌論文
 
+* 宇田 昌弘，澤 健太，**宇野 健太朗**，Li Zheng Travis Lim，吉田 和哉，“車輪－グリッパ間変形可能機構の開発と把持性能評価”，第41回 日本ロボット学会学術講演会，日本ロボット学会誌，pp. TBD, 2023. （採択済み）
+
 * **宇野 健太朗**，Warley F. R. Ribeiro，小泉 裕介，永岡 健司，吉田 和哉，“重力慣性加速度（GIA）を用いた 脚型壁登りロボットの転倒安定性評価基準”，日本ロボット学会誌，pp. TBD，2023．（採択済み）
 
 * 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，日本ロボット学会誌，pp. TBD，2023．（採択済み）
@@ -34,7 +36,7 @@ layout: default
 
 * Keisuke Takehana, Shino Kizaki, **Kentaro Uno**, Tomomi Tanaka, Gentaro Suda and Kazuya Yoshida, "Evaluation and Comparison of Driving Performance of a Lunar Exploration Rover Wheel in Different Soils," *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023. (accepted)
 
-* James Hurrell, Keisuke Takehana, Gentaro Suda, **Kentaro Uno**, Kazuya Yoshida, "Rashid Rover Discrete Element Method Simulation Analysis," *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023. (accepted)
+* James Hurrell, Keisuke Takehana, Gentaro Suda, **Kentaro Uno**, Kazuya Yoshida, "Lunar Rover Discrete Element Method Study and Calibration," *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023. (accepted)
 
 <!-- * James Hurrell, Keisuke Takehana, **Kentaro Uno**, Kazuya Yoshida, "Lunar Rover Terramechanics Simulation Study," *Proceedings of the 74th International Astronautical Congress (IAC)*, pp. TBD, 2023. -->
 
@@ -81,19 +83,21 @@ layout: default
 
 ## 国内学会発表論文および口頭発表
 
-* **宇野 健太朗**，藤井 康丸（(株)浜野製作所），髙田 一輝，江口 幹生，今井 正純，加藤 匠哉，村瀬 晃基，大河原 拓，吉田 和哉（東北大），内田 博也，角田 旭，宮地 史也（(株)浜野製作所），板倉 理一，山口 正光ピヨトル，稲垣 哲哉（宇宙航空研究開発機構）“ポストISS・探査に向けた自動化・自律化 ～船内伝い歩き移動ロボットのプロトタイプ開発と地上実証～”，第67回宇宙科学技術連合講演会，#2N09，2023．（発表予定）
+<!-- * 大河原 拓，ロボティクスシンポジア． -->
+
+* **宇野 健太朗**，藤井 康丸（(株)浜野製作所），髙田 一輝，江口 幹生，今井 正純，加藤 匠哉，村瀬 晃基，大河原 拓，吉田 和哉（東北大），内田 博也，角田 旭，宮地 史也（(株)浜野製作所），板倉 理一，山口 正光ピヨトル，稲垣 哲哉（宇宙航空研究開発機構）“ポストISS・探査に向けた自動化・自律化 ～船内伝い歩き移動ロボットのプロトタイプ開発と地上実証～”，第67回宇宙科学技術連合講演会，#2N09，2023．
 
 * **宇野 健太朗**，Warley F. R. Ribeiro，小泉 裕介，永岡 健司，吉田 和哉，“重力慣性加速度（GIA）を用いた 脚型壁登りロボットの転倒安定性評価基準”，第41回 日本ロボット学会学術講演会，#2D1-01，2023．（第41回 日本ロボット学会誌へのレター同時投稿オプションで論文発表）
 
-* 髙田 一輝，**宇野 健太朗**，吉田 和哉，“宇宙ステーション船内伝い歩き移動ロボットのためのグラフ理論にもとづく経路計画手法”，第41回 日本ロボット学会学術講演会，#2G1-05，2023．（発表予定）
+* 髙田 一輝，**宇野 健太朗**，吉田 和哉，“宇宙ステーション船内伝い歩き移動ロボットのためのグラフ理論にもとづく経路計画手法”，第41回 日本ロボット学会学術講演会，#2G1-05，2023．
 
-* 山口 椋，**宇野 健太朗**，吉田 和哉，“脚型ロボットの障害物回避のための深層強化学習を用いた局所移動方向決定手法”，第41回 日本ロボット学会学術講演会，#2D2-01，2023．（発表予定）
+* 山口 椋，**宇野 健太朗**，吉田 和哉，“脚型ロボットの障害物回避のための深層強化学習を用いた局所移動方向決定手法”，第41回 日本ロボット学会学術講演会，#2D2-01，2023．
 
-* 松岡 雄大，**宇野 健太朗**，吉田 和哉，“多視点画像群からの三次元復元(SfM)法を応用した軌道上物体の運動推定アルゴリズムの検討”，第41回 日本ロボット学会学術講演会，#2G1-04，2023．（発表予定）
+* 松岡 雄大，**宇野 健太朗**，吉田 和哉，“多視点画像群からの三次元復元(SfM)法を応用した軌道上物体の運動推定アルゴリズムの検討”，第41回 日本ロボット学会学術講演会，#2G1-04，2023．
 
-* 宇田 昌弘，澤 健太，**宇野 健太朗**，Travis，吉田 和哉，“車輪－グリッパ間変形可能機構の開発と把持性能評価”，第41回 日本ロボット学会学術講演会，#1C4-01，2023．（発表予定）
+* 宇田 昌弘，澤 健太，**宇野 健太朗**，Li Zheng Travis Lim，吉田 和哉，“車輪－グリッパ間変形可能機構の開発と把持性能評価”，第41回 日本ロボット学会学術講演会，#1C4-01，2023．（第41回 日本ロボット学会誌へのレター同時投稿オプションで論文発表）
 
-* 内田 亮慈，**宇野 健太朗**，吉田 和哉，“インピーダンス制御を用いた双腕ロボットによる宇宙デブリ捕獲手法”，第41回 日本ロボット学会学術講演会，#2G1-03，2023．（発表予定）
+* 内田 亮慈，**宇野 健太朗**，吉田 和哉，“インピーダンス制御を用いた双腕ロボットによる宇宙デブリ捕獲手法”，第41回 日本ロボット学会学術講演会，#2G1-03，2023．
 
 * 髙田 一輝，**宇野 健太朗**，村瀬 晃基，大河原 拓，今井 正純，Warley F. R. Ribeiro（東北大），山口 正光ピヨトル，板倉 理一，大塚聡子，稲垣哲哉，和田勝（JAXA），吉田 和哉（東北大），“ISS船内伝い歩き移動ロボットの微小重力模擬移動実験”，ロボティクス・メカトロニクス講演会 2023，#1A2-B27，2023．
 
