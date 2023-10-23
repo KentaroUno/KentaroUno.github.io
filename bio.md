@@ -77,6 +77,11 @@ layout: default
   
   - "<a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19J20685/" target="_blank">Autonomous Gait Control for a Free-Climbing Robot in Consideration of the Terrain Information and the Gripping Mechanics</a>"
 
+### Co-Investigator
+
+* Jan. 2023 -- 　<a href="https://www.jst.go.jp/moonshot/en/program/goal3/" target="_blank">JCN/JST Moonshot Research and Development Program (Goal 3)</a>：
+<a href="https://www.jst.go.jp/moonshot/program/goal3/3B_yoshida.html" target="_blank">Self-evolving AI Robot System for Lunar Exploration and Human Outpost Construction (Project Manager: Prof. Kazuya Yoshida) </a> "Modular and Multiagent Robot System"
+
 ### Academic Grant
 
 * Apr. 2019 -- Sep. 2021　　Japan Society for the Promotion of Science (JSPS), <a href="https://www.jsps.go.jp/english/e-pd/" target="_blank">Research Fellowships for Young Scientists, Doctoral Course (DC1)</a>, Japan.

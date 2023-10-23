@@ -80,6 +80,12 @@ layout: default
   
   研究課題名："<a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J20685/" target="_blank">地形情報とグリッパの力学にもとづくフリークライミングロボットの自律制御原理の開拓</a>"
 
+### 研究分担者／協力者
+
+* 2023年01月 ～ 　<a href="https://www.jst.go.jp/moonshot/program/goal3/" target="_blank">内閣府/JST ムーンショット型研究開発事業（目標3）</a>：
+<a href="https://www.jst.go.jp/moonshot/program/goal3/3B_yoshida.html" target="_blank">月面探査／拠点構築のための自己再生型AIロボット（プロジェクトマネージャー：東北大学 吉田和哉 教授）</a>
+「モジュラー・マルチエージェントなロボットシステム」
+
 ### 研究助成
 
 * 2019年04月 ～ 2021年09月　<a href="https://www.jsps.go.jp/j-pd/pd_gaiyo.html" target="_blank">日本学術振興会 特別研究員DC1</a> 
