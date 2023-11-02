@@ -4,6 +4,9 @@ layout: default
 
 # Publications
 
+## Representative Videos
+
+### Please check <a href="https://www.youtube.com/@spaceroboticslab" target="_blank"> Space Robotics Lab. Youtube Channel </a> for the digests of the works.
 
 ## Journals
 
