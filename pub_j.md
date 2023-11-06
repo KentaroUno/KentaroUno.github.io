@@ -8,22 +8,24 @@ layout: default
 
 ## 動画
 
-### <a href="https://www.youtube.com/@spaceroboticslab" target="_blank"> Space Robotics Lab. Youtube Channel </a>をご覧ください．
+### 動画によるこれまでの研究紹介は<a href="https://www.youtube.com/@spaceroboticslab" target="_blank"> Space Robotics Lab. Youtube Channel </a>をご覧ください．
 
 
 ## 学術誌論文
 
-* 宇田 昌弘，澤 健太，**宇野 健太朗**，Li Zheng Travis Lim，吉田 和哉，“車輪－グリッパ間変形可能機構の開発と把持性能評価”，第41回 日本ロボット学会学術講演会，日本ロボット学会誌，pp. TBD, 2023. （採択済み）
+* David Rodr´ıguez-Mart´ınez*, **Kentaro Uno***, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. TBD, no. TBD, pp. TBD, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** *These authors contributed equally. (accepted)
 
-* **宇野 健太朗**，Warley F. R. Ribeiro，小泉 裕介，永岡 健司，吉田 和哉，“重力慣性加速度（GIA）を用いた 脚型壁登りロボットの転倒安定性評価基準”，日本ロボット学会誌，pp. TBD，2023．（採択済み）
+* 宇田 昌弘，澤 健太，**宇野 健太朗**，Li Zheng Travis Lim，吉田 和哉，“車輪－グリッパ間変形可能機構の開発と把持性能評価”，_日本ロボット学会誌_，vol. TBD, no. TBD, pp. TBD, 2023. （採択済み）
 
-* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，日本ロボット学会誌，pp. TBD，2023．（採択済み）
+* **宇野 健太朗**，Warley F. R. Ribeiro，小泉 裕介，永岡 健司，吉田 和哉，“重力慣性加速度（GIA）を用いた 脚型壁登りロボットの転倒安定性評価基準”，_日本ロボット学会誌_，vol. TBD, no. TBD, pp. TBD，2023．（採択済み）
 
-* Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank">Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain</a>", Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, vol. 19, no. 5, pp. 794--801, 2021.
+* 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“ピン配列型凹凸地形把持機構”，_日本ロボット学会誌_，vol. TBD, no. TBD, pp. TBD，2023．（採択済み）
 
-* **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_619/_article/-char/en" target="_blank">Qualification of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>", Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, vol. 16, no. 7, pp. 619--627, 2018.
+* Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank">Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain</a>", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 19, no. 5, pp. 794--801, 2021.
 
-* Takuto Oikawa, Toshiki Tanaka, Yuto Suebe, **Kentaro Uno**, Hugo Zuliani, Louis-Jerome Burtz, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_613/_article/-char/en" target="_blank">Preliminary Radiation Test Result for Space-Ready Qualification of Lunar Micro Rover</a>", Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, vol. 16, no. 7, pp. 613--618, 2018.
+* **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_619/_article/-char/en" target="_blank">Qualification of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 16, no. 7, pp. 619--627, 2018.
+
+* Takuto Oikawa, Toshiki Tanaka, Yuto Suebe, **Kentaro Uno**, Hugo Zuliani, Louis-Jerome Burtz, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_613/_article/-char/en" target="_blank">Preliminary Radiation Test Result for Space-Ready Qualification of Lunar Micro Rover</a>", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 16, no. 7, pp. 613--618, 2018.
 
 ## 国際学会発表論文および口頭発表
 
@@ -35,7 +37,7 @@ layout: default
 
 * Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "<a href="https://arxiv.org/abs/2309.01055" target="_blank">Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions</a>," *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. (accepted) **<a href="https://arxiv.org/abs/2309.01055" target="_blank">(arXiv link)</a>**
 
-* David Rodr´ıguez-Mart´ınez, **Kentaro Uno**, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>**
+<!-- ICRA2023 conference * David Rodr´ıguez-Mart´ınez, **Kentaro Uno**, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** -->
 
 * Kazuki Takada, **Kentaro Uno**, and Kazuya Yoshida, "Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots," *Proceedings of the 2023 8th International Conference on Robotics and Automation Engineering (ICRAE 2023)*, pp. TBD, 2023. (accepted)
 
