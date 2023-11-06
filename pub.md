@@ -10,7 +10,7 @@ layout: default
 
 ## Journals
 
-* David Rodr´ıguez-Mart´ınez*, **Kentaro Uno***, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. TBD, no. TBD, pp. TBD, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** *These authors contributed equally. (accepted)
+* David Rodr´ıguez-Mart´ınez#, **Kentaro Uno**#, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. TBD, no. TBD, pp. TBD, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** #These authors contributed equally. (accepted)
 
 * Masahiro Uda, Kenta Sawa, **Kentaro Uno**, Takuya Kato, Li Zheng Travis Limo, Kazuya Yoshida, "Development and Grasping Performance Evaluation of a Wheel-Gripper Transformable Mechanism", _Journal of the Robotics Society of Japan (JRSJ)_, vol. TBD, no. TBD, pp. TBD, 2023. (accepted)
 
@@ -20,7 +20,7 @@ layout: default
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank">Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain</a>", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 19, no. 5, pp. 794--801, 2021.
 
-* **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_619/_article/-char/en" target="_blank">Qualification of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan(Trans. JSASS)_, vol. 16, no. 7, pp. 619--627, 2018.
+* **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_619/_article/-char/en" target="_blank">Qualification of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 16, no. 7, pp. 619--627, 2018.
 
 * Takuto Oikawa, Toshiki Tanaka, Yuto Suebe, **Kentaro Uno**, Hugo Zuliani, Louis-Jerome Burtz, Kazuya Yoshida, "<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_613/_article/-char/en" target="_blank">Preliminary Radiation Test Result for Space-Ready Qualification of Lunar Micro Rover</a>", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 16, no. 7, pp. 613--618, 2018.
 
