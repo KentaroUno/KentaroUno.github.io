@@ -29,7 +29,7 @@ layout: default
 ## Education
 * Oct. 2018 -- Sep. 2021　Ph.D. in Aerospace Engineering @Tohoku University (Sendai, Japan)
   
-  Thesis: "Autonomous Limbed Climbing Robots for Challenging Terrain Exploration"，GPA: 4.00/4.00
+  Thesis: "<a href="https://cir.nii.ac.jp/crid/1110578372205136000" target="_blank">Autonomous Limbed Climbing Robots for Challenging Terrain Exploration</a>"，GPA: 4.00/4.00
 
 * Oct. 2018 -- Sep. 2021　M.S. in Aerospace Engineering @Tohoku University (Sendai, Japan)
   

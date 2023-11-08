@@ -31,7 +31,7 @@ layout: default
 
 * 2018年10月 ～ 2021年09月　東北大学大学院　工学研究科　航空宇宙工学専攻　博士課程後期3年の課程（博士課程）
   
-  博士論文題目: "Autonomous Limbed Climbing Robots for Challenging Terrain Exploration（挑戦的地形探査のための自律脚型クライミングロボット）"，GPA: 4.00/4.00
+  博士論文題目: "<a href="https://cir.nii.ac.jp/crid/1110578372205136000" target="_blank">Autonomous Limbed Climbing Robots for Challenging Terrain Exploration（挑戦的地形探査のための自律脚型クライミングロボット）</a>"，GPA: 4.00/4.00
 
 * 2016年10月 ～ 2018年09月　東北大学大学院　工学研究科　航空宇宙工学専攻　博士課程前期2年の課程（修士課程）
   
@@ -122,6 +122,8 @@ layout: default
 
 
 ## その他の活動
+
+* 2022年7月14日　明松真司 氏 著「<a href="https://amzn.asia/d/do3nRd7" target="_blank">1週間でLaTeXの基礎が学べる本</a>」（内部査読者として協力）
 
 * 2022年04月04日　Guest lecturer for "Space Robotics Training Programme" organized by Spacenova, India.
 

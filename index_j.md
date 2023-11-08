@@ -10,6 +10,7 @@ layout: default
 |:-------------|:------------------|
 | 現在 | 日本語ページの一部およびプロジェクトのページはいまだ建設中です．Twitterへのリンクは準備中です． |
 | 2022.09.29. | ホームページを刷新しました！<span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
+| 2022.07.14. | 査読に協力させていただいた明松真司 氏 著「<a href="https://amzn.asia/d/do3nRd7" target="_blank">1週間でLaTeXの基礎が学べる本</a>」が好評発売中です！<span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
 | 2022.04.19. | [吉田和哉教授と宇野健太朗助教および本学機械系学生（航空宇宙工学専攻）が、2022年4月20日（水）放送予定のkhb東日本放送「チャージ！」に出演いたします。](https://www.mech.tohoku.ac.jp/news220419_1/) <span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
 | 2022.02.17. | [吉田和哉教授と宇野健太朗助教(航空宇宙工学専攻)が、ミヤギテレビ「ミヤギnews every.」に出演いたします。(2022年2月25日放送)](https://www.mech.tohoku.ac.jp/news210222/) <span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
 | 2021.11.22. | 東北の新聞社である 河北新報のこども新聞 に自身の研究を取り上げていただきました！ |
