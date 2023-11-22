@@ -34,7 +34,7 @@ layout: default
 
 * Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "<a href="https://arxiv.org/abs/2309.01055" target="_blank">Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions</a>," *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. (accepted) **<a href="https://arxiv.org/abs/2309.01055" target="_blank">(arXiv link)</a>**
 
-* Kazuki Takada, **Kentaro Uno**, and Kazuya Yoshida, "Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots," *Proceedings of the 2023 8th International Conference on Robotics and Automation Engineering (ICRAE 2023)*, pp. TBD, 2023. (accepted)
+* Kazuki Takada, **Kentaro Uno**, and Kazuya Yoshida, "Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots," *Proceedings of the 2023 8th International Conference on Robotics and Automation Engineering (ICRAE 2023)*, pp. TBD, 2023. **<span style="color: #002266">(est presentation achievement in the session)</span>**
 
 * Keisuke Takehana, Shino Kizaki, **Kentaro Uno**, Tomomi Tanaka, Gentaro Suda and Kazuya Yoshida, "Evaluation and Comparison of Driving Performance of a Lunar Exploration Rover Wheel in Different Soils," *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023. (accepted)
 
