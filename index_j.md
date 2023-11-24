@@ -21,6 +21,7 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
+| 2023.11.23. | [国際会議ISTVSに投稿・発表した内容がBest paperを受賞しました！]()→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.11.18. | [国際会議ICRAEに投稿・発表した内容がセッションアワードを受賞しました！](https://www.mech.tohoku.ac.jp/prize231122/)→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.11.06. | 日本ロボット学会誌（レター）に2報，IEEE Robotics and Automation Lettersに1報の論文が採録決定しました！→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.10.23. | 10月17日～20日に富山で開催された第67回宇宙科学技術連合講演会において，ISS船内伝い歩き移動ロボットの開発と地上評価に関する研究成果を発表しました．→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
