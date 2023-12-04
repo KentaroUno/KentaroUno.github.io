@@ -23,7 +23,7 @@ layout: default
 |:------------|:------------------|
 | 2023.11.23. | [国際会議ISTVSに投稿・発表した内容がBest paperを受賞しました！]()→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.11.18. | [国際会議ICRAEに投稿・発表した内容がセッションアワードを受賞しました！](https://www.mech.tohoku.ac.jp/prize231122/)→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2023.11.06. | 日本ロボット学会誌（レター）に2報，IEEE Robotics and Automation Lettersに1報の論文が採録決定しました！→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
+| 2023.11.06. | 日本ロボット学会誌（レター）に2報，[IEEE Robotics and Automation Lettersに1報の論文](https://ieeexplore.ieee.org/document/10325569)が採録決定しました！→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.10.23. | 10月17日～20日に富山で開催された第67回宇宙科学技術連合講演会において，ISS船内伝い歩き移動ロボットの開発と地上評価に関する研究成果を発表しました．→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.09.28. | 7月11日にオンライン開催された <a href="https://shingi.jst.go.jp/list/list_2023/2023_tohoku.html#20230711X-001" target="_blank">東北大学 新技術説明会</a>にて「さまざまな凹凸形状をつかめるピン配列型把持機構」という発表をおこないました（同技術については特許出願済）．→ <a href="https://youtu.be/uEP9wexJkyE?feature=shared" target="_blank">[YouTube]</a> <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.09.01. | 9月11日～14日に仙台で開催される日本ロボット学会学術講演会 2023では，計6件の発表をおこないます．→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|

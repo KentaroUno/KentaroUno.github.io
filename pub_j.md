@@ -8,12 +8,12 @@ layout: default
 
 ## 動画
 
-### 動画によるこれまでの研究紹介は<a href="https://www.youtube.com/@spaceroboticslab" target="_blank"> Space Robotics Lab. Youtube Channel </a>をご覧ください．
+### 動画によるこれまでの研究紹介は<a href="https://www.youtube.com/@spaceroboticslab" target="_blank"> Space Robotics Lab. YouTube Channel </a>をご覧ください．
 
 
 ## 学術誌論文
 
-* David Rodr´ıguez-Mart´ınez#, **Kentaro Uno**#, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. TBD, no. TBD, pp. TBD, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** #These authors contributed equally. (accepted)
+* David Rodr´ıguez-Mart´ınez#, **Kentaro Uno**#, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, DOI: 10.1109/LRA.2023.3335769, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** #These authors contributed equally. (accepted)
 
 * 宇田 昌弘，澤 健太，**宇野 健太朗**，Li Zheng Travis Lim，吉田 和哉，“車輪－グリッパ間変形可能機構の開発と把持性能評価”，_日本ロボット学会誌_，vol. TBD, no. TBD, pp. TBD, 2023. （採択済み）
 

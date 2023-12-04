@@ -6,11 +6,11 @@ layout: default
 
 ## Representative Videos
 
-### Please check <a href="https://www.youtube.com/@spaceroboticslab" target="_blank"> Space Robotics Lab. Youtube Channel </a> for the digests of the works.
+### Please check <a href="https://www.youtube.com/@spaceroboticslab" target="_blank"> Space Robotics Lab. YouTube Channel </a> for the digests of the works.
 
 ## Journals
 
-* David Rodr´ıguez-Mart´ınez#, **Kentaro Uno**#, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. TBD, no. TBD, pp. TBD, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** #These authors contributed equally. (accepted)
+* David Rodr´ıguez-Mart´ınez#, **Kentaro Uno**#, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, DOI: 10.1109/LRA.2023.3335769, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** #These authors contributed equally. 
 
 * Masahiro Uda, Kenta Sawa, **Kentaro Uno**, Takuya Kato, Li Zheng Travis Limo, Kazuya Yoshida, "Development and Grasping Performance Evaluation of a Wheel-Gripper Transformable Mechanism", _Journal of the Robotics Society of Japan (JRSJ)_, vol. TBD, no. TBD, pp. TBD, 2023. (accepted)
 
