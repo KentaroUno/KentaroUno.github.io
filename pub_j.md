@@ -13,7 +13,7 @@ layout: default
 
 ## 学術誌論文
 
-* David Rodr´ıguez-Mart´ınez#, **Kentaro Uno**#, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, DOI: 10.1109/LRA.2023.3335769, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** #These authors contributed equally. (accepted)
+* David Rodr´ıguez-Mart´ınez\*, **Kentaro Uno**\*, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, DOI: 10.1109/LRA.2023.3335769, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** \*These authors contributed equally. (This work will be presented in IEEE ICRA 2024 @Yokohama)
 
 * 宇田 昌弘，澤 健太，**宇野 健太朗**，Li Zheng Travis Lim，吉田 和哉，“車輪－グリッパ間変形可能機構の開発と把持性能評価”，_日本ロボット学会誌_，vol. TBD, no. TBD, pp. TBD, 2023. （採択済み）
 
@@ -29,13 +29,16 @@ layout: default
 
 ## 国際学会発表論文および口頭発表
 
-<!-- * Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, Kentaro Uno, and Kazuya Yoshida, "Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** -->
+<!-- * Akiyoshi Uchida, Kentaro Uno, and Kazuya Yoshida, "," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** --> 
 
-<!-- * Antoine Richard^1, Junnosuke Kamohara^1, Kentaro Uno, Shreya Santra, Dave van der Meer, Miguel Olivares-Mendez, and Kazuya Yoshida, "OmniLRS: A Photorealistic Simulator for Lunar Robotics," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** (1: Equal contribution) -->
+<!-- * Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, Kentaro Uno, and Kazuya Yoshida, "Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** --> 
+<!-- rejected ... --> 
 
-* **Kentaro Uno**, Kazuki Takada, Keita Nagaoka, Takuya Kato, Arthur Candalot, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2309.10268v1.pdf" target="_blank">Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments</a>,"  *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. (accepted) **<a href="https://arxiv.org/abs/2309.10268" target="_blank">(arXiv link)</a>**
+* Antoine Richard\*, Junnosuke Kamohara\*, **Kentaro Uno**, Shreya Santra, Dave van der Meer, Miguel Olivares-Mendez, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2309.08997.pdf" target="_blank">OmniLRS: A Photorealistic Simulator for Lunar Robotics</a>," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. **<a href="https://arxiv.org/abs/2309.08997" target="_blank">(arXiv link)</a>** \*Equal contribution (accepted)
 
-* Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "<a href="https://arxiv.org/abs/2309.01055" target="_blank">Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions</a>," *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. (accepted) **<a href="https://arxiv.org/abs/2309.01055" target="_blank">(arXiv link)</a>**
+* **Kentaro Uno**, Kazuki Takada, Keita Nagaoka, Takuya Kato, Arthur Candalot, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2309.10268v1.pdf" target="_blank">Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments</a>,"  *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. **<a href="https://arxiv.org/abs/2309.10268" target="_blank">(arXiv link)</a>**
+
+* Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "<a href="https://arxiv.org/abs/2309.01055" target="_blank">Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions</a>," *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. **<a href="https://arxiv.org/abs/2309.01055" target="_blank">(arXiv link)</a>**
 
 <!-- ICRA2023 conference * David Rodr´ıguez-Mart´ınez, **Kentaro Uno**, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** -->
 

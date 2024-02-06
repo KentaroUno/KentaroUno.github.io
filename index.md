@@ -19,6 +19,7 @@ layout: default
 
 | DATE        | CONTENT          |
 |:------------|:------------------|
+| 2024.02.06. | Our two papers will be presented in International Conference on Robotics and Automation (ICRA) in Yokohama, Japan!→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.11.23. | [Our proceedings paper to the International conference ISTVS was selected as a best paper!]()→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.11.18. | [Our proceedings paper to the International conference ICRAE was selected as the best presentation in the session!](https://www.mech.tohoku.ac.jp/prize231122/)→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.11.06. | Our two journal paper in Robotics Society of Japan, and [one journal for IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/document/10325569) are accepted! Please check them out!→ ([Publication page](./pub.html)) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|

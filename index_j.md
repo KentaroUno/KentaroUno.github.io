@@ -21,6 +21,8 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
+| 2024.02.06. | 共著論文２つがロボット工学のトップカンファレンス International Conference on Robotics and Automation (ICRA) ＠横浜にて発表されます．→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
+| 2023.11.23. | [Our proceedings paper to the International conference ISTVS was selected as a best paper!]()→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.11.23. | [国際会議ISTVSに投稿・発表した内容がBest paperを受賞しました！]()→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.11.18. | [国際会議ICRAEに投稿・発表した内容がセッションアワードを受賞しました！](https://www.mech.tohoku.ac.jp/prize231122/)→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.11.06. | 日本ロボット学会誌（レター）に2報，[IEEE Robotics and Automation Lettersに1報の論文](https://ieeexplore.ieee.org/document/10325569)が採録決定しました！→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
