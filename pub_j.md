@@ -29,18 +29,23 @@ layout: default
 
 ## 国際学会発表論文および口頭発表
 
-<!-- * Akiyoshi Uchida, Kentaro Uno, and Kazuya Yoshida, "," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** --> 
+<!-- * Shreya Santra\*, **Kentaro Uno**\*, Gen Kudo\* and Kazuya Yoshida, "Risk-Aware Coverage Path Planning for Lunar Micro-Rovers Leveraging Global and Local Environmental Data," *Proceedings of the 2024 IEEE International Conference on Space Robotics (ISPARO)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** \*Equal contribution --> 
 
+<!-- * Akiyoshi Uchida, **Kentaro Uno**, and Kazuya Yoshida, "Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging," *Proceedings of the 2024 IEEE International Conference on Space Robotics (ISPARO)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** --> 
+
+<!-- rejected ... -->
 <!-- * Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, Kentaro Uno, and Kazuya Yoshida, "Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** --> 
-<!-- rejected ... --> 
 
 * Antoine Richard\*, Junnosuke Kamohara\*, **Kentaro Uno**, Shreya Santra, Dave van der Meer, Miguel Olivares-Mendez, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2309.08997.pdf" target="_blank">OmniLRS: A Photorealistic Simulator for Lunar Robotics</a>," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. **<a href="https://arxiv.org/abs/2309.08997" target="_blank">(arXiv link)</a>** \*Equal contribution (accepted)
 
-* **Kentaro Uno**, Kazuki Takada, Keita Nagaoka, Takuya Kato, Arthur Candalot, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2309.10268v1.pdf" target="_blank">Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments</a>,"  *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. **<a href="https://arxiv.org/abs/2309.10268" target="_blank">(arXiv link)</a>**
+* Gustavo Diaz, Tharit Sinsunthorn, Shreya Santra, **Kentaro Uno**, Kazuya Yoshida, "Toward Autonomous Assembly of Modular Robots and Structures using Real-time Object Detection and Imitation Learning for Lunar Missions," _Proceedings of the 29th International Symposium on Artificial Life and Robotics (AROB 29th 2024)_, pp. TBD--TBD, 2024.
 
-* Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "<a href="https://arxiv.org/abs/2309.01055" target="_blank">Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions</a>," *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. **<a href="https://arxiv.org/abs/2309.01055" target="_blank">(arXiv link)</a>**
+* **Kentaro Uno**, Kazuki Takada, Keita Nagaoka, Takuya Kato, Arthur Candalot, and Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10417210" target="_blank">Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments</a>,"  *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. 1183--1184, 2024. **<a href="https://arxiv.org/abs/2309.10268" target="_blank">(arXiv link)</a>**
 
-<!-- ICRA2023 conference * David Rodr´ıguez-Mart´ınez, **Kentaro Uno**, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** -->
+* Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10417086" target="_blank">Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions</a>," *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. 484--489, 2024. **<a href="https://arxiv.org/abs/2309.01055" target="_blank">(arXiv link)</a>**
+
+<!-- ICRA2023 conference -->
+* David Rodr´ıguez-Mart´ınez\*, **Kentaro Uno**\*, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>,"  _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, <a href="DOI: 10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>, 2023. \*These authors contributed equally. (This work will be presented in IEEE ICRA 2024 @Yokohama) **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>**
 
 * Kazuki Takada, **Kentaro Uno**, and Kazuya Yoshida, "Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots," *Proceedings of the 2023 8th International Conference on Robotics and Automation Engineering (ICRAE 2023)*, pp. TBD, 2023. **<span style="color: #002266">(Best presentation achievement in the session)</span>**
 
