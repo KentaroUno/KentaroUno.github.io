@@ -41,12 +41,16 @@ enables to be robust under the direct sunlight illumination.
 
 
   ```
-  @article{rodriguez2023enabling,
-    title={Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension},
-    author={Rodr{\'\i}guez-Mart{\'\i}nez, David and Uno, Kentaro and Sawa, Kenta and Uda, Masahiro and Kudo, Gen and Diaz, Gustavo Hernan and Umemura, Ayumi and Santra, Shreya and Yoshida, Kazuya},
-    journal={arXiv preprint arXiv:2307.04494},
-    year={2023}
-  }
+  @article{10325569,
+    author={Rodríguez-Martínez, David and Uno, Kentaro and Sawa, Kenta and Uda, Masahiro and Kudo, Gen and Diaz, Gustavo Hernan and Umemura, Ayumi and Santra, Shreya and Yoshida, Kazuya},
+    journal={IEEE Robotics and Automation Letters}, 
+    title={Enabling Faster Locomotion of Planetary Rovers With a Mechanically-Hybrid Suspension}, 
+    year={2024},
+    volume={9},
+    number={1},
+    pages={619-626},
+    keywords={Moon;Wheels;Robots;Space vehicles;Mobile robots;Shock absorbers;Gravity;Compliant joints and mechanisms;mechanism design;space robotics and automation},
+    doi={10.1109/LRA.2023.3335769}}
   ```
 
 ## Legged Climbing Robotics
