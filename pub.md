@@ -6,8 +6,8 @@ layout: default
 
 ## Representative Videos
 
-<a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank"><img src="assets/img/SRL-logo-3.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0"></a>
-<a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0"></a>
+<a href="https://www.youtube.com/@spaceroboticslab" target="_blank"><img src="assets/img/SRL-logo-3.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0"></a>
+<a href="https://www.youtube.com/@spaceroboticslab" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0"></a>
 
 * Please check out **<a href="https://www.youtube.com/@spaceroboticslab" target="_blank"> Space Robotics Lab. YouTube Channel </a>** for the digests of our works.
 
