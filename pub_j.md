@@ -6,6 +6,15 @@ layout: default
 
 # 研究業績
 
+* Google Scholar Citationsは **<a href="https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ" target="_blank">こちら</a>**
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ" target="_blank"><img src="assets/img/768px-Google_Scholar_logo.png" height="40" alt="768px-Google_Scholar_logo.png" border="0" align="center" hspace="0" vspace="0"></a> 
+
+* SCOPUSは **<a href="https://www.scopus.com/authid/detail.uri?authorId=57208746798" target="_blank">こちら</a>**
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57208746798" target="_blank"><img src="assets/img/Scopus_logo.png" height="30" alt="Scopus_logo.png" border="0" align="center" hspace="0" vspace="0"></a>
+
+* researchmapは **<a href="https://researchmap.jp/unoken" target="_blank">こちら</a>**
+<a href="https://researchmap.jp/unoken" target="_blank"><img src="assets/img/researchmap.png" height="100" alt="researchmap.png" border="0" align="center" hspace="0" vspace="0"></a> 
+
 ## 動画
 
 <a href="https://www.youtube.com/@spaceroboticslab" target="_blank"><img src="assets/img/SRL-logo-3.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0"></a>
