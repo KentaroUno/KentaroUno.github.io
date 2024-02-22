@@ -4,7 +4,7 @@ layout: default
 
 # Publications
 
-## Representative Videos
+## Videos
 
 <a href="https://www.youtube.com/@spaceroboticslab" target="_blank"><img src="assets/img/SRL-logo-3.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0"></a>
 <a href="https://www.youtube.com/@spaceroboticslab" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0"></a>
@@ -29,7 +29,7 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the 
 
 * Takuto Oikawa, Toshiki Tanaka, Yuto Suebe, **Kentaro Uno**, Hugo Zuliani, Louis-Jerome Burtz, Kazuya Yoshida, "**<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_613/_article/-char/en" target="_blank">Preliminary Radiation Test Result for Space-Ready Qualification of Lunar Micro Rover</a>**", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 16, no. 7, pp. 613--618, 2018.
 
-## Conference Proceedings
+## Conferences
 
 <!-- * Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, Kentaro Uno, and Kazuya Yoshida, "Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots," *Proceedings of the 2024 IEEE International Conference on Intelligent Robots and Systems (IROS)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** --> 
 
@@ -97,7 +97,7 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the 
 
 * Takuto Oikawa, Toshiki Tanaka, John Walker, **Kentaro Uno**, Paulo Costa, Nathan Britton, Kazuya Yoshida, "Thermal Design Analysis of Conceptual Flight Model for a Lunar Exploration Rove," *Proceedings of the 13th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, 2016.
 
-## Domestic Conference Proceedings
+## Domestic Conferences
 
 * Please see the [Japanese page](./pub_j.html).
 
