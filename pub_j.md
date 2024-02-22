@@ -8,6 +8,9 @@ layout: default
 
 ## 動画
 
+<a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank"><img src="assets/img/SRL-logo-3.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0"></a>
+<a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0"></a>
+
 * 動画によるこれまでの研究紹介は**<a href="https://www.youtube.com/@spaceroboticslab" target="_blank"> Space Robotics Lab. YouTube Channel </a>**をご覧ください．
 
 ## 学術誌論文
@@ -28,12 +31,11 @@ layout: default
 
 ## 国際学会発表論文および口頭発表
 
+<!-- * Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, Kentaro Uno, and Kazuya Yoshida, "Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots," *Proceedings of the 2024 IEEE International Conference on Intelligent Robots and Systems (IROS)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** --> 
+
 <!-- * Shreya Santra\*, **Kentaro Uno**\*, Gen Kudo\* and Kazuya Yoshida, "Risk-Aware Coverage Path Planning for Lunar Micro-Rovers Leveraging Global and Local Environmental Data," *Proceedings of the 2024 IEEE International Conference on Space Robotics (ISPARO)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** \***Equal contribution.** --> 
 
 <!-- * Akiyoshi Uchida, **Kentaro Uno**, and Kazuya Yoshida, "Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging," *Proceedings of the 2024 IEEE International Conference on Space Robotics (ISPARO)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** --> 
-
-<!-- rejected ... -->
-<!-- * Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, Kentaro Uno, and Kazuya Yoshida, "Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank">(arXiv link)</a>** --> 
 
 * Antoine Richard\*, Junnosuke Kamohara\*, **Kentaro Uno**, Shreya Santra, Dave van der Meer, Miguel Olivares-Mendez, and Kazuya Yoshida, "**<a href="https://arxiv.org/pdf/2309.08997.pdf" target="_blank">OmniLRS: A Photorealistic Simulator for Lunar Robotics</a>**," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. **<a href="https://arxiv.org/abs/2309.08997" target="_blank">(arXiv link)</a>** \***Equal contribution.** (accepted)
 
