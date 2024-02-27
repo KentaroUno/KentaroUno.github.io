@@ -22,10 +22,12 @@ layout: default
 
 ## Journals
 
+<!-- * Kenta Sawa, **Kentaro Uno**, Kohta Naoki, Masahiro Uda, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/240124-04.html" target="_blank">Lunar Exploration Rover’s High-Speed Mobility Experiment in Moon Surface Analogue Test Field: "Lunar Terrace” in Tottori Sand Dunes</a>**",” _Journal of the Robotics Society of Japan (JRSJ)_，vol. TBD, no. TBD, pp. TBD, 2024. (Accepted, in Japanese) -->
+
 * David Rodr´ıguez-Mart´ınez\*, **Kentaro Uno**\*, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>**," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, **<a href="DOI: 10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>**, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** \***These authors contributed equally.** (This work will be presented in IEEE ICRA 2024 @Yokohama) **<a href="https://youtu.be/usZFhx5iGGY" target="_blank">[YouTube Video]</a>**
 
-* Masahiro Uda, Kenta Sawa, **Kentaro Uno**，Li Zheng Travis Lim, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/240124-04.html" target="_blank">Development and Grasping Performance Evaluation
-of a Wheel-Gripper Transformable Mechanism</a>**,”_Journal of the Robotics Society of Japan (JRSJ)_，vol. TBD, no. TBD, pp. TBD, 2023. (Accepted, in Japanese)
+* Masahiro Uda, Kenta Sawa, **Kentaro Uno**, Li Zheng Travis Lim, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/240124-04.html" target="_blank">Development and Grasping Performance Evaluation
+of a Wheel-Gripper Transformable Mechanism</a>**,” _Journal of the Robotics Society of Japan (JRSJ)_，vol. TBD, no. TBD, pp. TBD, 2023. (Accepted, in Japanese)
 
 * **Kentaro Uno**, Warley F. R. Ribeiro，Yusuke Koizumi, Kenji Nagaoka, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-09.html" target="_blank">Tumble Stability Criterion Using Gravito-Inertial
 Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the Robotics Society of Japan (JRSJ)_，vol. TBD, no. TBD, pp. TBD, 2023. (Accepted, in Japanese)

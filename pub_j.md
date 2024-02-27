@@ -24,6 +24,8 @@ layout: default
 
 ## 学術誌論文
 
+<!-- * 澤 健太，**宇野 健太朗**，宇田 昌弘，猶木 皓太，吉田 和哉，“**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/240124-04.html" target="_blank">鳥取砂丘月面実証フィールド「ルナテラス」を活用した月面探査ローバーの高速走行実験</a>**”，_日本ロボット学会誌_，vol. TBD, no. TBD, pp. TBD, 2024. （採択済み） -->
+
 * David Rodr´ıguez-Mart´ınez\*, **Kentaro Uno**\*, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>**," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, **<a href="DOI: 10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>**, 2023. **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">(arXiv link)</a>** \***These authors contributed equally.** (This work will be presented in IEEE ICRA 2024 @Yokohama) **<a href="https://youtu.be/usZFhx5iGGY" target="_blank">[YouTube Video]</a>**
 
 * 宇田 昌弘，澤 健太，**宇野 健太朗**，Li Zheng Travis Lim，吉田 和哉，“**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/240124-04.html" target="_blank">車輪－グリッパ間変形可能機構の開発と把持性能評価</a>**”，_日本ロボット学会誌_，vol. TBD, no. TBD, pp. TBD, 2023. （採択済み）
