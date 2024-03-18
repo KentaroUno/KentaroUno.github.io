@@ -69,7 +69,7 @@ layout: default
   
   - "<a href="http://www.nskfam.or.jp/objperson/2022d_develop.html" target="_blank">Development of a Multimodal Mobile Robot using a Transformable Unit between a Wheel and Gripper</a>"
 
-* Apr. 2023 -- Mar. 2024    JKA Research Grant for Young Researchers
+* Apr. 2023 -- Mar. 2024　　JKA Research Grant for Young Researchers
 
   - "<a href="https://hojo.keirin-autorace.or.jp/about/list/kikai/2023/index.html" target="_blank">Research and Development of a Climbing Robot with the Application of a Pin-Array Gripping Mechanism</a>"
 
@@ -79,8 +79,13 @@ layout: default
 
 ### Co-Investigator
 
-* Jan. 2023 -- 　<a href="https://www.jst.go.jp/moonshot/en/program/goal3/" target="_blank">JCN/JST Moonshot Research and Development Program (Goal 3)</a>：
-<a href="https://www.jst.go.jp/moonshot/program/goal3/3B_yoshida.html" target="_blank">Self-evolving AI Robot System for Lunar Exploration and Human Outpost Construction (Project Manager: Prof. Kazuya Yoshida) </a> "Modular and Multiagent Robot System"
+* Apr. 2024 -- Feb. 2025　　Sasakawa Research Aid, The Japan Science Society.
+
+    - "<a href="_blank" target="_blank">Efficient Debris Removal in Water by a Minimized Dual-Armed Robot with Floating Base </a>"
+
+* Jan. 2023 -- TBD　<a href="https://www.jst.go.jp/moonshot/en/program/goal3/" target="_blank">JCN/JST Moonshot Research and Development Program (Goal 3)</a>：
+<a href="https://www.jst.go.jp/moonshot/program/goal3/3B_yoshida.html" target="_blank">Self-evolving AI Robot System for Lunar Exploration and Human Outpost Construction (Project Manager: Prof. Kazuya Yoshida) </a> 
+    - "Modular and Multiagent Robot System"
 
 ### Academic Grant
 

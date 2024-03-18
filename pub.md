@@ -30,7 +30,7 @@ layout: default
 of a Wheel-Gripper Transformable Mechanism</a>**,” _Journal of the Robotics Society of Japan (JRSJ)_，vol. TBD, no. TBD, pp. TBD, 2023. (Accepted, in Japanese)
 
 * **Kentaro Uno**, Warley F. R. Ribeiro，Yusuke Koizumi, Kenji Nagaoka, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-09.html" target="_blank">Tumble Stability Criterion Using Gravito-Inertial
-Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the Robotics Society of Japan (JRSJ)_，vol. TBD, no. TBD, pp. TBD, 2023. (Accepted, in Japanese)
+Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the Robotics Society of Japan (JRSJ)_，vol. 42, no. 3, pp. 1--4, 2023. (Accepted, in Japanese)
 
 * Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-02.html" target="_blank">A Gripper with Pin-Array Structure for Convex and Concave Terrain Shapes</a>**,” _Journal of the Robotics Society of Japan (JRSJ)_，vol. TBD, no. TBD, pp. TBD, 2023. (Accepted, in Japanese)
 

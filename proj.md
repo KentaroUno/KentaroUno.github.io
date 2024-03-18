@@ -53,6 +53,8 @@ enables to be robust under the direct sunlight illumination.
     doi={10.1109/LRA.2023.3335769}}
   ```
 
+  - **Please watch the **<a href="https://youtu.be/usZFhx5iGGY" target="_blank">[YouTube Video]</a>** indroducing our high-speed rover testbed EX1.**
+
 ## Legged Climbing Robotics
 
 For exploring the steep and irregular terrain represented as an outcrop, cliff wall, cave ceiling, and Lunar and Martian lava tube, the legged robot equipped with the gripping mechanism, called <I>limbed climbing robot</I> is to be the innovative strategy to expand the traversable areas by a mobile robot. For the future advanced exploration mission, this research and development project tackles the challenge to realize the autonomous limbed robot's climbing locomotion.
@@ -116,6 +118,18 @@ For exploring the steep and irregular terrain represented as an outcrop, cliff w
 - We can arrange any environment for the climbing robot's experiment.
 
 ![Testfield image](./assets/img/testfield.png)
+
+  ```
+  @inproceedings{uno2024lower,
+    title={Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments},
+    author={Kentaro Uno and Kazuki Takada and Keita Nagaoka and Takuya Kato and Arthur Candalot and Kazuya Yoshida},
+    booktitle={Proceedings of the IEEE/SICE  International Symposium on System Integration (SII)},
+    pages={484--485},
+    year={2024}
+  }
+  ```
+
+- **Please watch the <a href="https://youtu.be/beSt5cv2d0g" target="_blank">[YouTube Video]</a>** for more information!
 
 <!-- ### Mobile Manipulator in Microgravity 
 ![ISS HubRobo picture](./assets/img/iss_hubrobo_picture.png)

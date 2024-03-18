@@ -82,7 +82,12 @@ layout: default
 
 ### 研究分担者／協力者
 
-* 2023年01月 ～ 　<a href="https://www.jst.go.jp/moonshot/program/goal3/" target="_blank">内閣府/JST ムーンショット型研究開発事業（目標3）</a>：
+* 2024年04月 ～ 2025年02月 笹川科学研究助成
+
+  研究課題名："<a href="_blank" target="_blank">フローティングベースを有する小型双腕ロボットを用いた効率的な水中デブリ除去の実験的検証</a>"
+
+
+* 2023年01月 ～ TBD　<a href="https://www.jst.go.jp/moonshot/program/goal3/" target="_blank">内閣府/JST ムーンショット型研究開発事業（目標3）</a>：
 <a href="https://www.jst.go.jp/moonshot/program/goal3/3B_yoshida.html" target="_blank">月面探査／拠点構築のための自己再生型AIロボット（プロジェクトマネージャー：東北大学 吉田和哉 教授）</a>
 「モジュラー・マルチエージェントなロボットシステム」
 
