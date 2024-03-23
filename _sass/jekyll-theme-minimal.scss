@@ -38,8 +38,18 @@ h2 {
   color:#333333;
 }
 
-h3, h4, h5, h6 {
+h3 {
   font-size:20px;
+  color:#333333;
+}
+
+h4 {
+  font-size:16px;
+  color:#333333;
+}
+
+h5, h6 {
+  font-size:14px;
   color:#333333;
 }
 
@@ -69,8 +79,11 @@ a:hover small {
   margin:0 auto;
 }
 
+ /* textboxの書式設定 */
 blockquote {
-  border-left:1px solid #e5e5e5;
+  background:#444444; /*背景色の指定*/
+  border-left:5px solid #dddddd; /*左の線色の指定*/
+  color:#dddddd; /*文字色の指定*/
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
