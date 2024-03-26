@@ -13,7 +13,7 @@ layout: default
 
 * Oct. 2021 -- Today　Assistant Professor, Graduate School of Engineering, Tohoku University. (Lab: <a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank">Space Robotics Laboratory</a>)
 
-  ### Lectures (Tohoku University)
+  ### Lecture (Tohoku University)
   - Apr. 2022 -- Today　Laboratory Experiment I: for undergraduates
   - Oct. 2021 -- Today　Seminar I: for undergraduates
   - Oct. 2021 -- Today　Seminar II: for undergraduates 
@@ -27,6 +27,7 @@ layout: default
 * Jul. 2018 -- Mar. 2019　Software Engineer Intern, <a href="https://ispace-inc.com" target="_blank">ispace inc.</a>
 
 ## Education
+
 * Oct. 2018 -- Sep. 2021　Ph.D. in Aerospace Engineering @Tohoku University (Sendai, Japan)
   
   Thesis: "<a href="https://cir.nii.ac.jp/crid/1110578372205136000" target="_blank">Autonomous Limbed Climbing Robots for Challenging Terrain Exploration</a>"，GPA: 4.00/4.00
@@ -41,7 +42,7 @@ layout: default
 
 * Apr. 2010 -- Mar. 2013　Hokkaido Sapporo Minami High School (Sapporo, Japan)
 
-## Publications
+## Publication
 
 * Publication list is <a href="pub.html" target="_blank">here</a>
 
@@ -81,7 +82,7 @@ layout: default
 
 * Apr. 2024 -- Feb. 2025　　Sasakawa Research Aid, The Japan Science Society.
 
-    - "<a href="_blank" target="_blank">Efficient Debris Removal in Water by a Minimized Dual-Armed Robot with Floating Base </a>"
+    - "<a href="_blank" target="_blank">Efficient Debris Removal in Water by a Small Floating Based Dual-Arm Robot </a>"
 
 * Jan. 2023 -- TBD　<a href="https://www.jst.go.jp/moonshot/en/program/goal3/" target="_blank">JCN/JST Moonshot Research and Development Program (Goal 3)</a>：
 <a href="https://www.jst.go.jp/moonshot/program/goal3/3B_yoshida.html" target="_blank">Self-evolving AI Robot System for Lunar Exploration and Human Outpost Construction (Project Manager: Prof. Kazuya Yoshida) </a> 
@@ -128,13 +129,19 @@ layout: default
 
 <!-- * 2022年01月25日　札幌市立中央中学校　総合的な学習の時間（学外講師として授業参加） -->
 
-## Joint Research Partnerships
+## Joint Research Partnerships (Past and Current)
 
 * Robotics Systems Lab., Department of Mechanical and Process Engineering, ETH Zurich (Zürich, Switzerland)
 
 * JAXA Human Spaceflight Technology Center
 
 * Kawasaki Heavy Industries, Ltd.
+
+* AI inside
+
+* TOYOTA Motor Corporation
+
+* Amulapo
 
 ## Community
 
@@ -153,5 +160,7 @@ layout: default
 * Winter sport (skiing, snowboarding)
 
 * Coffee
+
+* Play with my daughter
 
 ## [Back to Top Page](./)
