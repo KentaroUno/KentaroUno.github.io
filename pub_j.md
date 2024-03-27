@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: justify
 ---
 
 <!-- @TODO: wanting to use [link](url){:target="_blank"} to open the link in another tab -->
