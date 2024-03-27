@@ -124,7 +124,7 @@ Test," _Proceedings of the 17th European-African Regional Conference of the Inte
 
 ## 国内学会発表論文および口頭発表
 
-* 阿依 ダニシ，Tharit Sinsunthorn，Pascal Pama，**宇野 健太朗**，吉田 和哉，“月面での探査や作業を目的としたモジュラー型ロボット：Moonbot 0の研究開発”，第68回システム制御情報学会研究発表講演会，#TBD，2024．（発表予定）
+* 阿依 ダニシ，Tharit Sinsunthorn，Pascal Pama，**宇野 健太朗**，吉田 和哉，“月面での探査や作業を目的としたモジュラー型ロボット：Moonbot 0の研究開発”，第68回システム制御情報学会研究発表講演会，#32J-1，2024．（発表予定）
 
 * 大河原 拓，小出 健司，大石 修二，横塚 将志，阪野 貴彦，**宇野 健太朗**，吉田 和哉，“スキッドステアリングロボットのオンラインキャリブレーションを考慮したタイトカップリングによる LiDAR-IMU-Wheel オドメトリ”，第29回ロボティクスシンポジア，#1A3，2024．
 
@@ -178,4 +178,4 @@ Test," _Proceedings of the 17th European-African Regional Conference of the Inte
 
 * 吉田 和哉，永岡 健司，**宇野 健太朗**，白井 有樹，William Jones，“崖降り・崖登り探査のための脚型ロボットの研究開発”，第62回宇宙科学技術連合講演会，#3D15，2018．
 
-## [Back to Top Page](./)
+### [Back to Top Page](./)

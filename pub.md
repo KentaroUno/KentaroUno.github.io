@@ -112,4 +112,4 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the 
 
 * Please see the [Japanese page](./pub_j.html).
 
-## [Back to Top Page](./)
+### [Back to Top Page](./)

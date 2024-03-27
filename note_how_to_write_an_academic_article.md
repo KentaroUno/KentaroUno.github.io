@@ -195,6 +195,6 @@ As I mentioned before, the best tool to export the graph is Matlab. The way to e
 
 To be added ...  
 
-## [その他に戻る](./etc_j.html)
+### [その他に戻る](./etc_j.html)
 
-## [Back to Top Page](./)
+### [Back to Top Page](./)
