@@ -21,15 +21,16 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
+| 2024.04.04. | 論文２つが宇宙ロボット工学の国際会議 International Conference on Space Robotics (iSpaRo)＠ルクセンブルクに採択されました．→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2024.02.06. | 共著論文２つがロボット工学のトップカンファレンス International Conference on Robotics and Automation (ICRA) ＠横浜にて発表されます．→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2023.11.23. | [Our proceedings paper to the International conference ISTVS was selected as a best paper!]()→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2023.11.23. | [国際会議ISTVSに投稿・発表した内容がBest paperを受賞しました！]()→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2023.11.18. | [国際会議ICRAEに投稿・発表した内容がセッションアワードを受賞しました！](https://www.mech.tohoku.ac.jp/prize231122/)→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2023.11.06. | 日本ロボット学会誌（レター）に2報，[IEEE Robotics and Automation Lettersに1報の論文](https://ieeexplore.ieee.org/document/10325569)が採録決定しました！→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2023.10.23. | 10月17日～20日に富山で開催された第67回宇宙科学技術連合講演会において，ISS船内伝い歩き移動ロボットの開発と地上評価に関する研究成果を発表しました．→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2023.09.28. | 7月11日にオンライン開催された <a href="https://shingi.jst.go.jp/list/list_2023/2023_tohoku.html#20230711X-001" target="_blank">東北大学 新技術説明会</a>にて「さまざまな凹凸形状をつかめるピン配列型把持機構」という発表をおこないました（同技術については特許出願済）．→ <a href="https://youtu.be/uEP9wexJkyE?feature=shared" target="_blank">[YouTube]</a> <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2023.09.01. | 9月11日～14日に仙台で開催される日本ロボット学会学術講演会 2023では，計6件の発表をおこないます．→ [研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2023.08.01. | Please check our latest paper about high-speed rover development: "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>"! <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
+| 2023.11.23. | [Our proceedings paper to the International conference ISTVS was selected as a best paper!]()→ [Publication page](./pub.html) |
+| 2023.11.23. | [国際会議ISTVSに投稿・発表した内容がBest paperを受賞しました！]()→ [研究業績](./pub_j.html) |
+| 2023.11.18. | [国際会議ICRAEに投稿・発表した内容がセッションアワードを受賞しました！](https://www.mech.tohoku.ac.jp/prize231122/)→ [研究業績](./pub_j.html) |
+| 2023.11.06. | 日本ロボット学会誌（レター）に2報，[IEEE Robotics and Automation Lettersに1報の論文](https://ieeexplore.ieee.org/document/10325569)が採録決定しました！→ [研究業績](./pub_j.html) |
+| 2023.10.23. | 10月17日～20日に富山で開催された第67回宇宙科学技術連合講演会において，ISS船内伝い歩き移動ロボットの開発と地上評価に関する研究成果を発表しました．→ [研究業績](./pub_j.html) |
+| 2023.09.28. | 7月11日にオンライン開催された <a href="https://shingi.jst.go.jp/list/list_2023/2023_tohoku.html#20230711X-001" target="_blank">東北大学 新技術説明会</a>にて「さまざまな凹凸形状をつかめるピン配列型把持機構」という発表をおこないました（同技術については特許出願済）．→ <a href="https://youtu.be/uEP9wexJkyE?feature=shared" target="_blank">[YouTube]</a> |
+| 2023.09.01. | 9月11日～14日に仙台で開催される日本ロボット学会学術講演会 2023では，計6件の発表をおこないます．→ [研究業績](./pub_j.html) |
+| 2023.08.01. | Please check our latest paper about high-speed rover development: "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>"! |
 | 2023.07.19. | [研究業績](./pub_j.html) を更新しました． |
 | 2023.06.30. | 名古屋で開催されたロボティクス・メカトロニクス講演会 2023にて，所属研究室から3件の発表をおこないました．→[研究業績](./pub_j.html) |
 | 2023.05.31. | **Our proceedings paper in ICRA "[RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity](https://arxiv.org/abs/2301.07996)" was selected for the ICRA 2023 Outstanding Locomotion Paper Finalist as well as the IEEE RAS Japan Joint Chapter Young Award (ICRA2023)!! ([Publication page](./pub.html))** <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
