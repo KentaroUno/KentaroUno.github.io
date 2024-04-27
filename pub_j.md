@@ -64,10 +64,10 @@ Test," _Proceedings of the 17th European-African Regional Conference of the Inte
 
 
 
-* Shreya Santra\*, **Kentaro Uno**\*, Gen Kudo\* Kazuya Yoshida, "Risk-Aware Coverage Path Planning for Lunar Micro-Rovers Leveraging Global and Local Environmental Data," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. 
+* Shreya Santra\*, **Kentaro Uno**\*, Gen Kudo\* Kazuya Yoshida, "Risk-Aware Coverage Path Planning for Lunar Micro-Rovers Leveraging Global and Local Environmental Data," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. (accepted)  \***These authors contributed equally.
 <!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** \***Equal contribution.**  -->
 
-* Akiyoshi Uchida, **Kentaro Uno**, Kazuya Yoshida, "Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. 
+* Akiyoshi Uchida, **Kentaro Uno**, Kazuya Yoshida, "Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. (accepted)
 <!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>**  -->
 
 * Antoine Richard\*, Junnosuke Kamohara\*, **Kentaro Uno**, Shreya Santra, Dave van der Meer, Miguel Olivares-Mendez, and Kazuya Yoshida, "**<a href="https://arxiv.org/pdf/2309.08997.pdf" target="_blank">OmniLRS: A Photorealistic Simulator for Lunar Robotics</a>**," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. \***Equal contribution.** (accepted) **<a href="https://arxiv.org/abs/2309.08997" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://github.com/AntoineRichard/OmniLRS" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0"></a>**
