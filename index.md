@@ -19,6 +19,7 @@ layout: default
 
 | DATE        | CONTENT          |
 |:------------|:------------------|
+| 2024.04.27. | Please contribute to our workshop ["Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions"](https://www.isparo.space/lunar-workshop) for International Conference on Space Robotics (iSpaRo) in Luxembourg! <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2024.04.04. | Our two papers are accepted for International Conference on Space Robotics (iSpaRo) in Luxembourg!→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2024.02.06. | Our two papers will be presented in International Conference on Robotics and Automation (ICRA) in Yokohama, Japan!→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2023.11.23. | [Our proceedings paper to the International conference ISTVS was selected as a best paper!]()→ [Publication page](./pub.html) |
