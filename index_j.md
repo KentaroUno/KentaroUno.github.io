@@ -21,6 +21,7 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
+| 2024.05.28. | 横浜で開催される車両と走行力学に関する国際会議ISTVSに3報の論文（"Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil"ほか）が，ドイツはカイザースラウテルンで開催される歩行ロボットとクライミングロボットに関する国際会議CLAWARに1報の論文:"Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots"が採択されました．→ [研究業績](./pub_j.html)<span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2024.04.27. | ルクセンブルクで開催される宇宙ロボット工学の国際会議iSpaRoにおけるワークショップ ["Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions"](https://www.isparo.space/lunar-workshop) にShort paperの投稿をお願いします！ <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2024.04.04. | 論文２つが宇宙ロボット工学の国際会議 International Conference on Space Robotics (iSpaRo)＠ルクセンブルクに採択されました．→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
 | 2024.02.06. | 共著論文２つがロボット工学のトップカンファレンス International Conference on Robotics and Automation (ICRA) ＠横浜にて発表されます．→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|

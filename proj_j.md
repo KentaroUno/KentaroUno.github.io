@@ -4,79 +4,108 @@ layout: default
 
 # プロジェクト
 
-日本語のページはただいま準備中です．運用開始まで，[英語のページ](./proj.html)をご覧ください．
+そのほかのプロジェクトは[英語のページ](./proj.html)をご覧ください．
 
-<!-- 
-I am interested in the field and service robotics in the extreme environment. The followings are the main projects that I have been performing. Each detailed page will be updated soon...
+# [ピン配列型把持機構](./proj_pinarray.html)
 
-# Lunar/Planetary Exploration Rover
+## ピン配列型把持機構の開発 **<a href="https://youtu.be/dWo28Nl5jgE?feature=shared" target="_blank"> <img src="assets/img/youtubeLogo.png" width="100" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>**
 
-Wheeled robotic exploration on planetary surfaces needs an innovation in terms of the efficiency and locomotion speed for advanced mission. Increse of the ratio of the on-board autonomization (sensing, mapping, localization, online path planning, and navigation) is the essential mission.
+<img src="assets/img/pin-array_gripper.png" width="" alt="pin-array_gripper" border="0" align="center" hspace="0" vspace="0">
 
-## Qualification and Implementation of Time-of-Flight Camera for Space Exploration Microrover
+### 概要
 
-![ToF camera testing image](./assets/img/tof_testing.png)
+- ピン配列型把持機構は地形の凹形状と凸形状の両方を把持可能な画期的なグリッパである．
 
-- ToF (Time-of-Flight) has not been the space-grade technology. However, optical and software filtering 
-enables to be robust under the direct sunlight illumination.
+- 事前のセンシングを必要とせずに，地形に押し付けて単一のアクチュエータを駆動させるだけで凹と凸の両方の形状を掴むことが可能である．
 
-## High-Speed and High-Traversability Rover Testbed
+- また，ピンの沈み込み量を計測することで，ハプティックに地形形状をセンシングすることも可能である．
 
-![EX-1 image](./assets/img/ex-1.png)
+- ピン先の素材等を変更することで，硬いものと柔らかいものの両方を把持可能である．
 
-# Legged Climbing Robotics
+  （例）
 
-For exploring the steep and irregular terrain represented as an outcrop, cliff wall, cave ceiling, and Lunar and Martian lava tube, the legged robot equipped with the gripping mechanism, called <I>limbed climbing robot</I> is to be the innovative strategy to expand the traversable areas by a mobile robot. For the future advanced exploration mission, this research and development project tackles the challenge to realize the autonomous limbed robot's climbing locomotion.
+  - 爪を装備することで岩石のような表面がざらざらしたような剛体を強固に把持可能である．
+  
+  - ピン先に柔軟部材を用いることで野菜や果物など柔らかい不定形状の物体を把持することが可能である．
 
-## HubRobo: Quadrupedal Climbing Robot Testbed
-![HubRobo picture](./assets/img/hubrobo_picture.png)
+### 動画
 
--  HubRobo is a couple kg class ground-gripping legged mobile robot platform aimed to be deployed for exploration, inspection, monitoring and so on in harsh environment. 
-- Highly energy-efficient, miniaturized, and strong passive spine grippers are installed at the tip of the each foot, which allow it to climb up rocky uneven slope.
-- **Please watch the [YouTube video](https://www.youtube.com/embed/hK9ax_vVjNc) indroducing HubRobo.**
+- 本研究成果に関する動画として下記をご覧ください．
 
-## ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics
+    - <a href="https://youtu.be/uEP9wexJkyE?feature=shared" target="_blank"><img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> 「さまざまな凹凸形状をつかめるピン配列型把持機構」</a>（2023年7月11日，<a href="https://shingi.jst.go.jp/list/list_2023/2023_tohoku.html#20230711X-001" target="_blank">東北大学 新技術説明会</a>にて） 
 
-![ClimbLab simulation image](./assets/img/climblab.png)
+    - <a href="https://youtu.be/dWo28Nl5jgE?feature=shared" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles </a>
 
-| Slope climbing | Path planning | Foothold planning |
-|-------------|---------------|---------------|
-| ![ClimbLab simulation image](./assets/img/climblab_anymal_climbing_sim.png) | ![ClimbLab simulation image](./assets/img/climblab_path_planning_sim.png) | ![ClimbLab simulation image](./assets/img/climblab_gait_planning_sim.gif) |
 
-- ClimbLab is a MATLAB simulator for the articulated robotics system particularly for climbing application.
+### 成果
 
-- This simulator wraps up functions for:
+- 本成果に関する主要論文は下記になります．
 
-  ☑ Dynamic analysis and simulation of articulated multi-body systems with a floating base (*This is performed by [SpaceDyn](https://github.com/Space-Robotics-Laboratory/SpaceDyn)*)
+  ```
+  @@INPROCEEDINGS{10011858,
+    author={Kato, Takuya and Uno, Kentaro and Yoshida, Kazuya},
+    booktitle={2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)}, 
+    title={A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles}, 
+    year={2022},
+    volume={},
+    number={},
+    pages={1365-1370},
+    keywords={Three-dimensional displays;Shape;Shape measurement;Prototypes;Grasping;Terrain mapping;Vision sensors},
+    doi={10.1109/ROBIO55434.2022.10011858}}
+  }
+  ```
 
-  ☑ Design of legged robotic system
+  ```
+  @article{加藤匠哉2024ピン配列型凹凸地形把持機構,
+    title={ピン配列型凹凸地形把持機構},
+    author={加藤匠哉 and 宇野健太朗 and 吉田和哉},
+    journal={日本ロボット学会誌},
+    volume={42},
+    number={2},
+    pages={177--180},
+    year={2024},
+    publisher={一般社団法人 日本ロボット学会}
+  }
+  ```
+- 本成果に関する特許情報は下記になります．
 
-  ☑ Environment demonstration (different terrain shape, inclination, and gravity)
+  加藤 匠哉，宇野 健太朗，“把持機構、ロボット”，公開番号WO/2023/233468，国際出願番号PCT/JP2022/021947，国際出願日2022年5月30日．
 
-  ☑ Visualization (Robot, map, support polygons, stability criterion, and time-history of any state variables) 
+## ピン配列型把持機構を応用したクライミングロボットの研究開発
 
-- **ClimbLab is an open-sourced simulator. See the [GitHub page](https://github.com/Space-Robotics-Laboratory/ClimbLab).**
+<img src="assets/img/umius.gif" height="200" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> <img src="assets/img/umius2.png" height="200" alt="YouTube video" border="0" align="center" hspace="0" vspace="0">
 
-## Terrain-, Inclination-, and Gravity-Adjustable Testfield
-- We can arrange any environment for the climbing robot's experiment.
 
-![Testfield image](./assets/img/testfield.png)
+<center> <a href="https://jka-cycle.jp" target="_blank"><img src="assets/img/banner2.png" width="200"></a> <a href="http://keirin.jp/pc/top" target="_blank"><img src="assets/img/keirinjp_banner_pc.gif" width="200"></a> </center>
 
-<!-- ### Mobile Manipulator in Microgravity 
-![ISS HubRobo picture](./assets/img/iss_hubrobo_picture.png)
+### 概要
 
-- International Space Station -->
+　ピン配列型把持機構を発展させた本研究では，ピン配列把持機構を小型化・高性能化し，要素として複数組み合わせた移動体を実現することで，崖や洞窟壁面，瓦礫地帯などの不整地表面でも安定して自在にクライミング移動可能なロボットシステムを創出することを目的としています．本研究成果は，地質調査や宇宙探査用移動ロボットという科学的利用価値と，災害現場での救助活動支援や環境モニタリング業務の代替といった近未来のロボット社会実現に向けた社会的利用価値が見込まれます．
 
-<!-- ## Sensorized Spined Gripper
-![Sensorized Spined Gripper](./assets/img/sensorized_gripper.png)
+　なお，本研究は競輪の補助を受けて実施しています．
 
-# Robotic Active Debris Removal in Orbit
+### 動画
 
-Active Debris Removal (ADR) is the essential theme towards the sustainable orbital activity.
+　今後，論文採択と同時にYouTubeに動画をアップロードしてゆく予定です．
 
-... (detail information still under constuction) ...
+### 成果
 
-## Structure-from-Motion-based Spacecraft Pose Estimation
-![Structure from Motion](./assets/img/sfm.png)  -->
+- 本成果に関する主要論文は下記になります．
+
+  ```
+  @article{加藤匠哉2024複数のピン配列型把持モジュールによる崖登りロボットの開発,
+    title={複数のピン配列型把持モジュールによる崖登りロボットの開発},
+    author={加藤匠哉 and 宇野健太朗 and 吉田和哉},
+    journal={自律分散システム・シンポジウム},
+    volume={},
+    number={},
+    pages={},
+    year={2023},
+  }
+  ```
+
+    長岡佳汰，宇野健太朗，吉田和哉，“ピン配列型把持機構を応用したクライミングロボットの実証実験”，第42回 日本ロボット学会誌，大阪，2024年．※発表予定
+
+
 
 ### [Back to Top Page](./)

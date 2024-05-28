@@ -37,7 +37,7 @@ layout: justify
 * 加藤 匠哉，**宇野 健太朗**，吉田 和哉，“**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-02.html" target="_blank">ピン配列型凹凸地形把持機構</a>**”，_日本ロボット学会誌_，vol. 42, no. 3, pp. 1--4, 2023．（採択済み）
 <!-- **<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>** -->
 
-* Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "**<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank">Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain</a>**", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 19, no. 5, pp. 794--801, 2021. **<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
+* Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "**<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank">Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain</a>**", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 19, no. 5, pp. 794--801, 2021. **<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0ssssssssssssss" vspace="0"></a>**
 
 * **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, "**<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_619/_article/-char/en" target="_blank">Qualification of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>**", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 16, no. 7, pp. 619--627, 2018. **<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_619/_article/-char/en" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
@@ -45,12 +45,15 @@ layout: justify
 
 ## 国際学会発表論文および口頭発表
 
-<!-- * Vinicius Tanaka, Junnnosuke Kamohara, James Harell, Keisuke Takehana, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "SEvaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
+* Masazumi Imai, **Kentaro Uno**, and Kazuya Yoshida, "Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots," _Proceedings of the 27th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2024_, pp. TBD, 2024.
 
-<!-- * Tomomi Tanaka, Keisuke Takehana, **Kentaro Uno**, and Kazuya Yoshida, "SEvaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
+* Vinicius Tanaka, Junnnosuke Kamohara, James Harell, Keisuke Takehana, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "SEvaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024. (To be presented) <!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
 
-<!-- * Keisuke Takehana, **Kentaro Uno**, and Kazuya Yoshida, "Evaluation of Grouser Wheel Traction Performance in High-Speed by Single-Wheel
-Test," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2023., pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
+* Tomomi Tanaka\*, Keisuke Takehana\*, James Hurrell, **Kentaro Uno**, and Kazuya Yoshida, "Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024. (To be presented) \***These authors contributed equally.**
+<!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
+
+* Keisuke Takehana, Kenta Sawa, **Kentaro Uno**, Shreya Santra, and Kazuya Yoshida, "Evaluation of Grouser Wheel Traction Performance in High-Speed by Single-Wheel Test," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024., pp. TBD, 2024. (To be presented)
+<!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
 
 
 
@@ -64,7 +67,7 @@ Test," _Proceedings of the 17th European-African Regional Conference of the Inte
 
 
 
-* Shreya Santra\*, **Kentaro Uno**\*, Gen Kudo\* Kazuya Yoshida, "Risk-Aware Coverage Path Planning for Lunar Micro-Rovers Leveraging Global and Local Environmental Data," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. (accepted)  \***These authors contributed equally.
+* Shreya Santra\*, **Kentaro Uno**\*, Gen Kudo\* Kazuya Yoshida, "Risk-Aware Coverage Path Planning for Lunar Micro-Rovers Leveraging Global and Local Environmental Data," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. (accepted)  \***These authors contributed equally.**
 <!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** \***Equal contribution.**  -->
 
 * Akiyoshi Uchida, **Kentaro Uno**, Kazuya Yoshida, "Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. (accepted)
@@ -126,7 +129,7 @@ Test," _Proceedings of the 17th European-African Regional Conference of the Inte
 
 ## 国内学会発表論文および口頭発表
 
-* 阿依 ダニシ，Tharit Sinsunthorn，Pascal Pama，**宇野 健太朗**，吉田 和哉，“月面での探査や作業を目的としたモジュラー型ロボット：Moonbot 0の研究開発”，第68回システム制御情報学会研究発表講演会，#32J-1，2024．（発表予定）
+* 阿依 ダニシ，Tharit Sinsunthorn，Pascal Pama，**宇野 健太朗**，吉田 和哉，“月面での探査や作業を目的としたモジュラー型ロボット：Moonbot 0の研究開発”，第68回システム制御情報学会研究発表講演会，#32J-1，2024．
 
 * 大河原 拓（東北大），小出 健司，大石 修二，横塚 将志，阪野 貴彦（産総研），**宇野 健太朗**，吉田 和哉（東北大） ，“スキッドステアリングロボットのオンラインキャリブレーションを考慮したタイトカップリングによる LiDAR-IMU-Wheel オドメトリ”，第29回ロボティクスシンポジア，#1A3，2024．
 
@@ -153,6 +156,8 @@ Test," _Proceedings of the 17th European-African Regional Conference of the Inte
 * 竹花 佳祐，木﨑 詩乃，**宇野 健太朗**，吉田 和哉（東北大），“月面探査ローバー用グラウザ付き車輪の牽引特性評価”，ロボティクス・メカトロニクス講演会 2023，#1A2-B25，2023．
 
 * 澤 健太，**宇野 健太朗**，宇田 昌弘，工藤 元（東北大），David Rodriguez-Martinez（EPFL），吉田 和哉（東北大），“高速走行する月惑星探査ローバーのためのサスペンション機構の開発と実験的評価”，ロボティクス・メカトロニクス講演会 2023，#1A2-B26，2023．
+
+* 加藤 匠哉，**宇野 健太朗**，吉田 和哉（東北大），“複数のピン配列型把持モジュールによる崖登りロボットの開発”，自律分散システム・シンポジウム，2023．
 
 * 加藤 匠哉，**宇野 健太朗**，吉田 和哉（東北大），“ピン配列型凹凸地形把持機構”，第40回 日本ロボット学会学術講演会，#4K3-07，2022．（第40回 日本ロボット学会誌へのレター同時投稿オプションで論文発表）
 
