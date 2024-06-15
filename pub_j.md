@@ -132,9 +132,9 @@ layout: justify
 
 * **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, "**<a href="/assets/files/ISTS2017_KentaroUno.pdf" target="_blank">Capability of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>**", *Proceedings of the 31st International Symposium on Space Technology Science (ISTS)*, #2017-k-37, 2017.
 
-* Takuto Oikawa, Toshiki Tanaka, John Walker, **Kentaro Uno**, Paulo Costa, Nathan Britton, Kazuya Yoshida, "Preliminary Radiation Test Result for Space-Ready Qualification of Lunar Micro Rover", *Proceedings of the 31st International Symposium on Space Technology Science (ISTS)*, #2017-i-10, 2017.
+* Takuto Oikawa, Toshiki Tanaka, John Walker, **Kentaro Uno**, Paulo Costa, Nathan Britton, Kazuya Yoshida, "**Preliminary Radiation Test Result for Space-Ready Qualification of Lunar Micro Rover**", *Proceedings of the 31st International Symposium on Space Technology Science (ISTS)*, #2017-i-10, 2017.
 
-* Takuto Oikawa, Toshiki Tanaka, John Walker, **Kentaro Uno**, Paulo Costa, Nathan Britton, Kazuya Yoshida, "Thermal Design Analysis of Conceptual Flight Model for a Lunar Exploration Rove," *Proceedings of the 13th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, 2016.
+* Takuto Oikawa, Toshiki Tanaka, John Walker, **Kentaro Uno**, Paulo Costa, Nathan Britton, Kazuya Yoshida, "**Thermal Design Analysis of Conceptual Flight Model for a Lunar Exploration Rover,**" *Proceedings of the 13th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, 2016.
 
 
 
