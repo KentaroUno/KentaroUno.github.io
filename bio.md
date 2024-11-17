@@ -7,7 +7,7 @@ layout: default
 ## Work Experience
 
 <!-- <img src="assets/img/srl.png" width="120"> -->
-<a href="https://www.tohoku.ac.jp/en/" target="_blank"><img src="assets/img/Toh_E_L_P_K.gif" width="80" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10"></a>
+<a href="https://www.tohoku.ac.jp/en/" target="_blank"><img src="assets/img/Toh_E_L_P_RGB_2381.gif" width="120" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10"></a>
 <a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank"><img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10"></a>
 
 

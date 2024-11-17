@@ -12,7 +12,10 @@ Wheeled robotic exploration on planetary surfaces needs an innovation in terms o
 
 ### Qualification and Implementation of Time-of-Flight Camera for Space Exploration Microrover
 
-![ToF camera testing image](./assets/img/tof_testing.png)
+<center>
+<img src="assets/img/tof_testing.png" alt="ToF camera testing image" border="0" align="center" width="80%" hspace="0" vspace="10" class="scale-img"> 
+</center>
+
 
 - ToF (Time-of-Flight) has not been the space-grade technology. However, optical and software filtering 
 enables to be robust under the direct sunlight illumination.
@@ -36,7 +39,9 @@ enables to be robust under the direct sunlight illumination.
 
 ### High-Speed and High-Traversability Rover Testbed
 
-<img src="assets/img/ex-1.gif" alt="ex-1.gif" border="0" align="center" hspace="0" vspace="10">
+<!-- <div class="image_mouseover_1">  -->
+<img src="assets/img/ex-1.gif" alt="ex-1.gif" border="0" align="center" width="80%" hspace="0" vspace="10" class="scale-img"> 
+<!-- </div> -->
 <!-- ![EX-1 image](./assets/img/ex-1.png) -->
 
 

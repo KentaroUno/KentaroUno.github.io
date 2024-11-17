@@ -8,7 +8,7 @@ layout: default
 
 <!-- <img src="assets/img/srl.png" width="120"> -->
 <a href="https://www.tohoku.ac.jp/japanese/" target="_blank">
-<img src="assets/img/Toh_E_L_P_K.gif" width="80" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10"></a>
+<img src="assets/img/Toh_T_E_L_P_RGB_2381.gif" width="120" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10"></a>
 <a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank"><img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10"></a>
 
 * 2021年10月 ～ 現在　東北大学　大学院工学研究科　航空宇宙工学専攻　助教 （所属：<a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank">宇宙探査工学分野「宇宙ロボット研究室」</a>）

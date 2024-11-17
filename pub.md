@@ -22,20 +22,26 @@ layout: justify
 
 ## Journals
 
+
+* Keisuke Takehana, Shino Kizaki, Tomomi Tanaka, **Kentaro Uno**, and Kazuya Yoshida, "**<a href="https://doi.org/10.1016/j.jterra.2024.101011" target="_blank">Comparison of Lunar Rover Wheel Performance in Soils with Different Cohesive Properties</a>**," *Journal of Terramechanics*, vol. 117, p. 101011, 2025.
+<!-- **<a href="https://doi.org/10.1016/j.jterra.2024.101011" target="_blank">DOI: https://doi.org/10.1016/j.jterra.2024.101011</a>**, 2025. -->
+
+* Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, **Kentaro Uno**, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10681089" target="_blank">Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots</a>**," *IEEE Access*, vol. 12, pp. 134728--134738, 2024. **<a href="https://arxiv.org/abs/2404.02515" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://ieeexplore.ieee.org/document/10681089" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
+
 <!-- * Kenta Sawa, **Kentaro Uno**, Kohta Naoki, Masahiro Uda, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/240124-04.html" target="_blank">Lunar Exploration Rover’s High-Speed Mobility Experiment in Moon Surface Analogue Test Field: "Lunar Terrace” in Tottori Sand Dunes</a>**",” _Journal of the Robotics Society of Japan (JRSJ)_，vol. TBD, no. TBD, pp. TBD, 2024. (Accepted, in Japanese) -->
 
 * David Rodr´ıguez-Mart´ınez\*, **Kentaro Uno**\*, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>**," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, **<a href="DOI: 10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>**, 2023. \*These authors contributed equally. (This work will be presented in IEEE ICRA 2024 @Yokohama) **<a href="https://youtu.be/usZFhx5iGGY" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"></a>** **<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
 * Masahiro Uda, Kenta Sawa, **Kentaro Uno**, Li Zheng Travis Lim, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/240124-04.html" target="_blank">Development and Grasping Performance Evaluation
-of a Wheel-Gripper Transformable Mechanism</a>**,” _Journal of the Robotics Society of Japan (JRSJ)_，vol. TBD, no. TBD, pp. TBD, 2023. (Accepted, in Japanese)
-<!-- **<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>** -->
+of a Wheel-Gripper Transformable Mechanism</a>**,” _Journal of the Robotics Society of Japan (JRSJ)_，vol. 42, no. 6, pp. 580--583, 2023. (in Japanese)
+**<a href="https://doi.org/10.7210/jrsj.42.580" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="J-STAGE" border="0" align="center" hspace="0" vspace="0"></a>**
 
 * **Kentaro Uno**, Warley F. R. Ribeiro，Yusuke Koizumi, Kenji Nagaoka, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-09.html" target="_blank">Tumble Stability Criterion Using Gravito-Inertial
-Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the Robotics Society of Japan (JRSJ)_，vol. 42, no. 3, pp. 1--4, 2023. (Accepted, in Japanese)
-<!-- **<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>** -->
+Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the Robotics Society of Japan (JRSJ)_，vol. 42, no. 3, pp. 295--298, 2023. (in Japanese)
+**<a href="https://doi.org/10.7210/jrsj.42.295" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
-* Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-02.html" target="_blank">A Gripper with Pin-Array Structure for Convex and Concave Terrain Shapes</a>**,” _Journal of the Robotics Society of Japan (JRSJ)_，vol. TBD, no. TBD, pp. TBD, 2023. (Accepted, in Japanese) 
-<!-- **<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>** -->
+* Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, “**<a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-02.html" target="_blank">A Gripper with Pin-Array Structure for Convex and Concave Terrain Shapes</a>**,” _Journal of the Robotics Society of Japan (JRSJ)_，vol. 42, no. 2, pp. 177--180, 2023. (in Japanese) 
+**<a href="https://doi.org/10.7210/jrsj.42.177" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "**<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank">Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain</a>**", _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 19, no. 5, pp. 794--801, 2021. **<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
@@ -47,48 +53,80 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the 
 
 ## Conferences
 
-<!-- CASE 2024 conference -->
+### 2025
 
-* **Kentaro Uno**\*, Takehiro Matsuoka\*, Akiyoshi Uchida, and Kazuya Yoshida, "Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris," *Proceedings of the IEEE International Conference on Automation Science and Engineering (CASE)*, pp. TBD, 2024. (accepted) \*These authors contributed equally.
+<!-- ICARA 2025 -->
+<!-- * Riku Suzuki, Ayumi Umemura, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, ... -->
+
+<!-- SII 2025 -->
+
+* Seiko Piotr Yamaguchi\*, **Kentaro Uno**\*, Yasumaru Fujii, Masazumi Imai, Kazuki Takada, Kazuya Yoshida, "Towards the Automation in the Space Station: Feasibility Study and Ground Tests of a Multi-Limbed Intra Vehicular Robot," *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. \*These authors contributed equally. (to be presented)
+<!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>**  -->
+
+* Luca Nunziante, **Kentaro Uno**, Gustavo H. Diaz, Shreya Santra, Alessandro De Luca, Kazuya Yoshida, "Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction," *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. TBD, 2024. (to be presented)
+<!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>**  -->
+
+### 2024
+
+<!-- iSAIRAS -->
+<!-- * Kazuya Yoshida et al. -->
+
+<!-- ISTVS 2024 -->
+
+* Junnosuke Kamohara\*, Vinicius Ares\*, James Hurrell, Keisuke Takehana, Antoine Richard, Shreya Santra, **Kentaro Uno**, Eric Rohmer, Kazuya Yoshida, "Modelling of Terrain Deformation by a Grouser Wheel for Lunar Rover Simulation," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024. \*These authors contributed equally.
+**<a href="https://www.arxiv.org/abs/2408.13468" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>**
+
+* Tomomi Tanaka\*, Keisuke Takehana\*, James Hurrell, **Kentaro Uno**, and Kazuya Yoshida, "Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024. \*These authors contributed equally.
+<!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
+
+* Keisuke Takehana, Kenta Sawa, **Kentaro Uno**, Shreya Santra, and Kazuya Yoshida, "Evaluation of Grouser Wheel Traction Performance in High-Speed by Single-Wheel Test," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024., pp. TBD, 2024.
 <!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
 
 <!-- CLAWAR 2024 conference -->
 
-* Masazumi Imai, **Kentaro Uno**, and Kazuya Yoshida, "Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots," _Proceedings of the 27th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2024_, pp. TBD, 2024. (accepted)
+* Masazumi Imai, **Kentaro Uno**, and Kazuya Yoshida, "Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots," _Proceedings of the 27th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2024_, pp. TBD, 2024. @paper link is to be added.
+**<a href="https://www.arxiv.org/abs/2409.13218" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>**
 
-<!-- ISTVS 2024 -->
+<!-- CASE 2024 conference -->
 
-* Junnosuke Kamohara\*, Vinicius Ares\*, James Hurrell, Keisuke Takehana, Antoine Richard, Shreya Santra, **Kentaro Uno**, Eric Rohmer, Kazuya Yoshida, "Modelling of Terrain Deformation by a Grouser Wheel for Lunar Rover Simulation," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024. (To be presented) \*These authors contributed equally.
-<!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
-
-* Tomomi Tanaka\*, Keisuke Takehana\*, James Hurrell, **Kentaro Uno**, and Kazuya Yoshida, "Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024. (To be presented) \*These authors contributed equally.
-<!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
-
-* Keisuke Takehana, Kenta Sawa, **Kentaro Uno**, Shreya Santra, and Kazuya Yoshida, "Evaluation of Grouser Wheel Traction Performance in High-Speed by Single-Wheel Test," _Proceedings of the 17th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. TBD, 2024., pp. TBD, 2024. (To be presented)
-<!-- **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** -->
-
-<!-- * Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, **Kentaro Uno**, and Kazuya Yoshida, "Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots," *Proceedings of the 2024 IEEE International Conference on Intelligent Robots and Systems (IROS)*, pp. TBD, 2024. **<a href="https://arxiv.org/pdf/xxxx.yyyyy.pdf" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** --> 
+* **Kentaro Uno**\*, Takehiro Matsuoka\*, Akiyoshi Uchida, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10711467" target="_blank">Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris</a>**," *Proceedings of the IEEE International Conference on Automation Science and Engineering (CASE)*, pp. 1283--1288, 2024. \*These authors contributed equally. 
+**<a href="https://www.arxiv.org/abs/2408.01035" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>**
+**<a href="https://ieeexplore.ieee.org/document/10711467" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
 <!-- iSpaRo 2024 -->
 
-* Gustavo H. Diaz\*, **Kentaro Uno**\*, Shreya Santra, Kazuya Yoshida, "Towards Self-Assembling of Modular Robots for the Human Outpost Construction on the Moon," *late-breaking results short paper for the Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions in 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. \*These authors contributed equally. 
+* Gustavo H. Diaz\*, **Kentaro Uno**\*, Shreya Santra, Kazuya Yoshida, "Towards Self-Assembling of Modular Robots for the Human Outpost Construction on the Moon," *late-breaking results short paper for the Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions in 2024 International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. \*These authors contributed equally. 
 <!-- **<a href="https://arxiv.org/abs/2404.18721" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** \*These authors contributed equally.  -->
 
-* Shreya Santra\*, **Kentaro Uno**\*, Gen Kudo\* Kazuya Yoshida, "Risk-Aware Coverage Path Planning for Lunar Micro-Rovers Leveraging Global and Local Environmental Data," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. (accepted)  \*These authors contributed equally. **<a href="https://youtu.be/UzxpKbpj6OA" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://arxiv.org/abs/2404.18721" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** \*These authors contributed equally. 
+* Shreya Santra\*, **Kentaro Uno**\*, Gen Kudo\* Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10687663" target="_blank">Risk-Aware Coverage Path Planning for Lunar Micro-Rovers Leveraging Global and Local Environmental Data</a>**," *Proceedings of the 2024 International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. (accepted)  \*These authors contributed equally. 
+**<a href="https://youtu.be/UzxpKbpj6OA" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** 
+**<a href="https://arxiv.org/abs/2404.18721" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** 
+**<a href="https://ieeexplore.ieee.org/document/10687663" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
-* Akiyoshi Uchida, **Kentaro Uno**, Kazuya Yoshida, "Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging," *Proceedings of the 2024 IEEE International Conference on Space Robotics (iSpaRo)*, pp. TBD, 2024. (accepted) **<a href="https://youtu.be/SRTtrgRimoA" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://arxiv.org/abs/2405.00943" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** 
+* Akiyoshi Uchida, **Kentaro Uno**, Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</a>**," *Proceedings of the 2024 International Conference on Space Robotics (iSpaRo)*, pp. 194--201, 2024. 
+**<a href="https://youtu.be/SRTtrgRimoA" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** 
+**<a href="https://arxiv.org/abs/2405.00943" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"> </a>** 
+**<a href="https://ieeexplore.ieee.org/document/10687710" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
+**<span style="color: #966F00">(Best Papers Award)</span>**
 
 <!-- ICRA 2024 conference -->
 
-* Antoine Richard\*, Junnosuke Kamohara\*, **Kentaro Uno**, Shreya Santra, Dave van der Meer, Miguel Olivares-Mendez, and Kazuya Yoshida, "**<a href="https://arxiv.org/pdf/2309.08997.pdf" target="_blank">OmniLRS: A Photorealistic Simulator for Lunar Robotics</a>**," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. \*These authors contributed equally. **<a href="https://youtu.be/PebUZjm0WuA" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://arxiv.org/abs/2309.08997" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"></a>** **<a href="https://github.com/AntoineRichard/OmniLRS" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0"></a>** 
+* Antoine Richard\*, Junnosuke Kamohara\*, **Kentaro Uno**, Shreya Santra, Dave van der Meer, Miguel Olivares-Mendez, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/abstract/document/10610026" target="_blank">OmniLRS: A Photorealistic Simulator for Lunar Robotics</a>**," *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. TBD, 2024. \*These authors contributed equally. 
+**<a href="https://youtu.be/PebUZjm0WuA" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** 
+**<a href="https://arxiv.org/abs/2309.08997" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"></a>** 
+**<a href="https://github.com/AntoineRichard/OmniLRS" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0"></a>**
+**<a href="https://ieeexplore.ieee.org/abstract/document/10610026" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
-* David Rodr´ıguez-Mart´ınez\*, **Kentaro Uno**\*, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>**,"  _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, **<a href="DOI: 10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>**, 2023. \*These authors contributed equally. (This work will be presented in IEEE ICRA 2024 @Yokohama) **<a href="https://youtu.be/usZFhx5iGGY" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"></a>** **<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
+* David Rodr´ıguez-Mart´ınez\*, **Kentaro Uno**\*, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>**,"  _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, **<a href="DOI: 10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>**, 2023. \*These authors contributed equally. (This work will be presented in IEEE ICRA 2024 @Yokohama) **<a href="https://youtu.be/usZFhx5iGGY" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"></a>** 
+**<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
 * Gustavo H. Diaz, Tharit Sinsunthorn, Shreya Santra, **Kentaro Uno**, Kazuya Yoshida, "Toward Autonomous Assembly of Modular Robots and Structures using Real-time Object Detection and Imitation Learning for Lunar Missions," _Proceedings of the 29th International Symposium on Artificial Life and Robotics (AROB 29th 2024)_, pp. 1389--1393, 2024.
 
 * **Kentaro Uno**, Kazuki Takada, Keita Nagaoka, Takuya Kato, Arthur Candalot, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10417210" target="_blank">Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments</a>**,"  *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. 1183--1184, 2024. **<a href="https://youtu.be/beSt5cv2d0g" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://arxiv.org/abs/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"></a>** **<a href="https://ieeexplore.ieee.org/document/10417210" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
 * Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10417086" target="_blank">Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions</a>**," *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. 484--489, 2024. **<a href="https://arxiv.org/abs/2309.01055" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0"></a>** **<a href="https://ieeexplore.ieee.org/document/10417086" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
+
+### 2023
 
 * Kazuki Takada, **Kentaro Uno**, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10458637" target="_blank">Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots</a>**," *Proceedings of the 2023 8th International Conference on Robotics and Automation Engineering (ICRAE 2023)*, pp. TBD, 2023. **<span style="color: #966F00">(Best Presentation Achievement in the Session)</span>** **<a href="https://ieeexplore.ieee.org/document/10458637" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
@@ -106,6 +144,8 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the 
 
 * Andrew Price, **Kentaro Uno**, Swapnil Parekh, Til Reichelt, Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10115874" target="_blank">Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions</a>**," *Proceedings of the 2023 IEEE Aerospace Conference*, pp. 1--11, 2023. **<a href="https://ieeexplore.ieee.org/document/10115874" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
+### 2022
+
 * Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10011858" target="_blank">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile</a>**," *Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO 2022)*, pp. 1365--1370, 2022. **<a href="https://youtu.be/dWo28Nl5jgE?feature=shared" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://ieeexplore.ieee.org/document/10011858" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/9708772" target="_blank">Low-Reaction Trajectory Generation for a Legged Robot in Microgravity</a>**," *Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII)*, pp. 505--510, 2022. **<a href="https://ieeexplore.ieee.org/document/9708772" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
@@ -114,15 +154,21 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>**,”_Journal of the 
 
 * Taku Okawara, **Kentaro Uno**, Kazuya Yoshida, "Lunar Skylight Exploration by a Limbed Climbing Robot Using a Hand-Eye System," *Proceedings of the 33rd International Symposium on Space Technology Science (ISTS)*, #2022-k-09, 2022.
 
+### 2021
+
 * **Kentaro Uno**\*, Giorgio Valsecchi\*, Marco Hutter, Kazuya Yoshida, "**<a href="https://doi.org/10.1007/978-3-030-86294-7_16" target="_blank">Simulation-Based Climbing Capability Analysis for Quadrupedal Robots</a>**", *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 179--191, 2021. \*These authors contributed equally. **<a href="https://www.youtube.com/watch?v=dEEmm8hlXPU" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>**
 
 * **Kentaro Uno**\*, Warley F. R. Ribeiro\*, Yusuke Koizumi, Keigo Haji, Koki Kurihara, William Jones, Kazuya Yoshida, **<a href="https://doi.org/10.1007/978-3-030-86294-7_20" target="_blank">ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics</a>**", *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 179--191, 2021. \*These authors contributed equally. **<span style="color: #966F00">(Highly Commended Paper)</span>** **<a href="https://www.youtube.com/watch?v=nNB8uTTsJJg" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://github.com/Space-Robotics-Laboratory/ClimbLab" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0"></a>**
 
 * **Kentaro Uno**, Naomasa Takada, Taku Okawara, Keigo Haji, Arthur Candalot, Warley F. R. Ribeiro, Kenji Nagaoka, Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/9555799" target="_blank">HubRobo: A Lightweight Multi-Limbed Climbing Robot for Exploration in Challenging Terrain</a>**", *Proceedings of the 2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids)*, pp. 209--215, 2021. **<a href="https://youtu.be/CZyJCvOKx9A?feature=shared" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>** **<a href="https://ieeexplore.ieee.org/document/9555799" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 
+### 2020
+
 * **Kentaro Uno**, Yusuke Koizumi, Keigo Haji, Maximilian Keiff, Simon Harms, Warley F. R. Ribeiro, Kenji Nagaoka, Kazuya Yoshida, "**<a href="https://www.hou.usra.edu/meetings/isairas2020fullpapers/pdf/5027.pdf" target="_blank">Non-Periodic Gait Planning Based on Salient Region Detection for a Planetary Cave Exploration Robot</a>**", *Proceedings of the 15th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, #5027, 2020.
 
 * Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, "**<a href="https://clawar.org/wp-content/uploads/2021/02/Clawar2020_Paper_18.pdf" target="_blank">Dynamic Equilibrium of Climbing Robots Based on Stability Polyhedron for Gravito-Inertial Acceleration</a>**", *Proceedings of the 23rd International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR)*, pp. 297--304, 2020. **<span style="color: #966F00">(Conference Awards a Third Prize)</span>** **[ <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> ](https://www.youtube.com/watch?v=0evShZIG-F4)**
+
+### ~2019
 
 * **Kentaro Uno**, Warley F. R. Ribeiro, William Jones, Yuki Shirai, Hayato Minote, Kenji Nagaoka, Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/8700455" target="_blank">Gait Planning for a Free-Climbing Robot based on Tumble Stability</a>**", *Proceedings of the 2019 IEEE/SICE International Symposium on System Integration*, pp. 289-294, 2019. **<a href="https://ieeexplore.ieee.org/document/8700455" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0"></a>**
 

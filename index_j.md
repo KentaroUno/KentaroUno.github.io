@@ -2,16 +2,24 @@
 layout: default
 ---
 
+## 主な研究
 
+| <font size="4"> Exploration Rovers </font> | <font size="4"> Climbing Robotics </font> |
+|:---------------:|:---------------:|
+| [<img src="assets/img/ex-1.gif" alt="ex-1.gif" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) | [<img src="assets/img/hubrobo_gif.gif" alt="hubrobo_gif.gif" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) |
+| <font size="4"> <b> Novel Mechanisms </b> </font> | <font size="4"> <b> Orbital Servicing Robitics </b> </font> |
+| [<img src="assets/img/pin-array_gripper.png"  alt="pin-array_gripper" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) | [<img src="assets/img/orbital_robotics.png" alt="orbital_robotics.png" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) |
+| <font size="4"> <b> Robotics for Lunar Base Construction </b> </font> | <font size="4"> <b>  </b> </font> |
+| [<img src="assets/img/TBA.png" alt="TBA.png" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) |  |
 
 ## お知らせ
 
 | 日付        | 内容          |
 |:-------------|:------------------|
 | 現在 | 日本語ページの一部およびプロジェクトのページはいまだ建設中です．Twitterへのリンクは準備中です． |
-| 2022.09.29. | ホームページを刷新しました！<span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
-| 2022.07.14. | 査読に協力させていただいた明松真司 氏 著「<a href="https://amzn.asia/d/do3nRd7" target="_blank">1週間でLaTeXの基礎が学べる本</a>」が好評発売中です！<span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
-| 2022.04.19. | [吉田和哉教授と宇野健太朗助教および本学機械系学生（航空宇宙工学専攻）が、2022年4月20日（水）放送予定のkhb東日本放送「チャージ！」に出演いたします。](https://www.mech.tohoku.ac.jp/news220419_1/) <span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
+| 2022.09.29. | ホームページを刷新しました！ |
+| 2022.07.14. | 査読に協力させていただいた明松真司 氏 著「<a href="https://amzn.asia/d/do3nRd7" target="_blank">1週間でLaTeXの基礎が学べる本</a>」が好評発売中です！ |
+| 2022.04.19. | [吉田和哉教授と宇野健太朗助教および本学機械系学生（航空宇宙工学専攻）が、2022年4月20日（水）放送予定のkhb東日本放送「チャージ！」に出演いたします。](https://www.mech.tohoku.ac.jp/news220419_1/)  |
 | 2022.02.17. | [吉田和哉教授と宇野健太朗助教(航空宇宙工学専攻)が、ミヤギテレビ「ミヤギnews every.」に出演いたします。(2022年2月25日放送)](https://www.mech.tohoku.ac.jp/news210222/) <span style="background-color:#002266"> <span style="color: white">NEW! </span> </span> |
 | 2021.11.22. | 東北の新聞社である 河北新報のこども新聞 に自身の研究を取り上げていただきました！ |
 
@@ -21,12 +29,14 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
-| 2023.06.15. | 大阪で開催される日本ロボット学会 2024では，主著共著含め計7件の発表をおこなう予定です．→[研究業績](./pub_j.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2023.06.15. | イタリアで開催されるIEEE CASE学会にSfM法を応用した宇宙デブリの運動推定に関する論文が採択されました．→[研究業績](./pub_j.html)<span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2024.05.28. | 横浜で開催される車両と走行力学に関する国際会議ISTVSに3報の論文（"Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil"ほか）が，ドイツはカイザースラウテルンで開催される歩行ロボットとクライミングロボットに関する国際会議CLAWARに1報の論文:"Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots"が採択されました．→ [研究業績](./pub_j.html)<span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2024.04.27. | ルクセンブルクで開催される宇宙ロボット工学の国際会議iSpaRoにおけるワークショップ ["Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions"](https://www.isparo.space/lunar-workshop) にShort paperの投稿をお願いします！ <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2024.04.04. | 論文２つが宇宙ロボット工学の国際会議 International Conference on Space Robotics (iSpaRo)＠ルクセンブルクに採択されました．→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2024.02.06. | 共著論文２つがロボット工学のトップカンファレンス International Conference on Robotics and Automation (ICRA) ＠横浜にて発表されます．→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
+| 2024.11.18. | Two papers were accepted for IEEE/SICE SII at Munich in 2025 → [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
+| 2024.05.28. | Three papers ("Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil" and others) will be presented at ISTVS, an international conference on vehicle and vehicle dynamics, in Yokohama, Japan, and one paper: "Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots" at CLAWAR, an international conference on walking and climbing robots held in Kaiserslautern, Germany. Limbed Climbing Robots" was accepted. → [Publication page](./pub.html) |
+| 2023.06.15. | 大阪で開催される日本ロボット学会 2024では，主著共著含め計7件の発表をおこなう予定です．→[研究業績](./pub_j.html) |
+| 2023.06.15. | イタリアで開催されるIEEE CASE学会にSfM法を応用した宇宙デブリの運動推定に関する論文が採択されました．→[研究業績](./pub_j.html)|
+| 2024.05.28. | 横浜で開催される車両と走行力学に関する国際会議ISTVSに3報の論文（"Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil"ほか）が，ドイツはカイザースラウテルンで開催される歩行ロボットとクライミングロボットに関する国際会議CLAWARに1報の論文:"Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots"が採択されました．→ [研究業績](./pub_j.html)|
+| 2024.04.27. | ルクセンブルクで開催される宇宙ロボット工学の国際会議iSpaRoにおけるワークショップ ["Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions"](https://www.isparo.space/lunar-workshop) にShort paperの投稿をお願いします！ |
+| 2024.04.04. | 論文２つが宇宙ロボット工学の国際会議 International Conference on Space Robotics (iSpaRo)＠ルクセンブルクに採択されました．→ [Publication page](./pub.html) |
+| 2024.02.06. | 共著論文２つがロボット工学のトップカンファレンス International Conference on Robotics and Automation (ICRA) ＠横浜にて発表されます．→ [Publication page](./pub.html) |
 | 2023.11.23. | [Our proceedings paper to the International conference ISTVS was selected as a best paper!]()→ [Publication page](./pub.html) |
 | 2023.11.23. | [国際会議ISTVSに投稿・発表した内容がBest paperを受賞しました！]()→ [研究業績](./pub_j.html) |
 | 2023.11.18. | [国際会議ICRAEに投稿・発表した内容がセッションアワードを受賞しました！](https://www.mech.tohoku.ac.jp/prize231122/)→ [研究業績](./pub_j.html) |
@@ -37,7 +47,7 @@ layout: default
 | 2023.08.01. | Please check our latest paper about high-speed rover development: "<a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>"! |
 | 2023.07.19. | [研究業績](./pub_j.html) を更新しました． |
 | 2023.06.30. | 名古屋で開催されたロボティクス・メカトロニクス講演会 2023にて，所属研究室から3件の発表をおこないました．→[研究業績](./pub_j.html) |
-| 2023.05.31. | **Our proceedings paper in ICRA "[RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity](https://arxiv.org/abs/2301.07996)" was selected for the ICRA 2023 Outstanding Locomotion Paper Finalist as well as the IEEE RAS Japan Joint Chapter Young Award (ICRA2023)!! ([Publication page](./pub.html))** <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
+| 2023.05.31. | **Our proceedings paper in ICRA "[RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity](https://arxiv.org/abs/2301.07996)" was selected for the ICRA 2023 Outstanding Locomotion Paper Finalist as well as the IEEE RAS Japan Joint Chapter Young Award (ICRA2023)!! ([Publication page](./pub.html))** |
 | 2023.04.11. | 研究助成に関する情報を更新しました（ [経歴](./bio_j.html) ） |
 | 2023.03.16. | 研究助成に関する情報を更新しました（ [経歴](./bio_j.html) ） |
 | 2023.01.20. | Roboticsのトップ国際会議 ICRA にてWorkshop: "[Heterogeneous multi-robot cooperation for exploration and science in extreme environments](https://espace.epfl.ch/hermes/)" をハイブリッド開催します． |

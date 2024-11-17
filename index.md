@@ -2,16 +2,24 @@
 layout: default
 ---
 
+## Research Areas
 
+| <font size="4"> Exploration Rovers </font> | <font size="4"> Climbing Robotics </font> |
+|:---------------:|:---------------:|
+| [<img src="assets/img/ex-1.gif" alt="ex-1.gif" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) | [<img src="assets/img/hubrobo_gif.gif" alt="hubrobo_gif.gif" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) |
+| <font size="4"> <b> Novel Mechanisms </b> </font> | <font size="4"> <b> Orbital Servicing Robitics </b> </font> |
+| [<img src="assets/img/pin-array_gripper.png"  alt="pin-array_gripper" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) | [<img src="assets/img/orbital_robotics.png" alt="orbital_robotics.png" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) |
+| <font size="4"> <b> Robotics for Lunar Base Construction </b> </font> | <font size="4"> <b>  </b> </font> |
+| [<img src="assets/img/TBA.png" alt="TBA.png" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) |  |
 
 ## What's New
 
 | DATE         | CONTENT           |
 |:-------------|:------------------|
 | Present | Some of Japanese page and Project page are still under construction. Twitter's link is not yet available.  |
-| 2022.09.29. | Whole webpage is renewed. <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
-| 2022.04.19. | [We will be the Japanese TV news on Apr. 19th!](https://www.mech.tohoku.ac.jp/news220419_1/) (only for Japan Tohoku area broadcast.)<span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
-| 2022.02.17. | [We will be the Japanese TV news on Feb. 25th!](https://www.mech.tohoku.ac.jp/news210222/) (only for Japan Tohoku area broadcast.)<span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
+| 2022.09.29. | Whole webpage is renewed.  |
+| 2022.04.19. | [We will be the Japanese TV news on Apr. 19th!](https://www.mech.tohoku.ac.jp/news220419_1/) (only for Japan Tohoku area broadcast.) |
+| 2022.02.17. | [We will be the Japanese TV news on Feb. 25th!](https://www.mech.tohoku.ac.jp/news210222/) (only for Japan Tohoku area broadcast.) |
 | 2021.11.22. | Japan Tohoku area local news paper "Kahoku-Shimpo" featured our research project! |
 
 
@@ -19,10 +27,11 @@ layout: default
 
 | DATE        | CONTENT          |
 |:------------|:------------------|
-| 2024.05.28. | Three papers ("Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil" and others) were presented at ISTVS, an international conference on vehicle and vehicle dynamics, in Yokohama, Japan, and one paper: "Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots" at CLAWAR, an international conference on walking and climbing robots held in Kaiserslautern, Germany. Limbed Climbing Robots" was accepted. → [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2024.04.27. | Please contribute to our workshop ["Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions"](https://www.isparo.space/lunar-workshop) for International Conference on Space Robotics (iSpaRo) in Luxembourg! <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2024.04.04. | Our two papers are accepted for International Conference on Space Robotics (iSpaRo) in Luxembourg!→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
-| 2024.02.06. | Our two papers will be presented in International Conference on Robotics and Automation (ICRA) in Yokohama, Japan!→ [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span>|
+| 2024.11.18. | Two papers were accepted for IEEE/SICE SII at Munich in 2025 → [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
+| 2024.05.28. | Three papers ("Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil" and others) will be presented at ISTVS, an international conference on vehicle and vehicle dynamics, in Yokohama, Japan, and one paper: "Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots" at CLAWAR, an international conference on walking and climbing robots held in Kaiserslautern, Germany. Limbed Climbing Robots" was accepted. → [Publication page](./pub.html) |
+| 2024.04.27. | Please contribute to our workshop ["Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions"](https://www.isparo.space/lunar-workshop) for International Conference on Space Robotics (iSpaRo) in Luxembourg! |
+| 2024.04.04. | Our two papers are accepted for International Conference on Space Robotics (iSpaRo) in Luxembourg!→ [Publication page](./pub.html) |
+| 2024.02.06. | Our two papers will be presented in International Conference on Robotics and Automation (ICRA) in Yokohama, Japan!→ [Publication page](./pub.html) |
 | 2023.11.23. | [Our proceedings paper to the International conference ISTVS was selected as a best paper!]()→ [Publication page](./pub.html) |
 | 2023.11.18. | [Our proceedings paper to the International conference ICRAE was selected as the best presentation in the session!](https://www.mech.tohoku.ac.jp/prize231122/)→ [Publication page](./pub.html) |
 | 2023.11.06. | Our two journal paper in Robotics Society of Japan, and [one journal for IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/document/10325569) are accepted! Please check them out!→ ([Publication page](./pub.html)) |

@@ -2,10 +2,12 @@
 @import "rouge-github";
 
 body {
-  background-color: #eeeeee;
+  background-color: #181818;
+  // background-color: #000000;
+  
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica", "Arial", "sans-serif", "Yu Gothic", "Helvetica Neue";
-  color:#333333; // this is the main text color
+  color:#bbbbbb; // this is the main text color
   font-weight:500;
   // text-align: left;     /* 左寄せ(標準) */
   // text-align: center;   /* 中央寄せ(センタリング) */
@@ -14,12 +16,22 @@ body {
 
 }
 
+.scale-img {
+  // width: 250px; /*画像の幅*/
+  // height: 175px; /*画像の高さ*/
+  transition-duration: 0.5s; /*変化の時間*/
+  }
+  .scale-img:hover {
+  transform: scale(1.1,1.1); /*画像の拡大*/
+  cursor: pointer; /*カーソルをポインターにする*/
+  }
+
 body.justify{
   text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#333333;
+  color:#bbbbbb;
   margin:0 0 20px;
 }
 
@@ -39,55 +51,55 @@ h1, h2, h3 {
 
 h1 {
   font-size:36px;
-  border-bottom:3px solid #0020607e; /*下線色の指定*/
+  border-bottom:3px solid #bbbbbb; /*下線色の指定*/
   padding-bottom: 10px;
-  color:#333333;
+  color:#bbbbbb;
 }
 
 h2 {
   font-size:24px;
-  border-left:5px solid #0020607e; /*左の線色の指定*/
+  border-left:5px solid #bbbbbb; /*左の線色の指定*/
   padding:0 0 0 10px;
-  color:#333333;
+  color:#bbbbbb;
 }
 
 h3 {
   font-size:20px;
   padding:0 0 0 12px;
-  color:#333333;
+  color:#bbbbbb;
 }
 
 h4 {
   font-size:16px;
   padding:0 0 0 12px;
-  color:#333333;
+  color:#bbbbbb;
 }
 
 h5, h6 {
   font-size:14px;
   padding:0 0 0 12px;
-  color:#333333;
+  color:#bbbbbb;
 }
 
 a {
-  color:#002060;
+  color:#85ceff;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#0088ff;
+  color:#0066ff;
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:#333333;
+  color:#bbbbbb;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#333333;
+  color:#bbbbbb;
 }
 
 .wrapper {
@@ -97,9 +109,9 @@ a:hover small {
 
  /* textboxの書式設定 */
 blockquote {
-  background:#444444; /*背景色の指定*/
-  border-left:5px solid #dddddd; /*左の線色の指定*/
-  color:#dddddd; /*文字色の指定*/
+  background:#181818; /*背景色の指定*/
+  border-left:5px solid #bbbbbb; /*左の線色の指定*/
+  color:#bbbbbb; /*文字色の指定*/
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -107,7 +119,8 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  color:#181818;
+  // background-color: #181818;
 }
 
 pre {
@@ -118,29 +131,30 @@ pre {
   overflow-x: auto;
 }
 
+// 表の設定
 table {
   width:100%;
   border-collapse:collapse;
-  border: dashed 1px #333333; /* dashed: 点線 */
-  color: #333333; /* 全体の文字色 */
-  background-color: #eeeeee; /* 全体の背景色 */
+  // border: none 1px #bbbbbb; /* dashed: 点線 */
+  color: #bbbbbb; /* 全体の文字色 */
+  background-color: #181818; /* 全体の背景色 */
   text-align: center;
 }
-
+// 表の設定
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px dashed #333333;
-  border: dashed 1px #333333; /* dashed: 点線 */
+  border-bottom:1px dashed #bbbbbb;
+  border: none 1px #bbbbbb; /* dashed: 点線，背景と同じ色にすると枠線無しに見える*/
 }
 
 dt {
-  color:#444;
+  color:#bbbbbb;
   font-weight:700;
 }
 
 th {
-  color:#444;
+  color:#bbbbbb;
 }
 
 img {
@@ -213,7 +227,7 @@ ul.downloads {
 }
 
 strong {
-  color:#222;
+  color:#bbbbbb;
   font-weight:700;
 }
 
@@ -241,7 +255,7 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
+  background:#181818;
   height:1px;
   margin:0 0 20px;
 }
@@ -272,7 +286,7 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
+    border:1px solid #bbbbbb;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
