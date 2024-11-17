@@ -84,11 +84,13 @@ h5, h6 {
 a {
   color:#85ceff;
   text-decoration:none;
+  // text-decoration:underline;
 }
 
 a:hover, a:focus {
-  color:#0066ff;
+  color:#85ceff;
   font-weight: bold;
+  text-decoration:underline;
 }
 
 a small {
