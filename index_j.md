@@ -16,6 +16,7 @@ layout: default
 
 | 日付        | 内容          |
 |:-------------|:------------------|
+| 現在 | Please check out the new video: **<a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"> Tohoku University Cross-Technology Initiative for Space Systems</a>**. <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> |
 | 現在 | 日本語ページの一部およびプロジェクトのページはいまだ建設中です．Twitterへのリンクは準備中です． |
 | 2022.09.29. | ホームページを刷新しました！ |
 | 2022.07.14. | 査読に協力させていただいた明松真司 氏 著「<a href="https://amzn.asia/d/do3nRd7" target="_blank">1週間でLaTeXの基礎が学べる本</a>」が好評発売中です！ |
@@ -29,7 +30,8 @@ layout: default
 
 | 日付        | 内容          |
 |:------------|:------------------|
-| 2024.11.18. | Two papers were accepted for IEEE/SICE SII at Munich in 2025 → [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
+| 2025.09.22. | Nine papers have been accepted for iSpaRo at Sendai in 2025 → [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
+| 2024.11.18. | Two papers were accepted for IEEE/SICE SII at Munich in 2025 → [Publication page](./pub.html) |
 | 2024.05.28. | Three papers ("Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil" and others) will be presented at ISTVS, an international conference on vehicle and vehicle dynamics, in Yokohama, Japan, and one paper: "Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots" at CLAWAR, an international conference on walking and climbing robots held in Kaiserslautern, Germany. Limbed Climbing Robots" was accepted. → [Publication page](./pub.html) |
 | 2023.06.15. | 大阪で開催される日本ロボット学会 2024では，主著共著含め計7件の発表をおこなう予定です．→[研究業績](./pub_j.html) |
 | 2023.06.15. | イタリアで開催されるIEEE CASE学会にSfM法を応用した宇宙デブリの運動推定に関する論文が採択されました．→[研究業績](./pub_j.html)|

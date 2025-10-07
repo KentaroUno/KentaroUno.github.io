@@ -17,6 +17,8 @@ layout: justify
 
 ## 動画
 
+* Please check out the new video: **<a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"> Tohoku University Cross-Technology Initiative for Space Systems</a>**.
+
 <a href="https://www.youtube.com/@spaceroboticslab" target="_blank"><img src="assets/img/SRL-logo-3.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
 <a href="https://www.youtube.com/@spaceroboticslab" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
 
@@ -24,19 +26,20 @@ layout: justify
 
 ## 学術誌論文
 
+* Keisuke Takehana, Grace Kenny, Kenta Sawa, James Hurrell, **Kentaro Uno**, Shreya Santra, Kazuya Yoshida, "**<a href="https://doi.org/10.1016/j.jterra.2025.101084" target="_blank">Grouser Wheel High-Speed Traction Performance: DEM Simulation and Experimental Result</a>**," _Journal of Terramechanics_, vol. 120, p. 101084, 2025.
+**<a href="https://doi.org/10.1016/j.jterra.2025.101084" target="_blank"><img src="assets/img/ScienceDirect_logo_2020.svg.png" width="100" alt="ScienceDirect" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>**
+
 * Taku Okawara, Kenji Koide, Aoki Takanose, Shuji Oishi, Masashi Yokozuka, **Kentaro Uno**, Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/11037541" target="_blank">Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information</a>**," _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 10, no. 8, pp. 7947--7954, **<a href="https://doi.org/10.1109/LRA.2025.3580332" target="_blank">DOI: 10.1109/LRA.2025.3580332</a>**, 2025. 
 **<a href="https://ieeexplore.ieee.org/document/11037541" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>**
 
-* James Hurrell, Keisuke Takehana, Tomomi Tanaka1, **Kentaro Uno**, Amna Khalifa Busoud, Kazuya Yoshida, "**<a href="https://link.springer.com/article/10.1007/s11214-025-01164-8" target="_blank">Traction Performance Evaluation for a Rashid-1 Rover Wheel</a>**," _Space Science Review_, vol. 221, no. 3, pp. 1--16, **<a href="https://doi.org/10.1007/s11214-025-01164-8" target="_blank">DOI: 10.1007/s11214-025-01164-8</a>**, 2025.
-
-* James Hurrell, et al., "**<a href="https://link.springer.com/article/10.1007/s11214-025-01164-8" target="_blank">Traction Performance Evaluation for a Rashid-1 Rover Wheel</a>**," _Space Science Review_, vol. 221, no. 3, pp. 1-16, **<a href="https://doi.org/10.1007/s11214-025-01164-8" target="_blank">DOI: 10.1007/s11214-025-01164-8</a>**, 2025.
+* James Hurrell, Keisuke Takehana, Tomomi Tanaka, **Kentaro Uno**, Amna Khalifa Busoud, Kazuya Yoshida, "**<a href="https://link.springer.com/article/10.1007/s11214-025-01164-8" target="_blank">Traction Performance Evaluation for a Rashid-1 Rover Wheel</a>**," _Space Science Review_, vol. 221, no. 3, pp. 1--16, **<a href="https://doi.org/10.1007/s11214-025-01164-8" target="_blank">DOI: 10.1007/s11214-025-01164-8</a>**, 2025.
 
 * Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, **Kentaro Uno**, Kazuya Yoshida, "**<a href="https://www.sciencedirect.com/science/article/pii/S0921889025000156?via%3Dihub" target="_blank">Tightly-coupled LiDAR-IMU-wheel odometry with an online neural kinematic model learning via factor graph optimization</a>**," _Robotics and Autonomous Systems_, volume 187, no. 0921-8890, p. 104929, **<a href="https://doi.org/10.1016/j.robot.2025.104929" target="_blank">DOI: 10.1016/j.robot.2025.104929</a>**, 2025.
 
 * Keisuke Takehana, Vinicius Emanoel Ares, Shreya Santra, **Kentaro Uno**, Eric Rohmer, and Kazuya Yoshida, "**<a href="https://www.mdpi.com/2226-4310/12/1/71" target="_blank">Rutting Caused by Grouser Wheel of Planetary Rover in Single-Wheel Testbed: LiDAR Topographic Scanning and Analysis</a>,**" _Aerospace_, vol. 12, no. 1, 71, **<a href="https://doi.org/10.3390/aerospace12010071" target="_blank">DOI: 10.3390/aerospace12010071</a>**, 2025.
 
-* Keisuke Takehana, Shino Kizaki, Tomomi Tanaka, **Kentaro Uno**, and Kazuya Yoshida, "**<a href="https://doi.org/10.1016/j.jterra.2024.101011" target="_blank">Comparison of Lunar Rover Wheel Performance in Soils with Different Cohesive Properties</a>**," *Journal of Terramechanics*, vol. 117, p. 101011, 2025.
-<!-- **<a href="https://doi.org/10.1016/j.jterra.2024.101011" target="_blank">DOI: https://doi.org/10.1016/j.jterra.2024.101011</a>**, 2025. -->
+* Keisuke Takehana, Shino Kizaki, Tomomi Tanaka, **Kentaro Uno**, and Kazuya Yoshida, "**<a href="https://doi.org/10.1016/j.jterra.2024.101011" target="_blank">Comparison of Lunar Rover Wheel Performance in Soils with Different Cohesive Properties</a>**," _Journal of Terramechanics_, vol. 117, p. 101011, 2025.
+**<a href="https://doi.org/10.1016/j.jterra.2024.101011" target="_blank"><img src="assets/img/ScienceDirect_logo_2020.svg.png" width="100" alt="ScienceDirect" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>**
 
 * Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, **Kentaro Uno**, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10681089" target="_blank">Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots</a>**," *IEEE Access*, vol. 12, pp. 134728--134738, 2024. **<a href="https://arxiv.org/abs/2404.02515" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"> </a>** **<a href="https://ieeexplore.ieee.org/document/10681089" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>**
 
@@ -63,9 +66,29 @@ layout: justify
 
 ### 2025
 
+<!-- iSpaRo 2025 -->
+
+* Jakob Marian Kern, James Michael Hurrell, Shreya Santra, Keisuke Takehana, **Kentaro Uno**, Kazuya Yoshida, "**Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted)
+
+* Ashutosh Mishra, Shreya Santra, Elian Neppel, Edoardo Marsigli Rossi Lombardi, Shamistan Karimov, **Kentaro Uno**, Kazuya Yoshida, "**Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted)
+
+* Gustavo Hernan Diaz Huenupan, A. Sejal Jain, Matteo Brugnera, Elian Neppel, Shreya Santra, **Kentaro Uno**, Kazuya Yoshida, "**Design and Development of Moonbots Modular Limbs for Reconfigurable Robots on the Moon**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted)
+
+* Shamistan Karimov, Elian Neppel, Shreya Santra, **Kentaro Uno**, Kazuya Yoshida, "**An Agnostic End-Effector Alignment Controller for Robust Assembly of Modular Space Robots**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted)
+
+* Akiyoshi Uchida, Antoine Richard, **Kentaro Uno**, Miguel A. Olivares-Mendez, Kazuya Yoshida, "**Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator Towards Space Applications**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted)
+
+* Simon Giel, James Michael Hurrell, Shreya Santra, Ashutosh Mishra, **Kentaro Uno**, Kazuya Yoshida, "**Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted)
+
+* Kenta Iizuka, Akiyoshi Uchida, **Kentaro Uno**, Kazuya Yoshida, "**Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted)
+
+* Elian Neppel, Shamistan Karimov, Ashutosh Mishra, Gustavo Hernan Diaz Huenupan, Hazal Gozbasi, **Kentaro Uno**, Shreya Santra, Kazuya Yoshida, "**Designing for Distributed Heterogeneous Modularity: On Software Architecture and Deployment of MoonBots**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted)
+
+* Taku Okawara, Ryo Nishibe, Mao Kasano, **Kentaro Uno**, Kazuya Yoshida, "**3D Mapping Using a Lightweight and Low-Power Monocular Camera Embedded inside a Gripper of Limbed Climbing Robots**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted)
+
 <!-- IROS 2025 -->
 
-<!-- * AKiyoshi Uchida, Antoine Richard, Kentaro Uno, and Kazuya Yoshida, "**Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator Towards Space Applications**," _Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, pp. TBD, 2025. -->
+<!-- * AKiyoshi Uchida, Antoine Richard, **Kentaro Uno**, and Kazuya Yoshida, "**Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator Towards Space Applications**," _Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, pp. TBD, 2025. -->
 
 * Elian Neppel, Ashutosh Mishra, Shamistan Karimov, **Kentaro Uno**, Shreya Santra, and Kazuya Yoshida, "**Robust and Modular Multi-Limb Synchronization in Motion Stack for Space Robots with Trajectory Clamping via Hypersphere**," _Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, pp. TBD, 2025.
 **<a href="https://arxiv.org/abs/2507.03934" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"> </a>**
@@ -79,12 +102,12 @@ layout: justify
 
 <!-- ICM 2025 -->
 
-* Keigo Torii, **Kentaro Uno**, Shreya Santra, and Kazuya Yoshida, "**A Sequential Hermaphrodite Coupling Mechanism for Lattice-Based Modular Robots**," _Proceedings of the 2025 IEEE International Conference on Mechatronics (ICM'25)_, pp. 1--6, 2025.
+* Keigo Torii, **Kentaro Uno**, Shreya Santra, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10934866" target="_blank">A Sequential Hermaphrodite Coupling Mechanism for Lattice-Based Modular Robots</a>**," _Proceedings of the 2025 IEEE International Conference on Mechatronics (ICM'25)_, pp. 1--6, 2025.
 **<a href="https://ieeexplore.ieee.org/document/10934866" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>**
 
 <!-- ICARA 2025 -->
 
-* Riku Suzuki, Ayumi Umemura, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "**Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain**," _Proceedings of the 11th International Conference on Automation, Robotics, and Applications (ICARA)_, pp. 214--218, 2025.
+* Riku Suzuki, Ayumi Umemura, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, "**<a href="https://ieeexplore.ieee.org/document/10977686" target="_blank">Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain</a>**," _Proceedings of the 11th International Conference on Automation, Robotics, and Applications (ICARA)_, pp. 214--218, 2025.
 **<a href="https://ieeexplore.ieee.org/document/10977686" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>**
 
 <!-- SII 2025 -->

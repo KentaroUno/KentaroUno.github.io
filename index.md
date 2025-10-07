@@ -16,6 +16,7 @@ layout: default
 
 | DATE         | CONTENT           |
 |:-------------|:------------------|
+| Present | Please check out the new video: **<a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"> Tohoku University Cross-Technology Initiative for Space Systems</a>**. <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> |
 | Present | Some of Japanese page and Project page are still under construction. Twitter's link is not yet available.  |
 | 2022.09.29. | Whole webpage is renewed.  |
 | 2022.04.19. | [We will be the Japanese TV news on Apr. 19th!](https://www.mech.tohoku.ac.jp/news220419_1/) (only for Japan Tohoku area broadcast.) |
@@ -27,7 +28,8 @@ layout: default
 
 | DATE        | CONTENT          |
 |:------------|:------------------|
-| 2024.11.18. | Two papers were accepted for IEEE/SICE SII at Munich in 2025 → [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
+| 2025.09.22. | Nine papers have been accepted for iSpaRo at Sendai in 2025 → [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
+| 2024.11.18. | Two papers were accepted for IEEE/SICE SII at Munich in 2025 → [Publication page](./pub.html) |
 | 2024.05.28. | Three papers ("Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil" and others) will be presented at ISTVS, an international conference on vehicle and vehicle dynamics, in Yokohama, Japan, and one paper: "Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots" at CLAWAR, an international conference on walking and climbing robots held in Kaiserslautern, Germany. Limbed Climbing Robots" was accepted. → [Publication page](./pub.html) |
 | 2024.04.27. | Please contribute to our workshop ["Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions"](https://www.isparo.space/lunar-workshop) for International Conference on Space Robotics (iSpaRo) in Luxembourg! |
 | 2024.04.04. | Our two papers are accepted for International Conference on Space Robotics (iSpaRo) in Luxembourg!→ [Publication page](./pub.html) |
