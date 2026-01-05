@@ -2,14 +2,24 @@
 layout: default
 ---
 
-# 経歴
+# 研究経歴
+
+## 研究業績
+
+* これまでの研究業績は <a href="pub.html" target="_blank">こちら</a>
 
 ## 職歴
 
 <!-- <img src="assets/img/srl.png" width="120"> -->
-<a href="https://www.tohoku.ac.jp/japanese/" target="_blank">
-<img src="assets/img/Toh_T_E_L_P_RGB_2381.gif" width="120" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10"></a>
-<a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank"><img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10"></a>
+<div class="logo-row">
+  <a href="https://www.tohoku.ac.jp/japanese/" target="_blank" rel="noopener">
+    <img src="assets/img/tohoku-univ-logo.jpg" width="120" alt="Tohoku Univ logo">
+  </a>
+
+  <a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank" rel="noopener">
+    <img src="assets/img/srl-logo.png" width="120" alt="SRL motion logo">
+  </a>
+</div>
 
 * 2021年10月 ～ 現在　東北大学　大学院工学研究科　航空宇宙工学専攻　助教 （所属：<a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank">宇宙探査工学分野「宇宙ロボット研究室」</a>）
 
@@ -19,15 +29,40 @@ layout: default
   - 2021年10月 ～ 現在　機械知能・航空研修Ⅱ（研究室分担）：工学部 機械知能・航空工学科3年生
   - 2021年10月 ～ 現在　創造工学研修（研究室分担）：工学部1年生
 
-
+<div class="logo-row">
+  <a href="https://ethz.ch/en.html" target="_blank" rel="noopener">
+    <img src="assets/img/eth-logo.png" width="120" alt="Tohoku Univ logo">
+  </a>
+  <a href="https://rsl.ethz.ch/" target="_blank" rel="noopener">
+    <img src="assets/img/rsl-logo.png" width="120" alt="SRL motion logo">
+  </a>
+</div>
 
 * 2019年11月 ～ 2020年10月　ETH Zurich (Zürich, Switzerland), Department of Mechanical and Process Engineering, Institute of Robotics and Intelligent Systems, 学術研究員
 
+<div class="logo-row">
+  <a href="https://www.jsps.go.jp/english/" target="_blank" rel="noopener">
+    <img src="assets/img/jsps-logo.png" width="90" alt="Tohoku Univ logo">
+  </a>
+</div>
+
 * 2019年04月 ～ 2021年09月　独立行政法人 日本学術振興会 特別研究員DC1
+
+<div class="logo-row">
+  <a href="https://ispace-inc.com/" target="_blank" rel="noopener">
+    <img src="assets/img/ispace-logo.png" width="120" alt="Tohoku Univ logo">
+  </a>
+</div>
 
 * 2018年07月 ～ 2019年03月　[株式会社ispace](https://ispace-inc.com/jpn/) ソフトウェアエンジニアインターン
 
 ## 学歴
+
+<div class="logo-row">
+  <a href="https://www.tohoku.ac.jp/japanese/" target="_blank" rel="noopener">
+    <img src="assets/img/tohoku-univ-logo.jpg" width="120" alt="Tohoku Univ logo">
+  </a>
+</div>
 
 * 2018年10月 ～ 2021年09月　東北大学大学院　工学研究科　航空宇宙工学専攻　博士課程後期3年の課程（博士課程）
   
@@ -42,22 +77,6 @@ layout: default
   卒業論文題目: "月面探査マイクロローバのためのToFカメラの性能評価"，GPA: 3.39/4.00
 
 * 2010年04月 ～ 2013年03月　北海道札幌南高等学校
-
-## 研究業績
-
-* これまでの研究業績は <a href="pub.html" target="_blank">こちら</a>
-
-* Google Scholar Citationsは <a href="https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ" target="_blank">こちら</a>
-
-* SCOPUSは <a href="https://www.scopus.com/authid/detail.uri?authorId=57208746798" target="_blank">こちら</a>
-
-* researchmapは <a href="https://researchmap.jp/unoken" target="_blank">こちら</a>
-
-## 特許
-
-* 宇田 昌弘，澤 健太，加藤 匠哉，宇野 健太朗，"エンドエフェクタ及びロボット", 特願2023-102850, 出願日：2023年6月22日．
-
-* 加藤 匠哉，宇野 健太朗，“把持機構”，国際特願PCT/JP2022/021947，出願日：2022年5月30日．
 
 ## 研究助成・競争的資金の獲得状況等
 
@@ -129,6 +148,11 @@ layout: default
 
 * 2017年03月01日【TV出演】1億人の大質問！？笑ってコラえて！（日本テレビ）（月面探査ローバーの研究開発を紹介）
 
+## 特許
+
+* 宇田 昌弘，澤 健太，加藤 匠哉，宇野 健太朗，"エンドエフェクタ及びロボット", 特願2023-102850, 出願日：2023年6月22日．
+
+* 加藤 匠哉，宇野 健太朗，“把持機構”，国際特願PCT/JP2022/021947，出願日：2022年5月30日．
 
 ## その他の活動
 

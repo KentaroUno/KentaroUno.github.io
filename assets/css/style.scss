@@ -1,4 +1,68 @@
 ---
 ---
-
 @import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
+
+
+/* 背景（画像 + 半透明白オーバーレイ） */
+// body {
+//   background:
+//     linear-gradient(rgba(255,255,255,.00), rgba(255,255,255,.00)),
+//     url("{{ 'assets/img/background.jpg' | relative_url }}");
+//   background-size: cover;
+//   background-position: center;
+//   background-attachment: fixed;
+// }
+
+.site-nav {
+  margin-top: 1.2rem;
+}
+
+.site-nav ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 左右2列 */
+  column-gap: 0.8rem;
+  row-gap: 0.4rem;
+
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.site-nav li {
+  margin-bottom: 0.4rem;
+}
+
+.site-nav a {
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+
+  /* メニューを1列に戻す */
+  .site-nav ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* 本文側の白を少し透かす（Minimal対策） */
+// .wrapper {
+//   background: rgba(255,255,255,0.88);
+//   padding: 2rem;
+//   border-radius: 12px;
+// }
+
+section {
+  background: transparent;
+}
+
+// section {
+//   background: rgba(255,255,255,0.92);
+//   padding: 2rem;
+//   border-radius: 10px;
+// }

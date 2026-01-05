@@ -1,13 +1,15 @@
 @import "fonts";
 @import "rouge-github";
 
-body {
-  background-color: #181818;
+html, body {
+  height: 100%;
+  background-color: #000000;
   // background-color: #000000;
-  
-  padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica", "Arial", "sans-serif", "Yu Gothic", "Helvetica Neue";
-  color:#bbbbbb; // this is the main text color
+  background: none;
+  padding:15px; // 上部のマージン
+
+  font: 14px/1.5 "Noto Sans JP", "Helvetica", "Arial", "sans-serif", "Yu Gothic", "Helvetica Neue";
+  color:#ffffff; // this is the main text color
   font-weight:500;
   // text-align: left;     /* 左寄せ(標準) */
   // text-align: center;   /* 中央寄せ(センタリング) */
@@ -16,13 +18,30 @@ body {
 
 }
 
+/* 固定背景レイヤ */
+html::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+
+  background: linear-gradient(
+    to right,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 0) 420px,
+      rgb(0, 0, 0) 420px,
+      rgb(0, 0, 0) 1920px
+  );
+}
+
 .scale-img {
   // width: 250px; /*画像の幅*/
   // height: 175px; /*画像の高さ*/
   transition-duration: 0.5s; /*変化の時間*/
   }
   .scale-img:hover {
-  transform: scale(1.1,1.1); /*画像の拡大*/
+  transform: scale(1.05,1.05); /*画像の拡大*/
   cursor: pointer; /*カーソルをポインターにする*/
   }
 
@@ -31,7 +50,7 @@ body.justify{
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#bbbbbb;
+  color:#ffffff;
   margin:0 0 20px;
 }
 
@@ -51,34 +70,65 @@ h1, h2, h3 {
 
 h1 {
   font-size:36px;
-  border-bottom:3px solid #bbbbbb; /*下線色の指定*/
-  padding-bottom: 10px;
-  color:#bbbbbb;
+
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+
+  margin-top: 0;
+
+  
+  /* 左にラインが伸びる「見出し強調」風（研究者サイト向け） */
+  // background: linear-gradient(
+  //   transparent 60%,
+  //   #ffffff 60%
+  // );
+
+  /* 角丸・カード風（固定ヘッダーでもOK） */
+  // display: inline-block;
+  // background-color: #ffffff;
+  // padding: 0.3em 0.6em;
+  // border-radius: 6px;
+
+  // border-bottom:3px solid #002060; /*下線色の指定*/
+  // padding-bottom: 10px;
+  // border-left:10px solid #002060; /*左の線色の指定*/
+  // padding-bottom:0 0 0 20px;
+  
+  color:#ffffff;
+}
+
+h1::after {
+  content: "";
+  flex-grow: 1;
+  height: 1px;
+  background: #ffffff;
+  margin-top: 0.25em;  /* ← ここで線だけ下げる */
 }
 
 h2 {
   font-size:24px;
-  border-left:5px solid #bbbbbb; /*左の線色の指定*/
+  border-left:5px solid #ffffff; /*左の線色の指定*/
   padding:0 0 0 10px;
-  color:#bbbbbb;
+  color:#ffffff;
 }
 
 h3 {
   font-size:20px;
   padding:0 0 0 12px;
-  color:#bbbbbb;
+  color:#ffffff;
 }
 
 h4 {
   font-size:16px;
   padding:0 0 0 12px;
-  color:#bbbbbb;
+  color:#ffffff;
 }
 
 h5, h6 {
   font-size:14px;
   padding:0 0 0 12px;
-  color:#bbbbbb;
+  color:#ffffff;
 }
 
 a {
@@ -105,8 +155,9 @@ a:hover small {
 }
 
 .wrapper {
-  width:1080px; /* 全体のページ幅 */
+  width:auto; /* 全体のページ幅 */
   margin:0 auto;
+  min-width: 0 !important;
 }
 
  /* textboxの書式設定 */
@@ -139,7 +190,7 @@ table {
   border-collapse:collapse;
   // border: none 1px #bbbbbb; /* dashed: 点線 */
   color: #bbbbbb; /* 全体の文字色 */
-  background-color: #181818; /* 全体の背景色 */
+  background-color: #18181800; /* 全体の背景色 */
   text-align: center;
 }
 // 表の設定
@@ -159,8 +210,56 @@ th {
   color:#bbbbbb;
 }
 
-img {
-  max-width:100%;
+.logo-row {
+  display: flex;
+  align-items: center;   /* 高さの中央揃え */
+  gap: 12px;             /* ロゴ同士の横間隔 */
+  margin: 0;             /* 上下余白ゼロ */
+  padding: 0;
+}
+
+.logo-row img {
+  display: block;        /* 行間由来の余白を消す */
+  margin: 12px;             /* 上下左右余白ゼロ */
+}
+
+/* 16:9 を保つ動画コンテナ（既出なら再利用） */
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;  /* 16:9 */
+}
+
+.video-container iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: none !important;
+  outline: none !important;
+}
+
+/* 2列グリッド */
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr)); /* 画面の半分ずつ */
+  gap: 1rem;  /* 動画間の余白 */
+}
+
+/* 動画下のテキスト */
+.video-caption {
+  margin-top: 0.4rem;
+  font-size: 1.2rem;
+  line-height: 1.4;
+  text-align: center;   /* 中央揃え（好みで left も可） */
+  color: #ffffff;
+}
+
+/* スマホでは1列 */
+@media (max-width: 768px) {
+  .video-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 kbd {
@@ -177,11 +276,59 @@ kbd {
   vertical-align: middle;
 }
 
+/* ロゴ画像の高さを指定（比率維持） */
+header img {
+  width: 200px;      
+  height: auto; /* ← 縦横比を保つため必須 */
+  display: block;
+  margin: 0 auto;   /* 中央揃え */
+}
+
+header h1 {
+  font-size:1.6rem;
+  border-bottom:3px solid #bbbbbb00; /*全透明の指定*/
+  padding-bottom: 10px;
+  color:#bbbbbb;
+}
+
 header {
-  width:320px;
+  width:360px;
   float:left;
   position:fixed;
+  z-index: 0;          /* これが重要：擬似要素の重なりを安定させる */
+  isolation: isolate;  /* これも重要：z-index:-1 が消えるのを防ぐ */
+  padding: 2rem;
+  border-radius: 10px;
   -webkit-font-smoothing:subpixel-antialiased;
+
+
+  background-size: 360px;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* 背景だけを画面左端まで伸ばす */
+header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+
+  /* wrapper(中央)の左端から viewport 左端まで引き伸ばす */
+  left: calc(-50vw + 50%);
+  width: calc(100% + (50vw - 50%));
+
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("/assets/img/background.jpg");
+
+  z-index: -1;
+  pointer-events: none;
+  padding: 1rem;
+  border-radius: 10px;
 }
 
 ul.downloads {
@@ -244,10 +391,22 @@ strong {
   color:#222;
 }
 
+/* ページ右側の記事の横幅など */
 section {
-  width:680px; /* ページ右側の記事の横幅 */
-  float:right;
-  padding-bottom:50px;
+  width: auto !important;
+  max-width: 100% !important;
+
+  margin-left: 540px;
+
+  /* 改行を妨げる指定があっても折り返す */
+  white-space: normal !important;
+
+  /* 長いURL/英数字も強制的に折る */
+  overflow-wrap: anywhere !important;
+  word-break: normal !important;
+
+  /* flex/grid配下で「縮まず改行しない」問題の特効薬 */
+  min-width: 0 !important;
 }
 
 small {
@@ -262,15 +421,15 @@ hr {
   margin:0 0 20px;
 }
 
-footer {
-  width:540px;
-  float:left;
-  position:fixed;
-  bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
+// footer {
+//   width:540px;
+//   float:left;
+//   position:fixed;
+//   bottom:50px;
+//   -webkit-font-smoothing:subpixel-antialiased;
+// }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 768px) {
 
   div.wrapper {
     width:auto;
@@ -278,14 +437,46 @@ footer {
   }
 
   header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
+    float: none;          /* Minimalがfloatで2カラムなら解除 */
+    width: auto;
+    margin: 0 0 0.8rem 0; /* 下に少し余白 */
+    position:relative;
   }
 
-  header {
-    padding-right:320px;
-  }
+  /* 重要：左に伸ばす背景は “スマホでは全幅” にする（または消す） */
+
+  
+  /* wrapperの左右余白を調整（端にくっつかないように） */
+  // .wrapper {
+  //   padding: 0.9rem 0.8rem;
+  // }
+
+  body {
+  background-color: #181818;
+  // background-color: #000000;
+  background:
+    linear-gradient(
+      to top,
+      rgba(0, 0, 0) 0%,
+      rgba(0, 0, 0) 3400px,
+      rgb(0, 0, 0, 0.1) 3400px,
+      rgb(0, 0, 0) 1920px
+    );
+
+  background-size: cover;
+  background-position: center;
+
+  padding:15px; //上部のマージン
+
+  font: 14px/1.5 "Noto Sans JP", "Helvetica", "Arial", "sans-serif", "Yu Gothic", "Helvetica Neue";
+  color:#bbbbbb; // this is the main text color
+  font-weight:500;
+  // text-align: left;     /* 左寄せ(標準) */
+  // text-align: center;   /* 中央寄せ(センタリング) */
+  // text-align: right;    /* 右寄せ */
+  // text-align: justify; /* 両端揃え(均等割り付け) */
+
+}
 
   section {
     border:1px solid #bbbbbb;
@@ -305,37 +496,37 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
-  }
+// @media print, screen and (max-width: 720px) {
+//   body {
+//     word-wrap:break-word;
+//   }
 
-  header {
-    padding:0;
-  }
+//   header {
+//     padding:0;
+//   }
 
-  header ul, header p.view {
-    position:static;
-  }
+//   header ul, header p.view {
+//     position:static;
+//   }
 
-  pre, code {
-    word-wrap:normal;
-  }
-}
+//   pre, code {
+//     word-wrap:normal;
+//   }
+// }
 
-@media print, screen and (max-width: 480px) {
-  body {
-    padding:15px;
-  }
+// @media print, screen and (max-width: 480px) {
+//   body {
+//     padding:15px;
+//   }
 
-  .downloads {
-    width:99%;
-  }
+//   .downloads {
+//     width:99%;
+//   }
 
-  .downloads li, .downloads li + li + li {
-    width:33%;
-  }
-}
+//   .downloads li, .downloads li + li + li {
+//     width:33%;
+//   }
+// }
 
 @media print {
   body {

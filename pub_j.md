@@ -1,10 +1,10 @@
 ---
-layout: justify
+layout: default
 ---
 
 <!-- @TODO: wanting to use [link](url){:target="_blank"} to open the link in another tab -->
 
-# 研究業績
+# 論文業績
 
 * Google Scholar Citationsは **<a href="https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ" target="_blank">こちら > </a>**
 <a href="https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ" target="_blank"><img src="assets/img/768px-Google_Scholar_logo.png" height="40" alt="768px-Google_Scholar_logo.png" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> 

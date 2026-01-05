@@ -1,5 +1,5 @@
 ---
-layout: justify
+layout: default
 ---
 
 # Publications

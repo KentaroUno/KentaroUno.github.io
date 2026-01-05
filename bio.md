@@ -4,12 +4,22 @@ layout: default
 
 # Biography
 
+## Publication
+
+* Publication list is <a href="pub.html" target="_blank">here</a>
+
 ## Work Experience
 
 <!-- <img src="assets/img/srl.png" width="120"> -->
-<a href="https://www.tohoku.ac.jp/en/" target="_blank"><img src="assets/img/Toh_E_L_P_RGB_2381.gif" width="120" alt="Tohoku Univ logo" border="0" align="center" hspace="10" vspace="10"></a>
-<a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank"><img src="assets/img/srl.gif" width="200" alt="SRL motion logo" border="0" align="center" hspace="10" vspace="10"></a>
+<div class="logo-row">
+  <a href="https://www.tohoku.ac.jp/japanese/" target="_blank" rel="noopener">
+    <img src="assets/img/tohoku-univ-logo.jpg" width="120" alt="Tohoku Univ logo">
+  </a>
 
+  <a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank" rel="noopener">
+    <img src="assets/img/srl-logo.png" width="120" alt="SRL motion logo">
+  </a>
+</div>
 
 * Oct. 2021 -- Today　Assistant Professor, Graduate School of Engineering, Tohoku University. (Lab: <a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank">Space Robotics Laboratory</a>)
 
@@ -19,14 +29,40 @@ layout: default
   - Oct. 2021 -- Today　Seminar II: for undergraduates 
   - Oct. 2021 -- Today　Creative Engineering Training: for undergraduates
 
+<div class="logo-row">
+  <a href="https://ethz.ch/en.html" target="_blank" rel="noopener">
+    <img src="assets/img/eth-logo.png" width="120" alt="Tohoku Univ logo">
+  </a>
+  <a href="https://rsl.ethz.ch/" target="_blank" rel="noopener">
+    <img src="assets/img/rsl-logo.png" width="120" alt="SRL motion logo">
+  </a>
+</div>
 
 * Nov. 2019 -- Oct. 2020　Research Intern, Department of Mechanical and Process Engineering, Institute of Robotics and Intelligent Systems, ETH Zurich (Zürich, Switzerland).
 
+<div class="logo-row">
+  <a href="https://www.jsps.go.jp/english/" target="_blank" rel="noopener">
+    <img src="assets/img/jsps-logo.png" width="90" alt="Tohoku Univ logo">
+  </a>
+</div>
+
 * Apr. 2019 -- Sep. 2021　JSPS Research Fellowship for Young Scientists DC1
+
+<div class="logo-row">
+  <a href="https://ispace-inc.com/" target="_blank" rel="noopener">
+    <img src="assets/img/ispace-logo.png" width="120" alt="Tohoku Univ logo">
+  </a>
+</div>
 
 * Jul. 2018 -- Mar. 2019　Software Engineer Intern, <a href="https://ispace-inc.com" target="_blank">ispace inc.</a>
 
 ## Education
+
+<div class="logo-row">
+  <a href="https://www.tohoku.ac.jp/japanese/" target="_blank" rel="noopener">
+    <img src="assets/img/tohoku-univ-logo.jpg" width="120" alt="Tohoku Univ logo">
+  </a>
+</div>
 
 * Oct. 2018 -- Sep. 2021　Ph.D. in Aerospace Engineering @Tohoku University (Sendai, Japan)
   
@@ -41,16 +77,6 @@ layout: default
   Thesis: "Gait Planning for a Free-Climbing Robot in Consideration of the Gripping Forces", GPA: 3.39/4.00
 
 * Apr. 2010 -- Mar. 2013　Hokkaido Sapporo Minami High School (Sapporo, Japan)
-
-## Publication
-
-* Publication list is <a href="pub.html" target="_blank">here</a>
-
-* My Google Scholar Citations are <a href="https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ" target="_blank">here</a>
-
-* My SCOPUS is <a href="https://www.scopus.com/authid/detail.uri?authorId=57208746798" target="_blank">here</a>
-
-* My researchmap is <a href="https://researchmap.jp/unoken" target="_blank">here</a>
 
 ## Patent
 

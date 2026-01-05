@@ -2,15 +2,121 @@
 layout: default
 ---
 
-## Research Areas
+# Research Areas
 
-| <font size="4"> Exploration Rovers </font> | <font size="4"> Climbing Robotics </font> |
-|:---------------:|:---------------:|
-| [<img src="assets/img/ex-1.gif" alt="ex-1.gif" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) | [<img src="assets/img/hubrobo_gif.gif" alt="hubrobo_gif.gif" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) |
-| <font size="4"> <b> Novel Mechanisms </b> </font> | <font size="4"> <b> Orbital Servicing Robitics </b> </font> |
-| [<img src="assets/img/pin-array_gripper.png"  alt="pin-array_gripper" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) | [<img src="assets/img/orbital_robotics.png" alt="orbital_robotics.png" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) |
-| <font size="4"> <b> Robotics for Lunar Base Construction </b> </font> | <font size="4"> <b>  </b> </font> |
-| [<img src="assets/img/TBA.png" alt="TBA.png" border="0" align="center" width="100%" hspace="0" vspace="10" class="scale-img">](./proj.html) |  |
+## Exploration Rovers
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/usZFhx5iGGY" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">High-Speed and High-Traversability Rover</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/UzxpKbpj6OA" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Risk-Aware Coverage Path Planning</p>
+  </div>
+
+</div>
+
+## Climbing Robotics
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/CZyJCvOKx9A" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">HubRobo: Light-Weight Quadrupedal Climbing Robot Testbed</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/nNB8uTTsJJg" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics</p>
+  </div>
+
+</div>
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/beSt5cv2d0g" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Terrain-, Inclination-, and Gravity-Adjustable Testfield</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/M-kWp0qJOTI" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity</p>
+  </div>
+
+</div>
+
+## Novel Mechanisms
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/dWo28Nl5jgE" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles</p>
+  </div>
+
+
+
+</div>
+
+## Orbital Servicing Robitics
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/lPpD2dJ1DgA" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">A Camera-based Structure from Motion Approach for Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/SRTtrgRimoA" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</p>
+  </div>
+
+</div>
+
+
+## Robotics for Lunar Base Construction
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/vtt3OIxwhus" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Concept - Self-Evolving AI Robot System for Lunar Exploration and Human Outpost Construction</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/TilwjMgt0ek" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">MoonBot: Modular and On-demand Reconfigurable Robot -- Moon Base Construction Demo</p>
+  </div>
+
+</div>
 
 ## What's New
 
