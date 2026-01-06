@@ -10,7 +10,7 @@ html, body {
 
   font: 14px/1.5 "Noto Sans JP", "Helvetica", "Arial", "sans-serif", "Yu Gothic", "Helvetica Neue";
   color:#ffffff; // this is the main text color
-  font-weight:500;
+  font-weight:400; /* 文字の太さは, 400: 標準（normal），700：太字（bold）*/
   // text-align: left;     /* 左寄せ(標準) */
   // text-align: center;   /* 中央寄せ(センタリング) */
   // text-align: right;    /* 右寄せ */
@@ -28,10 +28,12 @@ html::before {
 
   background: linear-gradient(
     to right,
-      rgba(0, 0, 0, 0) 0%,
-      rgba(0, 0, 0, 0) 420px,
-      rgb(0, 0, 0) 420px,
-      rgb(0, 0, 0) 1920px
+      #bbbbbb 0%, /*画面左端の背景帯の色*/
+      #000000 320px,
+      #000000 320px, /*画面中央の背景帯の色*/
+      #000000 1280px,
+      #000000 1280px, /*画面右側（メインパート)の背景帯の色*/
+      #002060 1920px
   );
 }
 
@@ -49,10 +51,10 @@ body.justify{
   text-align: justify;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color:#ffffff;
-  margin:0 0 20px;
-}
+// h1, h2, h3, h4, h5, h6 {
+//   color:#ffffff;
+//   margin:80px 0 20px;
+// }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
@@ -64,18 +66,18 @@ p, ul, ol, table, pre, dl {
   }
 
 h1, h2, h3 {
-  line-height:1.2;
+  line-height:1.0;
   font-weight:1000;
 }
 
 h1 {
-  font-size:36px;
+  font-size:40px;
 
   display: flex;
   align-items: center;
   gap: 0.6em;
 
-  margin-top: 0;
+  margin-bottom: 40px;
 
   
   /* 左にラインが伸びる「見出し強調」風（研究者サイト向け） */
@@ -111,18 +113,22 @@ h2 {
   border-left:5px solid #ffffff; /*左の線色の指定*/
   padding:0 0 0 10px;
   color:#ffffff;
+  margin-top: 80px;
+  margin-bottom: 40px;
 }
 
 h3 {
   font-size:20px;
-  padding:0 0 0 12px;
+  padding:0 0 0 10px;
   color:#ffffff;
+  margin-top: 20px;
 }
 
 h4 {
   font-size:16px;
   padding:0 0 0 12px;
   color:#ffffff;
+  margin-top: 40px;
 }
 
 h5, h6 {
@@ -133,6 +139,7 @@ h5, h6 {
 
 a {
   color:#85ceff;
+  font-weight: bold;
   text-decoration:none;
   // text-decoration:underline;
 }
@@ -140,7 +147,7 @@ a {
 a:hover, a:focus {
   color:#85ceff;
   font-weight: bold;
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 a small {
@@ -239,11 +246,11 @@ th {
   outline: none !important;
 }
 
-/* 2列グリッド */
+/* 3列グリッド */
 .video-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr)); /* 画面の半分ずつ */
-  gap: 1rem;  /* 動画間の余白 */
+  grid-template-columns: repeat(3, minmax(0, 1fr)); /* 画面の半分ずつ */
+  gap: 2rem;  /* 動画間の余白 */
 }
 
 /* 動画下のテキスト */
@@ -261,6 +268,13 @@ th {
   line-height: 1.4;
   text-align: center;   /* 中央揃え（好みで left も可） */
   color: #ffffff;
+}
+
+/* タブレットでは2列 */
+@media (max-width: 1280px) {
+  .video-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 /* スマホでは1列 */
@@ -290,6 +304,26 @@ header img {
   height: auto; /* ← 縦横比を保つため必須 */
   display: block;
   margin: 0 auto;   /* 中央揃え */
+}
+
+.header-image-small img {
+  height: 36px;
+  width: auto;
+  display: block;
+}
+
+.header-image-row {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.header-image-row img {
+  height: 36px;
+  width: auto;
+  display: block;
 }
 
 header h1 {
@@ -326,16 +360,22 @@ header::before {
   left: calc(-50vw + 50%);
   width: calc(100% + (50vw - 50%));
 
-    background:
+  /* 透かし（黒フィルタ）+ 背景画像 */
+  background-image:
     linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
+      rgba(0, 0, 0, 0.85),
+      rgba(0, 0, 0, 0.85)
     ),
     url("/assets/img/background.jpg");
 
+  background-repeat: no-repeat;          /* ← 繰り返しを止める */
+  background-position: right top;    /* ← 位置を中央に */
+  background-size: contain;                /* ← 1枚で覆う（はみ出しはトリミング） */
+
   z-index: -1;
   pointer-events: none;
-  padding: 1rem;
+
+  /* ※ padding は疑似要素には効きづらいので不要（消すの推奨） */
   border-radius: 10px;
 }
 
@@ -383,9 +423,11 @@ ul.downloads {
   background-color:#f0f0f0;
 }
 
+/* Markdown記法で**で囲むと，このstrong効果が反映される */
 strong {
-  color:#bbbbbb;
+  color:#ffffff;
   font-weight:700;
+  text-decoration: underline;
 }
 
 .downloads li + li + li {
@@ -404,7 +446,7 @@ section {
   width: auto !important;
   max-width: 100% !important;
 
-  margin-left: 540px;
+  margin-left: 480px;
 
   /* 改行を妨げる指定があっても折り返す */
   white-space: normal !important;

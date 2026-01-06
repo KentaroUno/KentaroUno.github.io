@@ -78,12 +78,6 @@ layout: default
 
 * Apr. 2010 -- Mar. 2013　Hokkaido Sapporo Minami High School (Sapporo, Japan)
 
-## Patent
-
-* Masahiro Uda, Kenta Sawa, Takuya Kato, Kentaro Uno, "End-Effector and Robot", 特願2023-102850, June 22nd, 2023.
-
-* Takuya Kato, Kentaro Uno, "Gripping Mechanism", PCT/JP2022/021947, May 30th, 2022.
-
 ## Funding
 
 ### Principal Investigator
@@ -148,6 +142,11 @@ layout: default
 
 * 2017年03月01日【TV出演】1億人の大質問！？笑ってコラえて！（日本テレビ）．（月面探査ローバーの研究開発を紹介） -->
 
+## Patent
+
+* Masahiro Uda, Kenta Sawa, Takuya Kato, Kentaro Uno, "End-Effector and Robot", 特願2023-102850, June 22nd, 2023.
+
+* Takuya Kato, Kentaro Uno, "Gripping Mechanism", PCT/JP2022/021947, May 30th, 2022.
 
 ## Outreaching Activities
 

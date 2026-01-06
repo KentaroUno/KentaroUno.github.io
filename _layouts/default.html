@@ -31,7 +31,41 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <p>
+          <div class="header-image-row">
+            <!-- LinkedIn -->
+            <a href="https://www.linkedin.com/in/unoken/" target="_blank">
+              <img src="/assets/img/LinkedIn_2021.svg.png" alt="Image 1">
+            </a>
+            <a href="https://scholar.google.com/citations?view_op=list_works&hl=ja&user=kiw1NAUAAAAJ" target="_blank">
+              <img src="/assets/img/768px-Google_Scholar_logo.png" alt="Image 1">
+            </a>
+            <a href="https://www.scopus.com/authid/detail.uri?authorId=57208746798" target="_blank">
+              <img src="/assets/img/Scopus_logo.png" alt="Image 1">
+            </a>
+          </div>
+        </p>
+
+        <!-- _config.yml内に書いたdescriptionの記述がここに挿入される． -->
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+    
+        <p>
+          <div class="header-image-row">
+            <!-- <center> -->
+            <a href="https://jka-cycle.jp" target="_blank">
+              <img src="/assets/img/banner2.png" alt="Image"> 
+            </a> 
+            <a href="https://keirin.jp/pc/top" target="_blank">
+              <img src="/assets/img/keirinjp_banner_pc.gif" alt="Image">
+            </a> 
+            <!-- </center> -->
+          </div>
+        </p>
+        <center>
+        <p class="small">
+          Some projects are supported by JKA and its promotion funds from KEIRIN RACE. 
+        </p>
+        </center>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -48,6 +82,8 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+
+        <center> <p> Kentaro Uno All Rights Reserved. </p> </center>
       </header>
       <section>
 

@@ -50,7 +50,8 @@ menu:
 
 logo: /assets/img/bio-photo-landscape.png
 
-description: <p class="small"> I am a robotics researcher. My research interests are in the robotics in the harsh environment such as space and unstructured terrain. Feel free to download my <a href="/assets/files/CV.pdf">CV</a> (Contact info. is in it.). </p> <center> <p class="small"> <a href="https://jka-cycle.jp" target="_blank"><img src="/assets/img/banner2.png" width="150"></a> <br> <a href="http://keirin.jp/pc/top" target="_blank"><img src="/assets/img/keirinjp_banner_pc.gif" width="150"></a> <br>  Some projects are supported by JKA and its promotion funds from KEIRIN RACE. </p> </center> <center> <p> Kentaro Uno All Rights Reserved. </p> </center>
+description: <p class="small"> I am a robotics researcher. My research interests are in the robotics in the harsh environment such as space and unstructured terrain. Feel free to download my <a href="/assets/files/CV.pdf">CV</a> (Contact info. is in it.). </p> 
+
 # <p> My <a href="https://www.linkedin.com/in/unoken/" target="_blank">LinkedIn</a> is also available. </p>
 # <div style="line-height:1em;"> xxxx </div> 
 show_downloads:
