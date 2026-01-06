@@ -187,5 +187,3 @@ layout: default
 * Coffee
 
 * Play with my daughter
-
-### [Back to Top Page](./)

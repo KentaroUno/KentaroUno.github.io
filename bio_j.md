@@ -196,5 +196,3 @@ layout: default
 * コーヒー（カフェイン中毒）
 
 * 愛娘と遊ぶこと
-
-### [Back to Top Page](./)
