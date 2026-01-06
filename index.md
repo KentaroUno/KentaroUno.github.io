@@ -13,6 +13,8 @@ layout: default
       <iframe src="https://www.youtube.com/embed/usZFhx5iGGY" allowfullscreen></iframe>
     </div>
     <p class="video-caption">High-Speed and High-Traversability Rover</p>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">IEEE RA-L  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    )</p>
   </div>
 
   <div class="video-item">
@@ -86,6 +88,8 @@ layout: default
       <iframe src="https://www.youtube.com/embed/lPpD2dJ1DgA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">A Camera-based Structure from Motion Approach for Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris</p>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10711467" target="_blank">IEEE CASE 2024 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/abs/2408.01035" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    )</p>
   </div>
 
   <div class="video-item">
@@ -93,6 +97,8 @@ layout: default
       <iframe src="https://www.youtube.com/embed/SRTtrgRimoA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</p>
+    <p class="video-caption2">(A <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/abs/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    )</p>
   </div>
 
 </div>
@@ -117,6 +123,9 @@ layout: default
   </div>
 
 </div>
+
+  <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/11214551" target="_blank">IEEE T-FR  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/pdf/2512.21853v1" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    )</p>
 
 ## What's New
 

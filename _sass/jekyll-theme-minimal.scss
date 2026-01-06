@@ -255,6 +255,14 @@ th {
   color: #ffffff;
 }
 
+.video-caption2 {
+  margin-top: 0.4rem;
+  font-size: 1rem;
+  line-height: 1.4;
+  text-align: center;   /* 中央揃え（好みで left も可） */
+  color: #ffffff;
+}
+
 /* スマホでは1列 */
 @media (max-width: 768px) {
   .video-grid {
