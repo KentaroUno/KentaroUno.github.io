@@ -2,11 +2,7 @@
 layout: default
 ---
 
-# プロジェクト
-
-そのほかのプロジェクトは[英語のページ](./proj.html)をご覧ください．
-
-# [ピン配列型把持機構](./proj_j.html)
+# ピン配列型把持機構
 
 ## ピン配列型把持機構の開発 **<a href="https://youtu.be/dWo28Nl5jgE?feature=shared" target="_blank"> <img src="assets/img/youtubeLogo.png" width="100" alt="YouTube video" border="0" align="center" hspace="0" vspace="0"> </a>**
 
@@ -105,7 +101,3 @@ layout: default
   ```
 
     長岡佳汰，宇野健太朗，吉田和哉，“ピン配列型把持機構を応用したクライミングロボットの実証実験”，第42回 日本ロボット学会誌，大阪，2024年．※発表予定
-
-
-
-### [Back to Top Page](./)
