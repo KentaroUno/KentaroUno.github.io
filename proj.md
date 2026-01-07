@@ -62,7 +62,7 @@ enables to be robust under the direct sunlight illumination.
 
 ## Legged Climbing Robotics
 
-For exploring the steep and irregular terrain represented as an outcrop, cliff wall, cave ceiling, and Lunar and Martian lava tube, the legged robot equipped with the gripping mechanism, called <I>limbed climbing robot</I> is to be the innovative strategy to expand the traversable areas by a mobile robot. For the future advanced exploration mission, this research and development project tackles the challenge to realize the autonomous limbed robot's climbing locomotion.
+For exploring the steep and irregular terrain represented as an outcrop, cliff wall, cave ceiling, and Lunar and Martian lava tube, the legged robot equipped with the gripping mechanism, called _limbed climbing robot_ is to be the innovative strategy to expand the traversable areas by a mobile robot. For the future advanced exploration mission, this research and development project tackles the challenge to realize the autonomous limbed robot's climbing locomotion.
 
 ### HubRobo: Quadrupedal Climbing Robot Testbed
 <!-- ![HubRobo picture](./assets/img/hubrobo_picture.png) -->

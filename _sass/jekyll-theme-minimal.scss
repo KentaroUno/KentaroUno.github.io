@@ -158,13 +158,13 @@ a:hover, a:focus {
 
 a small {
   font-size:11px;
-  color:#bbbbbb;
+  color:#ffffff;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#bbbbbb;
+  color:#ffffff;
 }
 
 .wrapper {
@@ -176,33 +176,42 @@ a:hover small {
  /* textboxの書式設定 */
 blockquote {
   background:#181818; /*背景色の指定*/
-  border-left:5px solid #bbbbbb; /*左の線色の指定*/
-  color:#bbbbbb; /*文字色の指定*/
+  border-left:5px solid #181818; /*左の線色の指定*/
+  color:#181818; /*文字色の指定*/
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
 }
 
-code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#181818;
-  // background-color: #181818;
+/* Code block（Jekyll/Rouge）の設定*/
+div.highlight,
+figure.highlight,
+pre.highlight,
+.highlight pre,
+pre {
+  background: #181818 !important;
+  border: 1px solid #181818 !important;
+  border-radius: 5px;
 }
 
-pre {
-  padding:8px 15px;
-  background: #f8f8f8;
-  border-radius:5px;
-  border:1px solid #e5e5e5;
+pre, .highlight pre {
+  padding: 8px 15px;
   overflow-x: auto;
 }
 
-// 表の設定
+/* 内側codeの背景を消して二重背景を防ぐ */
+pre code, .highlight code {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  background: transparent !important;
+  color: #fff; /* 必要なら */
+}
+
+/* 表の設定 */
 table {
   width:100%;
   border-collapse:collapse;
   // border: none 1px #bbbbbb; /* dashed: 点線 */
-  color: #bbbbbb; /* 全体の文字色 */
+  color: #ffffff; /* 全体の文字色 */
   background-color: #18181800; /* 全体の背景色 */
   text-align: center;
 }
@@ -210,8 +219,8 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px dashed #bbbbbb;
-  border: none 1px #bbbbbb; /* dashed: 点線，背景と同じ色にすると枠線無しに見える*/
+  border-bottom:1px dashed #ffffff;
+  border: none 1px #ffffff; /* dashed: 点線，背景と同じ色にすると枠線無しに見える*/
 }
 
 section table {
@@ -230,12 +239,12 @@ section table td {
 }
 
 dt {
-  color:#bbbbbb;
+  color:#ffffff;
   font-weight:700;
 }
 
 th {
-  color:#bbbbbb;
+  color:#ffffff;
 }
 
 .logo-row {
