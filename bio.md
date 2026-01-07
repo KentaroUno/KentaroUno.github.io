@@ -17,12 +17,12 @@ bg_image: /assets/img/tof_testing3.JPG
     <img src="assets/img/tohoku-univ-logo.jpg" width="120" alt="Tohoku Univ logo">
   </a>
 
-  <a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank" rel="noopener">
+  <a href="http://www.astro2.mech.tohoku.ac.jp/index.html" target="_blank" rel="noopener">
     <img src="assets/img/srl-logo.png" width="120" alt="SRL motion logo">
   </a>
 </div>
 
-* Oct. 2021 -- Today　Assistant Professor, Graduate School of Engineering, Tohoku University. (Lab: <a href="http://www.astro.mech.tohoku.ac.jp/e/index.html" target="_blank">Space Robotics Laboratory</a>)
+* Oct. 2021 -- Today　Assistant Professor, Graduate School of Engineering, Tohoku University. (Lab: <a href="http://www.astro2.mech.tohoku.ac.jp/e/index.html" target="_blank">Space Robotics Laboratory</a>)
 
   ### Lecture (Tohoku University)
   - Apr. 2022 -- Today　Laboratory Experiment I: for undergraduates

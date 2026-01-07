@@ -17,12 +17,12 @@ bg_image: /assets/img/tof_testing3.JPG
     <img src="assets/img/tohoku-univ-logo.jpg" width="120" alt="Tohoku Univ logo">
   </a>
 
-  <a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank" rel="noopener">
+  <a href="http://www.astro2.mech.tohoku.ac.jp/index.html" target="_blank" rel="noopener">
     <img src="assets/img/srl-logo.png" width="120" alt="SRL motion logo">
   </a>
 </div>
 
-* 2021年10月 ～ 現在　東北大学　大学院工学研究科　航空宇宙工学専攻　助教 （所属：<a href="http://www.astro.mech.tohoku.ac.jp/index.html" target="_blank">宇宙探査工学分野「宇宙ロボット研究室」</a>）
+* 2021年10月 ～ 現在　東北大学　大学院工学研究科　航空宇宙工学専攻　助教 （所属：<a href="http://www.astro2.mech.tohoku.ac.jp/index.html" target="_blank">宇宙探査工学分野「宇宙ロボット研究室」</a>）
 
   ### 担当講義（東北大学）
   - 2022年04月 ～ 現在　機械知能・航空実験Ⅰ：工学部 機械知能・航空工学科3年生
