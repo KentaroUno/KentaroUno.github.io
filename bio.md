@@ -1,5 +1,6 @@
 ---
 layout: default
+bg_image: /assets/img/HubRobo_v_3_1.png
 ---
 
 # Biography

@@ -1,5 +1,6 @@
 ---
 layout: default
+bg_image: /assets/img/ex1.png
 ---
 
 # Publications

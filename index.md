@@ -1,5 +1,6 @@
 ---
 layout: default
+bg_image: /assets/img/tof_testing.jpg
 ---
 
 # Research Areas
@@ -221,6 +222,7 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
 
 | DATE         | CONTENT           |
 |:-------------|:------------------|
+| Present | Please check out our new publication in IEEE T-FR! <a href="https://doi.org/10.1109/TFR.2025.3624346" target="_blank">MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction</a>" |
 | Present | Please check out the new video: **<a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"> Tohoku University Cross-Technology Initiative for Space Systems</a>**. <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> |
 | Present | Some of Japanese page and Project page are still under construction. Twitter's link is not yet available.  |
 | 2022.09.29. | Whole webpage is renewed.  |
@@ -229,13 +231,13 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
 | 2021.11.22. | Japan Tohoku area local news paper "Kahoku-Shimpo" featured our research project! |
 
 
-## Update Log
+<!-- ## Update Log
 
-| DATE        | CONTENT          |
-|:------------|:------------------|
+| DATE         | CONTENT           |
+|:-------------|:------------------|
 | 2025.09.22. | Nine papers have been accepted for iSpaRo at Sendai in 2025 → [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |
 | 2024.11.18. | Two papers were accepted for IEEE/SICE SII at Munich in 2025 → [Publication page](./pub.html) |
-| 2024.05.28. | Three papers ("Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil" and others) will be presented at ISTVS, an international conference on vehicle and vehicle dynamics, in Yokohama, Japan, and one paper: "Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots" at CLAWAR, an international conference on walking and climbing robots held in Kaiserslautern, Germany. Limbed Climbing Robots" was accepted. → [Publication page](./pub.html) |
+| 2024.05.28. | Three papers will be presented at ISTVS, an international conference on vehicle and vehicle dynamics, in Yokohama, Japan, and one paper at CLAWAR was accepted. → [Publication page](./pub.html) |
 | 2024.04.27. | Please contribute to our workshop ["Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions"](https://www.isparo.space/lunar-workshop) for International Conference on Space Robotics (iSpaRo) in Luxembourg! |
 | 2024.04.04. | Our two papers are accepted for International Conference on Space Robotics (iSpaRo) in Luxembourg!→ [Publication page](./pub.html) |
 | 2024.02.06. | Our two papers will be presented in International Conference on Robotics and Automation (ICRA) in Yokohama, Japan!→ [Publication page](./pub.html) |
@@ -262,4 +264,4 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
 | 2019.11.08. | [LinkedIn](https://www.linkedin.com/in/unoken/) is added.  |
 | 2019.11.04. | Whole this webpages are renewed.  |
 | 2019.09.11. | [Biography](./bio.html), [Publications](./pub.html) are updated.  |
-| 2019.03.20. | [This webpage](./index.html) is open.  |
+| 2019.03.20. | [This webpage](./index.html) is open.  | -->

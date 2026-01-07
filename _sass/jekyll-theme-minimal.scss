@@ -19,7 +19,19 @@ html, body {
 }
 
 /* 固定背景レイヤ */
-html::before {
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  pointer-events: none;
+
+  background: var(--page-bg-image, url("/assets/img/bg-default.jpg")) center / contain no-repeat;
+  filter: grayscale(100%);
+  background-size: 90% auto;  /* 横を基準に少し拡大（全体はほぼ維持） */
+}
+
+body::after {
   content: "";
   position: fixed;
   inset: 0;
@@ -28,12 +40,16 @@ html::before {
 
   background: linear-gradient(
     to right,
-      #bbbbbb 0%, /*画面左端の背景帯の色*/
+      #002060 0%,
       #000000 320px,
-      #000000 320px, /*画面中央の背景帯の色*/
-      #000000 1280px,
-      #000000 1280px, /*画面右側（メインパート)の背景帯の色*/
-      #002060 1920px
+      rgba(0, 0, 0, 1) 320px,
+      rgba(0, 0, 0, 1) 720px,
+      rgba(0, 0, 0, 1) 720px,
+      rgba(0, 0, 0, 1) 720px,
+      rgba(0, 0, 0, 0.7) 1080px,
+      rgba(0, 0, 0, 1) 1660px,
+      #000000 1660px,
+      #000000 1920px
   );
 }
 
@@ -198,6 +214,21 @@ th, td {
   border: none 1px #bbbbbb; /* dashed: 点線，背景と同じ色にすると枠線無しに見える*/
 }
 
+section table {
+  width: 100%;
+  table-layout: fixed; /* 列幅を安定させる */
+}
+
+section table th:first-child,
+section table td:first-child {
+  width: 9em;          /* 日付列を固定（好みで調整） */
+  white-space: nowrap; /* 日付を折り返さない */
+}
+section table td {
+  overflow-wrap: anywhere; /* 長いURL/英単語でも折り返す */
+  word-break: break-word;  /* 保険 */
+}
+
 dt {
   color:#bbbbbb;
   font-weight:700;
@@ -271,7 +302,7 @@ th {
 }
 
 .inline-icon {
-  height: 1.2em;   /* ★ フォントサイズの120% */
+  height: 1.5em;   /* ★ フォントサイズの120% */
   width: auto;     /* 縦横比を保持 */
   vertical-align: middle;
   transition-duration: 0.5s; /*変化の時間*/

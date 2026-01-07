@@ -12,7 +12,8 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
-  <body>
+  <body style="--page-bg-image: url('{{ page.bg_image | default: site.bg_default | relative_url }}');">
+<p style="display:none">{{ page.bg_image }}</p>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>

@@ -1,5 +1,6 @@
 ---
 layout: default
+bg_image: /assets/img/ex1.png
 ---
 
 <!-- @TODO: wanting to use [link](url){:target="_blank"} to open the link in another tab -->
@@ -255,6 +256,13 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 ※〇印は発表者を表す．
 
+### 2025
+
+* 〇今井 正純，Tharit Sinsunthorn，**宇野 健太朗**，吉田 和哉，“**ISS船内伝い歩きロボットの移動シミュレーション**”，第69回宇宙科学技術連合講演会，#1I11，2025．
+
+* 〇片男浪 輝大，**宇野 健太朗**，吉田 和哉，“**脚型クライミングロボットのための引搔動作可能な爪型グリッパの研究開発**”，第43回 日本ロボット学会学術講演会，2025．
+
+
 ### 2024
 
 <!-- 宇科連 2024 -->
@@ -262,19 +270,19 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 <!-- RSJ 2024 -->
 
-* **〇宇野 健太朗**，江口 幹生，吉田 和哉，“**鉤爪型グリッパを有する脚型クライミングロボットの反力計測にもとづく手先制御”**，第42回 日本ロボット学会学術講演会，#TBD，2024．
+* **〇宇野 健太朗**，江口 幹生，吉田 和哉，“**鉤爪型グリッパを有する脚型クライミングロボットの反力計測にもとづく手先制御”**，第42回 日本ロボット学会学術講演会，2024．
 
-* 〇猶木 皓太，**宇野 健太朗**，宇田 昌弘，Candalot Arthur，吉田 和哉，“**グリッパ－車輪間変形可能機構の脚型ロボットへの応用に向けた改良開発”**，第42回 日本ロボット学会学術講演会，#TBD，2024．
+* 〇猶木 皓太，**宇野 健太朗**，宇田 昌弘，Candalot Arthur，吉田 和哉，“**グリッパ－車輪間変形可能機構の脚型ロボットへの応用に向けた改良開発”**，第42回 日本ロボット学会学術講演会，2024．
 
-* 澤 健太\*，**〇宇野 健太朗**\*，猶木 皓太，梅村 歩，宇田 昌弘，吉田 和哉，“**鳥取砂丘月面実証フィールド「ルナテラス」を活用した月面探査ローバーの走行実験”**，第42回 日本ロボット学会学術講演会，#TBD，2024．\*These authors contributed equally.
+* 澤 健太\*，**〇宇野 健太朗**\*，猶木 皓太，梅村 歩，宇田 昌弘，吉田 和哉，“**鳥取砂丘月面実証フィールド「ルナテラス」を活用した月面探査ローバーの走行実験”**，第42回 日本ロボット学会学術講演会，2024．\*These authors contributed equally.
 
-* 〇内田 亮慈，髙田 一輝，今井 正純，**宇野 健太朗**，吉田 和哉，“**SpaceDyn Ver. 3.0: ROSとの連携による宇宙ロボットシミュレーション”**，第42回 日本ロボット学会学術講演会，#TBD，2024．
+* 〇内田 亮慈，髙田 一輝，今井 正純，**宇野 健太朗**，吉田 和哉，“**SpaceDyn Ver. 3.0: ROSとの連携による宇宙ロボットシミュレーション”**，第42回 日本ロボット学会学術講演会，2024．
 
-* 〇長岡 佳汰，**宇野 健太朗**，吉田 和哉，“**ピン配列型把持機構を応用したクライミングロボットの研究開発”**，第42回 日本ロボット学会学術講演会，#TBD，2024．
+* 〇長岡 佳汰，**宇野 健太朗**，吉田 和哉，“**ピン配列型把持機構を応用したクライミングロボットの研究開発”**，第42回 日本ロボット学会学術講演会，2024．
 
-* 〇髙田 一輝，**宇野 健太朗**，今井 正純，西部 諒，片男波 輝大，吉田 和哉，“**多様な地形を歩行・登攀可能な4脚クライミングロボット: LIMBEROの研究開発”**，第42回 日本ロボット学会学術講演会，#TBD，2024．
+* 〇髙田 一輝，**宇野 健太朗**，今井 正純，西部 諒，片男波 輝大，吉田 和哉，“**多様な地形を歩行・登攀可能な4脚クライミングロボット: LIMBEROの研究開発”**，第42回 日本ロボット学会学術講演会，2024．
 
-* 〇Elian Neppel, Gustavo H. Diaz, **Kentaro Uno**, Shreya Santra, Pascal Pama, Danish Ai, Kazuya Yoshida, "**A GPU-Optimized Parallel Algorithm for Quickly Validating Legged Robot Positionability on the Lunar Surface using Point Cloud,**" Proceedings of the 42th Annual Conference of Robotics Society Japan (RSJ), #TBD, 2024. 
+* 〇Elian Neppel, Gustavo H. Diaz, **Kentaro Uno**, Shreya Santra, Pascal Pama, Danish Ai, Kazuya Yoshida, "**A GPU-Optimized Parallel Algorithm for Quickly Validating Legged Robot Positionability on the Lunar Surface using Point Cloud,**" Proceedings of the 42th Annual Conference of Robotics Society Japan (RSJ), 2024. 
 
 * 〇阿依 ダニシ\*，Tharit Sinsunthorn\*，Pascal Pama，**宇野 健太朗**，吉田 和哉，“**月面での探査や作業を目的としたモジュラー型ロボット：Moonbot 0の研究開発”**，第68回システム制御情報学会研究発表講演会，#32J-1，2024．\*These authors contributed equally.
 
@@ -282,7 +290,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 ### 2023
 
-* 〇江口 幹生，**宇野 健太朗**，髙田 一輝，加藤 匠哉，吉田 和哉，“**鉤爪型グリッパの自然岩石把持性能に関する実験的考察および改良開発”**，第24回 計測自動制御学会 システムインテグレーション部門講演会（SI2023），#3F5-01，2023．<a href="https://sice-si.org/si2023/excellent_speaker.php" target="_blank"> **<span style="color: #966F00">（優秀発表奨励賞）</span>** </a>
+* 〇江口 幹生，**宇野 健太朗**，髙田 一輝，加藤 匠哉，吉田 和哉，“**鉤爪型グリッパの自然岩石把持性能に関する実験的考察および改良開発”**，第24回 計測自動制御学会 システムインテグレーション部門講演会（SI2023），#3F5-01，2023．<a href="https://sice-si.org/si2023/excellent_speaker.php" target="_blank"> <span style="color: #966F00">（優秀発表奨励賞）</span> </a>
 
 * 〇竹花 佳祐，田中 智泉，**宇野 健太朗**，吉田 和哉，“**粘着力が異なる土壌における月面探査ローバー車輪の走行特性比較”**，第44回 テラメカニックス研究会，#19，2023．
 
@@ -334,7 +342,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 * 〇比内 俊樹，**宇野 健太朗**，吉田 和哉（東北大），“**鉤爪型グリッパを有するクライミングロボットのための機械学習を用いた把持状態判定手法”**，第21回 計測自動制御学会 システムインテグレーション部門講演会，#1H3-04，2020．
 
-* **〇宇野 健太朗**，錦織 広樹，Arthur Candalot，Louis Mamelle，吉田 和哉（東北大），“**フリークライミングロボットのための不整地登攀実験環境の設計と開発”**，第328回 計測自動制御学会 東北支部研究集会，#328-1，2020．**<span style="color: #966F00">（優秀発表奨励賞）</span>**
+* **〇宇野 健太朗**，錦織 広樹，Arthur Candalot，Louis Mamelle，吉田 和哉（東北大），“**フリークライミングロボットのための不整地登攀実験環境の設計と開発”**，第328回 計測自動制御学会 東北支部研究集会，#328-1，2020．<span style="color: #966F00">（優秀発表奨励賞）</span>
 
 * **〇宇野 健太朗**，Warley F. R. Ribeiro，白井 有樹，永岡 健司，吉田 和哉（東北大），“**フリークライミングロボットのための歩容計画法の提案”**，第19回 計測自動制御学会 システムインテグレーション部門講演会，2018．
 
