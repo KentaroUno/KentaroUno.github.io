@@ -1,6 +1,6 @@
 ---
 layout: default
-bg_image: /assets/img/HubRobo_v_3_1.png
+bg_image: /assets/img/tof_testing3.jpg
 ---
 
 # 研究経歴

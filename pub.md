@@ -1,6 +1,6 @@
 ---
 layout: default
-bg_image: /assets/img/ex1.png
+bg_image: /assets/img/HubRobo_v_3_1.png
 ---
 
 # Publications

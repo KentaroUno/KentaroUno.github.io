@@ -1,6 +1,6 @@
 ---
 layout: default
-bg_image: /assets/img/tof_testing.jpg
+bg_image: /assets/img/ex1.png
 ---
 
 # Research Areas
@@ -131,7 +131,7 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
       <iframe src="https://www.youtube.com/embed/SRTtrgRimoA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</p>
-    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <p class="video-caption2">( <span style="color: #ffd258ff">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -223,7 +223,7 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
 | DATE         | CONTENT           |
 |:-------------|:------------------|
 | Present | Please check out our new publication in IEEE T-FR! <a href="https://doi.org/10.1109/TFR.2025.3624346" target="_blank">MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction</a>" |
-| Present | Please check out the new video: **<a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"> Tohoku University Cross-Technology Initiative for Space Systems</a>**. <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> |
+| Present | Please check out the new video: <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"> Tohoku University Cross-Technology Initiative for Space Systems</a>. <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> |
 | Present | Some of Japanese page and Project page are still under construction. Twitter's link is not yet available.  |
 | 2022.09.29. | Whole webpage is renewed.  |
 | 2022.04.19. | [We will be the Japanese TV news on Apr. 19th!](https://www.mech.tohoku.ac.jp/news220419_1/) (only for Japan Tohoku area broadcast.) |

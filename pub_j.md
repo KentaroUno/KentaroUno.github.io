@@ -1,6 +1,6 @@
 ---
 layout: default
-bg_image: /assets/img/ex1.png
+bg_image: /assets/img/HubRobo_v_3_1.png
 ---
 
 <!-- @TODO: wanting to use [link](url){:target="_blank"} to open the link in another tab -->
