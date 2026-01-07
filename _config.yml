@@ -59,5 +59,3 @@ show_downloads:
 google_analytics:
 
 theme: jekyll-theme-minimal
-
-bg_default: /assets/img/bg-default.jpg
