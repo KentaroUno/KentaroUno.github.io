@@ -14,7 +14,7 @@ bg_image: /assets/img/tof_testing.jpg
       <iframe src="https://www.youtube.com/embed/usZFhx5iGGY" allowfullscreen></iframe>
     </div>
     <p class="video-caption">High-Speed and High-Traversability Rover</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">IEEE RA-L  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">IEEE RA-L  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -23,7 +23,7 @@ bg_image: /assets/img/tof_testing.jpg
       <iframe src="https://www.youtube.com/embed/UzxpKbpj6OA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Risk-Aware Coverage Path Planning</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10687663" target="_blank"> iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/pdf/2404.18721" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10687663" target="_blank"> iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2404.18721" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -33,7 +33,7 @@ bg_image: /assets/img/tof_testing.jpg
     </div>
     <p class="video-caption">
 OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10610026" target="_blank"> ICRA 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/pdf/2309.08997" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10610026" target="_blank"> ICRA 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2309.08997" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -48,7 +48,7 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
       <iframe src="https://www.youtube.com/embed/CZyJCvOKx9A" allowfullscreen></iframe>
     </div>
     <p class="video-caption">HubRobo: Light-Weight Quadrupedal Climbing Robot Testbed</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/9555799" target="_blank"> IEEE-RAS Humanoids 2020  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/9555799" target="_blank"> IEEE-RAS Humanoids 2020  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -57,7 +57,7 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
       <iframe src="https://www.youtube.com/embed/nNB8uTTsJJg" allowfullscreen></iframe>
     </div>
     <p class="video-caption">ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics</p>
-    <p class="video-caption2">(Paper: <a href="https://doi.org/10.1007/978-3-030-86294-7_20" target="_blank"> CLAWAR 2021 </a> <a href="https://github.com/Space-Robotics-Laboratory/ClimbLab" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    <p class="video-caption2">(Paper: <a href="https://doi.org/10.1007/978-3-030-86294-7_20" target="_blank"> CLAWAR 2021 </a> <a href="https://github.com/Space-Robotics-Laboratory/ClimbLab" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -80,7 +80,7 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
       <iframe src="https://www.youtube.com/embed/beSt5cv2d0g" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Terrain-, Inclination-, and Gravity-Adjustable Testfield</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10417210" target="_blank"> IEEE/SICE SII 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10417210" target="_blank"> IEEE/SICE SII 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -89,8 +89,8 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
       <iframe src="https://www.youtube.com/embed/M-kWp0qJOTI" allowfullscreen></iframe>
     </div>
     <p class="video-caption">RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity</p>
-    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10161185" target="_blank"> ICRA 2023  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> 
-    <!-- <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> -->
+    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10161185" target="_blank"> ICRA 2023  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+    <!-- <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
     )</p>
   </div>
 
@@ -105,8 +105,8 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
       <iframe src="https://www.youtube.com/embed/dWo28Nl5jgE" allowfullscreen></iframe>
     </div>
     <p class="video-caption">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10011858" target="_blank"> IEEE ROBIO 2022  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> 
-    <!-- <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> -->
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10011858" target="_blank"> IEEE ROBIO 2022  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+    <!-- <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
     )</p>
   </div>
 
@@ -122,7 +122,7 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
       <iframe src="https://www.youtube.com/embed/lPpD2dJ1DgA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">A Camera-based Structure from Motion Approach for Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10711467" target="_blank">IEEE CASE 2024 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/pdf/2408.01035" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10711467" target="_blank">IEEE CASE 2024 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2408.01035" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -131,7 +131,7 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
       <iframe src="https://www.youtube.com/embed/SRTtrgRimoA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</p>
-    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/pdf/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -144,8 +144,8 @@ Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking</p>
     <p class="video-caption2">(Paper: 
     <!-- <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank"> -->
     iSpaRo 2025  
-    <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> -->
-    <a href="https://arxiv.org/pdf/2512.21882" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> 
+    <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <a href="https://arxiv.org/pdf/2512.21882" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
     )</p>
   </div>
 
@@ -162,8 +162,8 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
     <p class="video-caption2">(Paper: 
     <!-- <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank"> -->
     iSpaRo 2025  
-    <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> -->
-    <a href="https://arxiv.org/pdf/2512.21886" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> 
+    <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <a href="https://arxiv.org/pdf/2512.21886" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
     )</p>
   </div>
 
@@ -172,7 +172,7 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
       <iframe src="https://www.youtube.com/embed/SRTtrgRimoA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</p>
-    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/abs/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/abs/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -181,7 +181,7 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
       <iframe src="https://www.youtube.com/embed/SRTtrgRimoA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</p>
-    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/abs/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/abs/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div> -->
 
@@ -215,7 +215,7 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
 
 </div>
 
-  <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/11214551" target="_blank">IEEE T-FR  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> <a href="https://arxiv.org/pdf/2512.21853v1" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a>
+  <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/11214551" target="_blank">IEEE T-FR  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2512.21853v1" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
 
 ## What's New
@@ -223,7 +223,7 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
 | DATE         | CONTENT           |
 |:-------------|:------------------|
 | Present | Please check out our new publication in IEEE T-FR! <a href="https://doi.org/10.1109/TFR.2025.3624346" target="_blank">MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction</a>" |
-| Present | Please check out the new video: **<a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"> Tohoku University Cross-Technology Initiative for Space Systems</a>**. <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="scale-img"></a> |
+| Present | Please check out the new video: **<a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"> Tohoku University Cross-Technology Initiative for Space Systems</a>**. <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> |
 | Present | Some of Japanese page and Project page are still under construction. Twitter's link is not yet available.  |
 | 2022.09.29. | Whole webpage is renewed.  |
 | 2022.04.19. | [We will be the Japanese TV news on Apr. 19th!](https://www.mech.tohoku.ac.jp/news220419_1/) (only for Japan Tohoku area broadcast.) |
