@@ -203,7 +203,7 @@ pre, .highlight pre {
 pre code, .highlight code {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   background: transparent !important;
-  color: #fff; /* 必要なら */
+  color: #ffffff; /* 必要なら */
 }
 
 /* 表の設定 */
@@ -374,11 +374,11 @@ th {
 }
 
 kbd {
-  background-color: #fafbfc;
+  background-color: #ffffff;
   border: 1px solid #c6cbd1;
-  border-bottom-color: #959da5;
+  border-bottom-color: #ffffff;
   border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #959da5;
+  box-shadow: inset 0 -1px 0 #ffffff;
   color: #444d56;
   display: inline-block;
   font-size: 11px;
@@ -419,7 +419,7 @@ header h1 {
   font-size:1.6rem;
   border-bottom:3px solid #bbbbbb00; /*全透明の指定*/
   padding-bottom: 10px;
-  color:#bbbbbb;
+  color:#ffffff;
 }
 
 header {
@@ -472,16 +472,16 @@ ul.downloads {
   list-style:none;
   height:40px;
   padding:0;
-  background: #f4f4f4;
+  background: #ffffff;
   border-radius:5px;
-  border:1px solid #e0e0e0;
+  border:1px solid #ffffff;
   width:270px;
 }
 
 .downloads li {
   width:89px;
   float:left;
-  border-right:1px solid #e0e0e0;
+  border-right:1px solid #ffffff;
   height:40px;
 }
 
@@ -509,7 +509,7 @@ ul.downloads {
 }
 
 .downloads ul a:active {
-  background-color:#f0f0f0;
+  background-color:#ffffff;
 }
 
 /* Markdown記法で**で囲むと，このstrong効果が反映される */
@@ -608,7 +608,7 @@ hr {
   padding:15px; //上部のマージン
 
   font: 14px/1.5 "Noto Sans JP", "Helvetica", "Arial", "sans-serif", "Yu Gothic", "Helvetica Neue";
-  color:#bbbbbb; // this is the main text color
+  color:#ffffff; // this is the main text color
   font-weight:500;
   // text-align: left;     /* 左寄せ(標準) */
   // text-align: center;   /* 中央寄せ(センタリング) */
@@ -618,7 +618,7 @@ hr {
 }
 
   section {
-    border:1px solid #bbbbbb;
+    border:1px solid #ffffff;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
