@@ -28,7 +28,7 @@ body::before {
 
   background: var(--page-bg-image, url("/assets/img/bg-default.jpg")) center / contain no-repeat;
   filter: grayscale(100%);
-  background-size: 90% auto;  /* 横を基準に少し拡大（全体はほぼ維持） */
+  background-size: 100% auto;  /* 横を基準に少し拡大（全体はほぼ維持） */
 }
 
 body::after {
@@ -41,15 +41,15 @@ body::after {
   background: linear-gradient(
     to right,
       #002060 0%,
-      #000000 320px,
-      rgba(0, 0, 0, 1) 320px,
-      rgba(0, 0, 0, 1) 720px,
-      rgba(0, 0, 0, 1) 720px,
-      rgba(0, 0, 0, 1) 720px,
-      rgba(0, 0, 0, 0.5) 1080px,
-      rgba(0, 0, 0, 1) 1660px,
-      #000000 1660px,
-      #000000 1920px
+      #000000 20%,
+      rgba(0, 0, 0, 1) 20%,
+      rgba(0, 0, 0, 1) 35%,
+      rgba(0, 0, 0, 1) 35%,
+      rgba(0, 0, 0, 1) 35%,
+      rgba(0, 0, 0, 0.7) 55%,
+      rgba(0, 0, 0, 1) 90%,
+      #000000 90%,
+      #000000 100%
   );
 }
 
