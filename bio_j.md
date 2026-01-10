@@ -55,7 +55,7 @@ bg_image: /assets/img/tof_testing3.JPG
   </a>
 </div>
 
-* 2018年07月 ～ 2019年03月　[株式会社ispace](https://ispace-inc.com/jpn/) ソフトウェアエンジニアインターン
+* 2018年07月 ～ 2019年03月　株式会社ispace ソフトウェアエンジニアインターン
 
 ## 学歴
 

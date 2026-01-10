@@ -41,9 +41,26 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
 
 </div>
 
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/sgN9BIufv4g" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers</p>
+    <p class="video-caption2">(Paper: 
+    <!-- <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">IEEE RA-L  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+     <a href="https://arxiv.org/pdf/2601.04547" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+
+
+</div>
+
 ## Climbing Robotics
 
-For exploring the steep and irregular terrain represented as an outcrop, cliff wall, cave ceiling, and Lunar and Martian lava tube, the legged robot equipped with the gripping mechanism, called _limbed climbing robot_ is to be the innovative strategy to expand the traversable areas by a mobile robot. For the future advanced exploration mission, this research and development project tackles the challenge to realize the autonomous limbed robot's climbing locomotion.
+To drastically extend the robots' explorable world, for exploring the steep and irregular terrain represented as an outcrop, cliff wall, cave ceiling, and Lunar and Martian lava tube, the legged robot equipped with the gripping mechanism, called _limbed climbing robot_ is to be the innovative strategy. For the future advanced exploration mission, this research and development project tackles the challenge to realize the autonomous limbed robot's climbing locomotion.
 
 <div class="video-grid">
 
@@ -93,7 +110,7 @@ For exploring the steep and irregular terrain represented as an outcrop, cliff w
       <iframe src="https://www.youtube.com/embed/M-kWp0qJOTI" allowfullscreen></iframe>
     </div>
     <p class="video-caption">RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity</p>
-    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10161185" target="_blank"> ICRA 2023  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+    <p class="video-caption2">( <span style="color: #ffd258ff">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10161185" target="_blank"> ICRA 2023  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
     <!-- <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
     )</p>
   </div>
@@ -121,7 +138,7 @@ Innovative mechanism enhances the robotic system drastically.
 
 ## Orbital Servicing Robitics
 
-Active Debris Removal (ADR) is the essential theme towards the sustainable orbital activity.
+With the boost in the number of spacecraft launches in the current decades, the space debris problem is daily becoming significantly crucial. For sustainable space utilization, the continuous removal of space debris is the most severe problem for humanityActive Debris Removal (ADR) is the essential towards the sustainable orbital activity.
 
 <div class="video-grid">
 
@@ -180,7 +197,7 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
       <iframe src="https://www.youtube.com/embed/SRTtrgRimoA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</p>
-    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/abs/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <p class="video-caption2">( <span style="color: #ffd258ff">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/abs/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -189,7 +206,7 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
       <iframe src="https://www.youtube.com/embed/SRTtrgRimoA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</p>
-    <p class="video-caption2">( <span style="color: #966F00">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/abs/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <p class="video-caption2">( <span style="color: #ffd258ff">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/abs/2405.00943" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div> -->
 
@@ -197,6 +214,10 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
 
 
 ## Robotics for Lunar Base Construction
+
+The allure of lunar surface exploration and development has recently captured widespread global attention. Robots have proved to be indispensable for exploring uncharted terrains, uncovering and leveraging local resources, and facilitating the construction of future human habitats. 
+
+For this mission, as a novel robotic solution, we introduce a heterogeneous modular and on-demand reconfigurable robot. The system is engineered to maximize functionality while operating within the stringent mass constraints of lunar payloads and adapting to varying environmental conditions and task requirements.
 
 <div class="video-grid">
 
@@ -223,8 +244,74 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
 
 </div>
 
-  <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/11214551" target="_blank">IEEE T-FR  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2512.21853v1" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+  <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/11214551" target="_blank">IEEE T-FR  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2512.21853" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
+
+<br>
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/MtAXq8mNaiw" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption"> Motion Stack: Robust and Modular Multi-Limb Synchronization for Space Robots with Trajectory Clamping via Hypersphere</p>
+    <p class="video-caption2">(Paper: 
+        <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank">IEEE/RSJ IROS 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2507.03934" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        <a href="https://github.com/2lian/Motion-Stack" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        ) 
+    </p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/EgDyG4alGQ8" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">An Agnostic End-Effector Alignment Controller for Robust Assembly of Modular Space Robots</p>
+    <p class="video-caption2">(Paper: 
+        <a href="https://arxiv.org/pdf/2510.21164" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        )
+    </p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/5155AB8iMlc" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Moonbots Modular Limbs for Reconfigurable Robots on the Moon</p>
+    <p class="video-caption2">(Paper: 
+    <a href="https://arxiv.org/pdf/2601.04541" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+</div>
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/6XAfiojazxg" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Software Architecture and Deployment of MoonBots</p>
+    <p class="video-caption2">(Paper: 
+    <a href="https://arxiv.org/pdf/2511.01437" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/6kRCybQMMCI" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Reinforcement Learning for Modular Reconfigurable Lunar Robots</p>
+    <p class="video-caption2">( <span style="color: #ffd258ff">Best Paper Award</span> in 
+    <!-- <a href="https://ieeexplore.ieee.org/document/10161185" target="_blank"> -->
+     iSpaRo 2025 
+    <!-- </a>  -->
+    <a href="https://arxiv.org/pdf/2510.20347" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+</div>
 
 ## What's New
 

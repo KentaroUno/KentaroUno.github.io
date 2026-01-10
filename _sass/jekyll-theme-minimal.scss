@@ -253,7 +253,13 @@ th {
   gap: 12px;             /* ロゴ同士の横間隔 */
   margin: 0;             /* 上下余白ゼロ */
   padding: 0;
+  transition-duration: 0.5s; /*変化の時間*/
 }
+
+// .logo-row:hover {
+//   transform: scale(1.25,1.25); /*画像の拡大*/
+//   cursor: pointer; /*カーソルをポインターにする*/
+// }
 
 .logo-row img {
   display: block;        /* 行間由来の余白を消す */

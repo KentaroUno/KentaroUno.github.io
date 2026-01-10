@@ -55,7 +55,7 @@ bg_image: /assets/img/tof_testing3.JPG
   </a>
 </div>
 
-* Jul. 2018 -- Mar. 2019　Software Engineer Intern, <a href="https://ispace-inc.com" target="_blank">ispace inc.</a>
+* Jul. 2018 -- Mar. 2019　Software Engineer Intern, ispace inc.
 
 ## Education
 
