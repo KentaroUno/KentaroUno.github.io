@@ -107,6 +107,20 @@ To drastically extend the robots' explorable world, for exploring the steep and 
 
   <div class="video-item">
     <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/4iWhG7Kisn0" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">
+3D Mapping Using a Monocular Hand-Eye Camera of Limbed Climbing Robots</p>
+    <p class="video-caption2">(Paper: 
+    <!-- <a href="https://ieeexplore.ieee.org/document/10711467" target="_blank"> -->
+    iSpaRo 2025 
+    <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>  -->
+    <a href="https://arxiv.org/pdf/2511.05816" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
       <iframe src="https://www.youtube.com/embed/M-kWp0qJOTI" allowfullscreen></iframe>
     </div>
     <p class="video-caption">RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity</p>
@@ -267,7 +281,7 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
     <div class="video-container">
       <iframe src="https://www.youtube.com/embed/EgDyG4alGQ8" allowfullscreen></iframe>
     </div>
-    <p class="video-caption">An Agnostic End-Effector Alignment Controller for Robust Assembly of Modular Space Robots</p>
+    <p class="video-caption">An Agnostic End-Effector Alignment Controller for Robust Assembly of Modular Robots</p>
     <p class="video-caption2">(Paper: 
         <a href="https://arxiv.org/pdf/2510.21164" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
         )
@@ -278,7 +292,7 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
     <div class="video-container">
       <iframe src="https://www.youtube.com/embed/5155AB8iMlc" allowfullscreen></iframe>
     </div>
-    <p class="video-caption">Moonbots Modular Limbs for Reconfigurable Robots on the Moon</p>
+    <p class="video-caption">Modular Limbs for Reconfigurable Robots on the Moon</p>
     <p class="video-caption2">(Paper: 
     <a href="https://arxiv.org/pdf/2601.04541" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
@@ -295,6 +309,16 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
     <p class="video-caption">Software Architecture and Deployment of MoonBots</p>
     <p class="video-caption2">(Paper: 
     <a href="https://arxiv.org/pdf/2511.01437" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/N0m7cj-SgxQ" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Modular Bucket Drum Excavator for Lunar ISRU</p>
+    <p class="video-caption2">(Paper: 
+    <a href="https://arxiv.org/pdf/2511.00492" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+bg_image: /assets/img/umius.gif
 ---
 
 # ピン配列型把持機構

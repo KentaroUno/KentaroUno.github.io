@@ -1,6 +1,6 @@
 ---
 layout: default
-bg_image: /assets/img/HubRobo_v_3_1.png
+bg_image: /assets/img/MoonBot_in_LUNA.jpeg
 ---
 
 # Publications
@@ -103,7 +103,9 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>,"_Journal of the Robo
 <a href="https://youtu.be/OvtKI9SdoaA" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
 <a href="https://arxiv.org/pdf/2512.21886" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <!-- <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
 
-35. Simon Giel, James Michael Hurrell, Shreya Santra, Ashutosh Mishra, **Kentaro Uno**, Kazuya Yoshida, "**Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted) <a href="https://arxiv.org/pdf/2511.00492" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <!-- <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+35. Simon Giel, James Michael Hurrell, Shreya Santra, Ashutosh Mishra, **Kentaro Uno**, Kazuya Yoshida, "**Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted) 
+<a href="https://youtu.be/N0m7cj-SgxQ" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
+<a href="https://arxiv.org/pdf/2511.00492" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <!-- <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
 
 34. Kenta Iizuka, Akiyoshi Uchida, **Kentaro Uno**, Kazuya Yoshida, "**Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted) 
 <a href="https://youtu.be/SP77fGaLuyg" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
@@ -114,7 +116,9 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>,"_Journal of the Robo
 <a href="https://youtu.be/6XAfiojazxg" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
 <a href="https://arxiv.org/pdf/2511.01437" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <!-- <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
 
-32. Taku Okawara, Ryo Nishibe, Mao Kasano, **Kentaro Uno**, Kazuya Yoshida, "**3D Mapping Using a Lightweight and Low-Power Monocular Camera Embedded inside a Gripper of Limbed Climbing Robots**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted) <a href="https://arxiv.org/pdf/2511.05816" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <!-- <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+32. Taku Okawara, Ryo Nishibe, Mao Kasano, **Kentaro Uno**, Kazuya Yoshida, "**3D Mapping Using a Lightweight and Low-Power Monocular Camera Embedded inside a Gripper of Limbed Climbing Robots**," _Proceedings of the International Conference on Space Robotics (iSpaRo)_, 2025. (Accepted) 
+<a href="https://youtu.be/4iWhG7Kisn0" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
+<a href="https://arxiv.org/pdf/2511.05816" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <!-- <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
 
 31. Elian Neppel, Ashutosh Mishra, Shamistan Karimov, **Kentaro Uno**, Shreya Santra, and Kazuya Yoshida, "**Robust and Modular Multi-Limb Synchronization in Motion Stack for Space Robots with Trajectory Clamping via Hypersphere**," _Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, pp. 3767--3772, 2025.
 <a href="https://youtu.be/MtAXq8mNaiw" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>

@@ -1,6 +1,6 @@
 ---
 layout: default
-bg_image: /assets/img/tof_testing3.JPG
+bg_image: /assets/img/image-bg.jpg
 ---
 
 # 研究経歴
