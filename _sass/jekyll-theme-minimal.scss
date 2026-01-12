@@ -302,6 +302,20 @@ th {
   outline: none !important;
 }
 
+/* タブレットでは幅100％ */
+@media (max-width: 1280px) {
+  .video-container-small {
+    width: 100%;
+  }
+}
+
+/* スマホでは幅100％ */
+@media (max-width: 768px) {
+  .video-container-small {
+    width: 100%;
+  }
+}
+
 .image-center {
   text-align: center;
 }
@@ -315,6 +329,20 @@ th {
 .half-width-img:hover {
   transform: scale(1.05,1.05); /*画像の拡大*/
   cursor: pointer; /*カーソルをポインターにする*/
+}
+
+/* タブレットでは幅100％ */
+@media (max-width: 1280px) {
+  .half-width-img {
+    width: 100%;
+  }
+}
+
+/* スマホでは幅100％ */
+@media (max-width: 768px) {
+  .half-width-img {
+    width: 100%;
+  }
 }
 
 .inline-icon {
