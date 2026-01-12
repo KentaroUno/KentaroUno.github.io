@@ -155,7 +155,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 26. Luca Nunziante, **Kentaro Uno**, Gustavo H. Diaz, Shreya Santra, Alessandro De Luca, Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10870982" target="_blank">Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction</a>," _Proceedings of the IEEE/SICE International Symposium on System Integration (SII)_, pp. 1497--1502, 2025.
 <a href="https://youtu.be/ZQTdP5nwqpQ" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
-<!-- <a href="https://arxiv.org/pdf/2507.11006" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>  -->
+<a href="https://arxiv.org/pdf/2601.05491" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
 <a href="https://ieeexplore.ieee.org/document/10870982" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
 
     <h3 style="margin-left: -2em;">2024</h3> <!-- 2024 -->

@@ -85,26 +85,26 @@ bg_image: /assets/img/image-bg.jpg
 
 * 2023年04月 ～ 2026年03月　日本学術振興会 科学研究費補助金 若手研究
   
-  研究課題名："<a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K13281/" target="_blank">つかみごたえ評価による脚型クライミングロボットの動的安定運動制御法の構築</a>"
+  研究課題名： "<a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K13281/" target="_blank">つかみごたえ評価による脚型クライミングロボットの動的安定運動制御法の構築</a>"
 
 
 * 2023年04月 ～ 2025年03月　公益財団法人 NSKメカトロニクス技術高度化財団 研究助成
   
-  研究課題名："<a href="http://www.nskfam.or.jp/objperson/2022d_develop.html" target="_blank">車輪－グリッパ間変形可能ユニットを用いたマルチモーダル移動ロボットの開発</a>"
+  研究課題名： "<a href="http://www.nskfam.or.jp/objperson/2022d_develop.html" target="_blank">車輪－グリッパ間変形可能ユニットを用いたマルチモーダル移動ロボットの開発</a>"
 
 * 2023年04月 ～ 2024年03月　公益財団法人JKA 機械振興補助事業 研究補助（若手研究）
 
-  研究課題名："<a href="https://hojo.keirin-autorace.or.jp/about/list/kikai/2023/index.html" target="_blank">ピン配列型把持機構を応用したクライミングロボットの研究開発</a>"
+  研究課題名： "<a href="https://hojo.keirin-autorace.or.jp/about/list/kikai/2023/index.html" target="_blank">ピン配列型把持機構を応用したクライミングロボットの研究開発</a>"
 
 * 2019年04月 ～ 2022年03月　日本学術振興会 科学研究費助成事業（科研費）特別研究員奨励費
   
-  研究課題名："<a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J20685/" target="_blank">地形情報とグリッパの力学にもとづくフリークライミングロボットの自律制御原理の開拓</a>"
+  研究課題名： "<a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19J20685/" target="_blank">地形情報とグリッパの力学にもとづくフリークライミングロボットの自律制御原理の開拓</a>"
 
 ### 研究分担者／協力者
 
 * 2024年04月 ～ 2025年02月 笹川科学研究助成
 
-  研究課題名："<a href="_blank" target="_blank">フローティングベースを有する小型双腕ロボットを用いた効率的な水中デブリ除去の実験的検証</a>"
+  研究課題名： "<a href="_blank" target="_blank">フローティングベースを有する小型双腕ロボットを用いた効率的な水中デブリ除去の実験的検証</a>"
 
 
 * 2023年01月 ～ TBD　<a href="https://www.jst.go.jp/moonshot/program/goal3/" target="_blank">内閣府/JST ムーンショット型研究開発事業（目標3）</a>：
