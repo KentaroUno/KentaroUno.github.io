@@ -57,6 +57,49 @@ bg_image: /assets/img/image-bg.jpg
 
 * 2018年07月 ～ 2019年03月　株式会社ispace ソフトウェアエンジニアインターン
 
+
+## 学会活動
+
+### 活動歴
+
+<div class="logo-row">
+  <a href="https://www.isparo.space/" target="_blank" rel="noopener">
+    <img src="assets/img/ISPARO25_patch.png" width="120" alt="iSpaRo 2025 Logo">
+  </a>
+</div>
+
+* Oct. 2024 -- Dec. 2025　General Secretary & Local Chair, International Conference on Space Robotics (iSpaRo), 2025.
+
+<br>
+
+* Oct. 2024 -- Dec. 2025　Workshop Co-organizer: "Climbing Robotics", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
+
+* Aug. 2025　Scientific Committee Member, Space Robotics Workshop, IEEE International Conference on Space Mission Challenges for Information Technology / Space Computing Conference (SMC-IT/SCC), 2025.
+
+* Sep. 2024　Special Session Co-organizer: "Space Autonomy", IEEE International Conference on Automation Science and Engineering (CASE), 2024.
+
+<!-- <div class="logo-row">
+  <a href="https://ispace-inc.com/" target="_blank" rel="noopener">
+    <img src="assets/img/ISPARO24_patch.png" width="120" alt="iSpaRo 2025 Logo">
+  </a>
+</div> -->
+
+* Dec. 2023 -- Jun. 2024　Technical Committee Member, International Conference on Space Robotics (iSpaRo), 2024.
+
+* 2019 -- Present　Paper Reviewer for _IEEE/RSJ IROS, IEEE ICRA, IEEE RA-L, IEEE T-MECH, iSpaRo, IEEE/SII, Space Science Review, Advanced. Robotics, Science Robotics_, etc. 
+
+### 所属学会
+
+* 日本機械学会（JSME）
+
+* 日本ロボット学会（RSJ）
+
+* 日本航空宇宙学会（JSASS）
+
+* 日本計測自動制御学会（SICE）
+
+* 米国電気電子学会（IEEE）
+
 ## 学歴
 
 <div class="logo-row">
@@ -76,6 +119,8 @@ bg_image: /assets/img/image-bg.jpg
 * 2013年04月 ～ 2016年09月　東北大学工学部　機械知能・航空工学科
 
   卒業論文題目: "月面探査マイクロローバのためのToFカメラの性能評価"，GPA: 3.39/4.00
+
+<br>
 
 * 2010年04月 ～ 2013年03月　北海道札幌南高等学校
 
@@ -177,18 +222,6 @@ bg_image: /assets/img/image-bg.jpg
 * トヨタ自動車株式会社
 
 * 株式会社Amulapo
-
-## 所属学会
-
-* 日本機械学会（JSME）
-
-* 日本ロボット学会（RSJ）
-
-* 日本航空宇宙学会（JSASS）
-
-* 日本計測自動制御学会（SICE）
-
-* 米国電気電子学会（IEEE）
 
 ## 趣味など
 

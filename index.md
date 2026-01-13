@@ -147,6 +147,16 @@ Innovative mechanism enhances the robotic system drastically.
     )</p>
   </div>
 
+  <div class="video-item">
+    <div class="video-container">
+        <img src="assets/img/K_Torii_et_al_ICM2025_submit.png" allowfullscreen width="100%">
+    </div>
+    <p class="video-caption">A Sequential Hermaphrodite Coupling Mechanism for Lattice-Based Modular Robots</p>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10934866" target="_blank"> IEEE ICM 2022  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+    <a href="https://arxiv.org/pdf/2512.23154" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
 
 </div>
 
@@ -341,17 +351,17 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
 
 | DATE         | CONTENT           |
 |:-------------|:------------------|
-| Present | Please check out our new publication in IEEE T-FR! <a href="https://doi.org/10.1109/TFR.2025.3624346" target="_blank">MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction</a>" |
-| Present | Please check out the new video: <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"> Tohoku University Cross-Technology Initiative for Space Systems</a>. <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> |
-| Present | Some of Japanese page and Project page are still under construction. Twitter's link is not yet available.  |
+| Present | Please check out our new publication in IEEE T-FR! "<a href="https://doi.org/10.1109/TFR.2025.3624346" target="_blank">MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction</a>" |
+| Present | Please check out the new video: <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"> Tohoku University Cross-Technology Initiative for Space Systems</a>. <a href="https://youtube.com/clip/UgkxbamwZ4lclz6GydVxNQ02B7oVr5DFFxqs?si=jB3nxPy1GWtdvJvF" target="_blank"><img src="assets/img/youtubeLogo.png" width="100" alt="SRL logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> | 
+| 2026.01.07. | Whole webpage is rearranged.  |
+| 2025.12.04. | <a href="https://www.isparo.space/" target="_blank" rel="noopener"> <img src="assets/img/ISPARO25_patch.png" width="120" alt="iSpaRo 2025 Logo" class="inline-icon"> </a> Thank you very much for coming to [iSpaRo 2025](https://www.isparo.space/), Sendai!!  |
 | 2022.09.29. | Whole webpage is renewed.  |
 | 2022.04.19. | [We will be the Japanese TV news on Apr. 19th!](https://www.mech.tohoku.ac.jp/news220419_1/) (only for Japan Tohoku area broadcast.) |
 | 2022.02.17. | [We will be the Japanese TV news on Feb. 25th!](https://www.mech.tohoku.ac.jp/news210222/) (only for Japan Tohoku area broadcast.) |
 | 2021.11.22. | Japan Tohoku area local news paper "Kahoku-Shimpo" featured our research project! |
 
-
+<!-- | Present | Some of Japanese page and Project page are still under construction. Twitter's link is not yet available.  | -->
 <!-- ## Update Log
-
 | DATE         | CONTENT           |
 |:-------------|:------------------|
 | 2025.09.22. | Nine papers have been accepted for iSpaRo at Sendai in 2025 → [Publication page](./pub.html) <span style="background-color:#002266"> <span style="color: white"> NEW! </span> </span> |

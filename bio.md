@@ -57,6 +57,50 @@ bg_image: /assets/img/tof_testing3.JPG
 
 * Jul. 2018 -- Mar. 2019　Software Engineer Intern, ispace inc.
 
+
+
+## Academic Activity Experience
+
+### Activity Experience 
+
+<div class="logo-row">
+  <a href="https://www.isparo.space/" target="_blank" rel="noopener">
+    <img src="assets/img/ISPARO25_patch.png" width="120" alt="iSpaRo 2025 Logo">
+  </a>
+</div>
+
+* Oct. 2024 -- Dec. 2025　General Secretary & Local Chair, International Conference on Space Robotics (iSpaRo), 2025.
+
+<br>
+
+* Oct. 2024 -- Dec. 2025　Workshop Co-organizer: "Climbing Robotics", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
+
+* Aug. 2025　Scientific Committee Member, Space Robotics Workshop, IEEE International Conference on Space Mission Challenges for Information Technology / Space Computing Conference (SMC-IT/SCC), 2025.
+
+* Sep. 2024　Special Session Co-organizer: "Space Autonomy", IEEE International Conference on Automation Science and Engineering (CASE), 2024.
+
+<!-- <div class="logo-row">
+  <a href="https://ispace-inc.com/" target="_blank" rel="noopener">
+    <img src="assets/img/ISPARO24_patch.png" width="120" alt="iSpaRo 2025 Logo">
+  </a>
+</div> -->
+
+* Dec. 2023 -- Jun. 2024　Technical Committee Member, International Conference on Space Robotics (iSpaRo), 2024.
+
+* 2019 -- Present　Paper Reviewer for _IEEE/RSJ IROS, IEEE ICRA, IEEE RA-L, IEEE T-MECH, iSpaRo, IEEE/SII, Space Science Review, Advanced. Robotics, Science Robotics_, etc. 
+
+### Society 
+
+* JSME (The Japan Society for Aeronautical and Space Sciences)
+
+* RSJ (The Robotics Society of Japan)
+
+* JSASS (The Japan Society of Mechanical Engineers)
+
+* SICE (The Society of Instrument and Control Engineers)
+
+* IEEE
+
 ## Education
 
 <div class="logo-row">
@@ -67,7 +111,7 @@ bg_image: /assets/img/tof_testing3.JPG
 
 * Oct. 2018 -- Sep. 2021　Ph.D. in Aerospace Engineering @Tohoku University (Sendai, Japan)
   
-  Thesis: "<a href="https://cir.nii.ac.jp/crid/1110578372205136000" target="_blank">Autonomous Limbed Climbing Robots for Challenging Terrain Exploration</a>"，GPA: 4.00/4.00
+  Thesis: "<a href="https://cir.nii.ac.jp/crid/1110578372205136000" target="_blank">Autonomous Limbed Climbing Robots for Challenging Terrain Exploration</a>", GPA: 4.00/4.00
 
 * Oct. 2018 -- Sep. 2021　M.S. in Aerospace Engineering @Tohoku University (Sendai, Japan)
   
@@ -76,6 +120,8 @@ bg_image: /assets/img/tof_testing3.JPG
 * Apr. 2013 -- Sep. 2016　B.S. in Mechanical & Aerospace Engineering @Tohoku University (Sendai, Japan)
 
   Thesis: "Gait Planning for a Free-Climbing Robot in Consideration of the Gripping Forces", GPA: 3.39/4.00
+
+<br>
 
 * Apr. 2010 -- Mar. 2013　Hokkaido Sapporo Minami High School (Sapporo, Japan)
 
@@ -168,18 +214,6 @@ bg_image: /assets/img/tof_testing3.JPG
 * TOYOTA Motor Corporation
 
 * Amulapo
-
-## Community
-
-* JSME (The Japan Society for Aeronautical and Space Sciences)
-
-* RSJ (The Robotics Society of Japan)
-
-* JSASS (The Japan Society of Mechanical Engineers)
-
-* SICE (The Society of Instrument and Control Engineers)
-
-* IEEE
 
 ## Hobby
 
