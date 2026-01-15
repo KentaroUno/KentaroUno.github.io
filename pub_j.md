@@ -203,7 +203,9 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
     <h3 style="margin-left: -2em;">2022</h3> <!-- 2022 -->
 
-7. Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10011858" target="_blank">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile</a>," *Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO 2022)*, pp. 1365--1370, 2022. <a href="https://youtu.be/dWo28Nl5jgE?feature=shared" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <a href="https://ieeexplore.ieee.org/document/10011858" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+7. Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10011858" target="_blank">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile</a>," *Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO 2022)*, pp. 1365--1370, 2022. <a href="https://youtu.be/dWo28Nl5jgE?feature=shared" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
+<a href="https://arxiv.org/pdf/2601.08143" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+<a href="https://ieeexplore.ieee.org/document/10011858" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
 
 6. Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/9708772" target="_blank">Low-Reaction Trajectory Generation for a Legged Robot in Microgravity</a>," *Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII)*, pp. 505--510, 2022. <a href="https://ieeexplore.ieee.org/document/9708772" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
 
@@ -258,11 +260,17 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 ※〇印は発表者を表す．
 
+### 2026
+
+* 〇池野 航太，小出 健司，高野瀬 碧輝，大石 修士，横塚 将志，**宇野 健太朗**，吉田 和哉, "**Wi-Fi CSIのMUSIC法を用いた位相回転停止手法**"，第31回ロボティクスシンポジア，2025.
+
 ### 2025
 
 * 〇今井 正純，Tharit Sinsunthorn，**宇野 健太朗**，吉田 和哉，“**ISS船内伝い歩きロボットの移動シミュレーション**”，第69回宇宙科学技術連合講演会，#1I11，2025．
 
 * 〇片男浪 輝大，**宇野 健太朗**，吉田 和哉，“**脚型クライミングロボットのための引搔動作可能な爪型グリッパの研究開発**”，第43回 日本ロボット学会学術講演会，2025．
+
+* 〇池野 航太，小出 健司，高野瀬 碧輝，大石 修士，横塚 将志，**宇野 健太朗**，Shreya Santra，吉田 和哉，“**脚型クライミングロボットのための引搔動作可能な爪型グリッパの研究開発**”，ロボティクス・メカトロニクス講演会 2025，2025．
 
 
 ### 2024

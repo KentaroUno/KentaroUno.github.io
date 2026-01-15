@@ -78,7 +78,7 @@ To drastically extend the robots' explorable world, for exploring the steep and 
       <iframe src="https://www.youtube.com/embed/nNB8uTTsJJg" allowfullscreen></iframe>
     </div>
     <p class="video-caption">ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics</p>
-    <p class="video-caption2">(Paper: <a href="https://doi.org/10.1007/978-3-030-86294-7_20" target="_blank"> CLAWAR 2021 </a> <a href="https://github.com/Space-Robotics-Laboratory/ClimbLab" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <p class="video-caption2">(Paper: <a href="https://doi.org/10.1007/978-3-030-86294-7_20" target="_blank"> CLAWAR 2021 <img src="assets/img/SpringerNatureLink_logo_Uni_blue_RGB.png" width="50" alt="Springer Nature" border="0" align="center" hspace="0" vspace="0" class="inline-icon">　</a> <a href="https://github.com/Space-Robotics-Laboratory/ClimbLab" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -143,7 +143,7 @@ Innovative mechanism enhances the robotic system drastically.
     </div>
     <p class="video-caption">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles</p>
     <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10011858" target="_blank"> IEEE ROBIO 2022  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
-    <!-- <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <a href="https://arxiv.org/pdf/2601.08143" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
