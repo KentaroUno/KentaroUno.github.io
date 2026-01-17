@@ -30,7 +30,7 @@ In this section, some useful tools to write good sentences in English are summar
 
     I believe the MS Word is the best tool to write a good sentence especially if you write in English because it is equipped with the internal Thesaurus dictionary, which can suggest some grammatical correction or alternative synonyms while you are writing.
 
-    To use the dictionary, you should do the following steps: 1) select the word 2) wirht click, and 3) click the “synonym.”
+    To use the dictionary, you should do the following steps: 1) select the word 2) rirht click, and 3) click the “synonym.”
 
     So, I recommend using 1) MS Word for the writing and revision phase in your work, and after completion of the sentences, 2) you can copy them into your LaTeX editor and next add some commands for including figures, tables, equations, etc.
 
@@ -65,7 +65,7 @@ In this section, some useful tools to write good sentences in English are summar
 
 - #### ChatGPT
 
-    I recommend you to use ChatGPT to revise your text (Not recommending using it as a "ghost writer"!).You can ask simply ”Please revise this text for academic journal publication." and paste your draft. ChatGPT is also useful to revise your text and correct any typo and gramatical errors. 
+    I recommend you to use ChatGPT to revise your text (Not recommending using it as a "ghost writer"!). You can ask simply ”Please revise this text for academic journal publication." and paste your draft. ChatGPT is also useful to revise your text and correct any typo and gramatical errors. 
 
 #### Illustrating tools
 
