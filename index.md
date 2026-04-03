@@ -66,12 +66,35 @@ To drastically extend the robots' explorable world, for exploring the steep and 
 
   <div class="video-item">
     <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/c3cIx2A6K-4" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">LIMBERO: A Limbed Climbing Exploration Robot Toward Traveling on Rocky Cliffs</p>
+    <p class="video-caption2">(Paper: ICRA 2026 (accepted) <a href="https://arxiv.org/pdf/2603.16531" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/Ucs3YwUMPW8" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">A Pin-Array Structured Climbing Robot for Stable Locomotion on Steep Rocky Terrain</p>
+    <p class="video-caption2">(Paper: ICRA 2026 (accepted) <a href="https://arxiv.org/pdf/2603.16543" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
       <iframe src="https://www.youtube.com/embed/CZyJCvOKx9A" allowfullscreen></iframe>
     </div>
     <p class="video-caption">HubRobo: Light-Weight Quadrupedal Climbing Robot Testbed</p>
     <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/9555799" target="_blank"> IEEE-RAS Humanoids 2020  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
+
+</div>
+
+<div class="video-grid">
 
   <div class="video-item">
     <div class="video-container">
