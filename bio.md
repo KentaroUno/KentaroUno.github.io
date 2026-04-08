@@ -22,13 +22,16 @@ bg_image: /assets/img/tof_testing3.JPG
   </a>
 </div>
 
-* Oct. 2021 -- Today　Assistant Professor, Graduate School of Engineering, Tohoku University. (Lab: <a href="https://astro2.mech.tohoku.ac.jp/en/" target="_blank">Space Robotics Laboratory</a>)
+* Apr. 2026 -- Today　Specially Appointed Assistant Professor (Research), New Industry Creation Hatchery Center (NICHe), Tohoku University.
+
+* Oct. 2021 -- Mar. 2026　Assistant Professor, Graduate School of Engineering, Tohoku University. (Lab: <a href="https://astro2.mech.tohoku.ac.jp/en/" target="_blank">Space Robotics Laboratory</a>)
 
   ### Lecture (Tohoku University)
-  - Apr. 2022 -- Today　Laboratory Experiment I: for undergraduates
-  - Oct. 2021 -- Today　Seminar I: for undergraduates
-  - Oct. 2021 -- Today　Seminar II: for undergraduates 
-  - Oct. 2021 -- Today　Creative Engineering Training: for undergraduates
+  - Apr. 2024 -- Mar. 2026　Design and Engineering "Design and Robot": for undergraduates and graduates students 
+  - Apr. 2022 -- Mar. 2026　Laboratory Experiment I: for undergraduates
+  - Oct. 2021 -- Mar. 2026　Seminar I: for undergraduates
+  - Oct. 2021 -- Mar. 2026　Seminar II: for undergraduates 
+  - Oct. 2021 -- Mar. 2026　Creative Engineering Training: for undergraduates
 
 <div class="logo-row">
   <a href="https://ethz.ch/en.html" target="_blank" rel="noopener">
