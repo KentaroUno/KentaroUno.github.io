@@ -47,7 +47,8 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
     "<a href="https://doi.org/10.1109/TFR.2025.3624346" target="_blank">MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction</a>," 
     
-    _IEEE Transactions on Field Robotics (IEEE T-FR)_, vol. 2, pp. 847--874, <a href="https://doi.org/10.1109/LRA.2025.3580332" target="_blank">DOI: 10.1109/TFR.2025.3624346</a>, 2025.
+    _IEEE Transactions on Field Robotics (IEEE T-FR)_, vol. 2, pp. 847--874, 2025.
+    <!-- <a href="https://doi.org/10.1109/LRA.2025.3580332" target="_blank">DOI: 10.1109/TFR.2025.3624346</a>,  -->
 
     <a href="https://youtu.be/wzuCd1ytsMk" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
     <a href="https://arxiv.org/pdf/2512.21853v1" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
@@ -70,7 +71,8 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
     
     "<a href="https://ieeexplore.ieee.org/document/11037541" target="_blank">Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information</a>," 
     
-    _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 10, no. 8, pp. 7947--7954, <a href="https://doi.org/10.1109/LRA.2025.3580332" target="_blank">DOI: 10.1109/LRA.2025.3580332</a>, 2025.
+    _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 10, no. 8, pp. 7947--7954, 2025.
+    <!-- <a href="https://doi.org/10.1109/LRA.2025.3580332" target="_blank">DOI: 10.1109/LRA.2025.3580332</a>,  -->
 
     <a href="https://youtu.be/ZD5cR1u8Nc0" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
     <a href="https://arxiv.org/pdf/2506.09548" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
@@ -82,7 +84,8 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
     "<a href="https://link.springer.com/article/10.1007/s11214-025-01164-8" target="_blank">Traction Performance Evaluation for a Rashid-1 Rover Wheel</a>," 
     
-    _Space Science Review_, vol. 221, no. 3, pp. 1--16, <a href="https://doi.org/10.1007/s11214-025-01164-8" target="_blank">DOI: 10.1007/s11214-025-01164-8</a>, 2025.
+    _Space Science Review_, vol. 221, no. 3, pp. 1--16, 2025.
+    <!-- <a href="https://doi.org/10.1007/s11214-025-01164-8" target="_blank">DOI: 10.1007/s11214-025-01164-8</a>, -->
 
     <a href="https://doi.org/10.1007/s11214-025-01164-8" target="_blank"> <img src="assets/img/SpringerNatureLink_logo_Uni_blue_RGB.png" width="50" alt="Springer Nature" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
 <br><br>
@@ -91,7 +94,8 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
     "<a href="https://www.sciencedirect.com/science/article/pii/S0921889025000156?via%3Dihub" target="_blank">Tightly-coupled LiDAR-IMU-wheel odometry with an online neural kinematic model learning via factor graph optimization</a>," 
     
-    _Robotics and Autonomous Systems_, volume 187, no. 0921-8890, p. 104929, <a href="https://doi.org/10.1016/j.robot.2025.104929" target="_blank">DOI: 10.1016/j.robot.2025.104929</a>, 2025.
+    _Robotics and Autonomous Systems_, volume 187, no. 0921-8890, p. 104929, 2025.
+    <!-- <a href="https://doi.org/10.1016/j.robot.2025.104929" target="_blank">DOI: 10.1016/j.robot.2025.104929</a>, -->
 
     <a href="https://youtu.be/CvRVhdda7Cw&t=1s" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
     <a href="https://doi.org/10.1016/j.robot.2025.104929" target="_blank"><img src="assets/img/ScienceDirect_logo_2020.svg.png" width="100" alt="ScienceDirect" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
@@ -102,7 +106,8 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
     "<a href="https://www.mdpi.com/2226-4310/12/1/71" target="_blank">Rutting Caused by Grouser Wheel of Planetary Rover in Single-Wheel Testbed: LiDAR Topographic Scanning and Analysis</a>," 
     
-    _Aerospace_, vol. 12, no. 1, 71, <a href="https://doi.org/10.3390/aerospace12010071" target="_blank">DOI: 10.3390/aerospace12010071</a>, 2025.
+    _Aerospace_, vol. 12, no. 1, 71, 2025.
+    <!-- <a href="https://doi.org/10.3390/aerospace12010071" target="_blank">DOI: 10.3390/aerospace12010071</a>,  -->
 
     <a href="https://doi.org/10.3390/aerospace12010071" target="_blank"> <img src="assets/img/MDPI_logo.png" width="50" alt="MDPI" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
 
@@ -134,7 +139,8 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
     "<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 
     
-    _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, <a href="https://doi.org/10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>, 2023. (Presented at IEEE ICRA 2024 @Yokohama) 
+    _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, 2023. (Presented at IEEE ICRA 2024 @Yokohama) 
+    <!-- <a href="https://doi.org/10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>,  -->
 
     <a href="https://youtu.be/usZFhx5iGGY" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
     <a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
