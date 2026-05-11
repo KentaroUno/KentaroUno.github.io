@@ -45,7 +45,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 15. 
     **Kentaro Uno**\*, Elian Neppel\*, Gustavo H. Diaz\*, Ashutosh Mishra\*, Shamistan Karimov\*, A. Sejal Jain, Ayesha Habib, Pascal Pama, Hazal Gozbasi, Shreya Santra, Kazuya Yoshida (\*These authors contributed equally.),
 
-    "<a href="https://doi.org/10.1109/TFR.2025.3624346" target="_blank">MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction</a>," 
+    <a href="https://doi.org/10.1109/TFR.2025.3624346" target="_blank">MoonBot: Modular and On-Demand Reconfigurable Robot Toward Moon Base Construction</a> 
     
     _IEEE Transactions on Field Robotics (IEEE T-FR)_, vol. 2, pp. 847--874, 2025.
     <!-- <a href="https://doi.org/10.1109/LRA.2025.3580332" target="_blank">DOI: 10.1109/TFR.2025.3624346</a>,  -->
@@ -59,7 +59,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 14. Keisuke Takehana, Grace Kenny, Kenta Sawa, James Hurrell, **Kentaro Uno**, Shreya Santra, Kazuya Yoshida, 
 
-    "<a href="https://doi.org/10.1016/j.jterra.2025.101084" target="_blank">Grouser Wheel High-Speed Traction Performance: DEM Simulation and Experimental Result</a>," 
+    <a href="https://doi.org/10.1016/j.jterra.2025.101084" target="_blank">Grouser Wheel High-Speed Traction Performance: DEM Simulation and Experimental Result</a> 
     
     _Journal of Terramechanics_, vol. 120, p. 101084, 2025.
 
@@ -69,7 +69,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 13. Taku Okawara, Kenji Koide, Aoki Takanose, Shuji Oishi, Masashi Yokozuka, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/11037541" target="_blank">Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11037541" target="_blank">Tightly-Coupled LiDAR-IMU-Leg Odometry with Online Learned Leg Kinematics Incorporating Foot Tactile Information</a> 
     
     _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 10, no. 8, pp. 7947--7954, 2025.
     <!-- <a href="https://doi.org/10.1109/LRA.2025.3580332" target="_blank">DOI: 10.1109/LRA.2025.3580332</a>,  -->
@@ -82,7 +82,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 12. James Hurrell, Keisuke Takehana, Tomomi Tanaka, **Kentaro Uno**, Amna Khalifa Busoud, Kazuya Yoshida, 
 
-    "<a href="https://link.springer.com/article/10.1007/s11214-025-01164-8" target="_blank">Traction Performance Evaluation for a Rashid-1 Rover Wheel</a>," 
+    <a href="https://link.springer.com/article/10.1007/s11214-025-01164-8" target="_blank">Traction Performance Evaluation for a Rashid-1 Rover Wheel</a> 
     
     _Space Science Review_, vol. 221, no. 3, pp. 1--16, 2025.
     <!-- <a href="https://doi.org/10.1007/s11214-025-01164-8" target="_blank">DOI: 10.1007/s11214-025-01164-8</a>, -->
@@ -92,7 +92,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 11. Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, **Kentaro Uno**, Kazuya Yoshida, 
 
-    "<a href="https://www.sciencedirect.com/science/article/pii/S0921889025000156?via%3Dihub" target="_blank">Tightly-coupled LiDAR-IMU-wheel odometry with an online neural kinematic model learning via factor graph optimization</a>," 
+    <a href="https://www.sciencedirect.com/science/article/pii/S0921889025000156?via%3Dihub" target="_blank">Tightly-coupled LiDAR-IMU-wheel odometry with an online neural kinematic model learning via factor graph optimization</a> 
     
     _Robotics and Autonomous Systems_, volume 187, no. 0921-8890, p. 104929, 2025.
     <!-- <a href="https://doi.org/10.1016/j.robot.2025.104929" target="_blank">DOI: 10.1016/j.robot.2025.104929</a>, -->
@@ -104,7 +104,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 10. Keisuke Takehana, Vinicius Emanoel Ares, Shreya Santra, **Kentaro Uno**, Eric Rohmer, and Kazuya Yoshida, 
 
-    "<a href="https://www.mdpi.com/2226-4310/12/1/71" target="_blank">Rutting Caused by Grouser Wheel of Planetary Rover in Single-Wheel Testbed: LiDAR Topographic Scanning and Analysis</a>," 
+    <a href="https://www.mdpi.com/2226-4310/12/1/71" target="_blank">Rutting Caused by Grouser Wheel of Planetary Rover in Single-Wheel Testbed: LiDAR Topographic Scanning and Analysis</a> 
     
     _Aerospace_, vol. 12, no. 1, 71, 2025.
     <!-- <a href="https://doi.org/10.3390/aerospace12010071" target="_blank">DOI: 10.3390/aerospace12010071</a>,  -->
@@ -115,7 +115,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 9. Keisuke Takehana, Shino Kizaki, Tomomi Tanaka, **Kentaro Uno**, and Kazuya Yoshida, 
 
-    "<a href="https://doi.org/10.1016/j.jterra.2024.101011" target="_blank">Comparison of Lunar Rover Wheel Performance in Soils with Different Cohesive Properties</a>," 
+    <a href="https://doi.org/10.1016/j.jterra.2024.101011" target="_blank">Comparison of Lunar Rover Wheel Performance in Soils with Different Cohesive Properties</a> 
     
     _Journal of Terramechanics_, vol. 117, p. 101011, 2025.
 
@@ -125,7 +125,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 8. Taku Okawara, Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno, **Kentaro Uno**, and Kazuya Yoshida, 
 
-    "<a href="https://ieeexplore.ieee.org/document/10681089" target="_blank">Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10681089" target="_blank">Tightly-Coupled LiDAR-IMU-Wheel Odometry with Online Calibration of a Kinematic Model for Skid-Steering Robots</a> 
     
     _IEEE Access_, vol. 12, pp. 134728--134738, 2024. 
 
@@ -137,7 +137,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 7. David Rodr´ıguez-Mart´ınez\*, **Kentaro Uno**\*, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida (\*These authors contributed equally.), 
 
-    "<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a> 
     
     _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, 2023. (Presented at IEEE ICRA 2024 @Yokohama) 
     <!-- <a href="https://doi.org/10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>,  -->
@@ -148,11 +148,10 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
     <br>
 
-
 6. 
     宇田 昌弘, 澤 健太, **宇野 健太朗**, 加藤 匠哉, Li Zheng Travis Lim, 吉田 和哉, 
     
-    "<a href="https://www.rsj.or.jp/pub/jrsj/advpub/240124-04.html" target="_blank">車輪–グリッパ間変形可能機構の開発と把持性能評価</a>," 
+    <a href="https://www.rsj.or.jp/pub/jrsj/advpub/240124-04.html" target="_blank">車輪–グリッパ間変形可能機構の開発と把持性能評価</a>
     
     _日本ロボット学会誌_，vol. 42, no. 6, pp. 580--583, 2023.
 
@@ -163,7 +162,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 5. 
     **宇野 健太朗**, Warley F. R. Ribeiro, 小泉 裕介, 永岡 健司, 吉田 和哉, 
 
-    "<a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-09.html" target="_blank">重力慣性加速度（GIA）を用いた脚型壁登りロボットの転倒安定性評価基準</a>,"
+    <a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-09.html" target="_blank">重力慣性加速度（GIA）を用いた脚型壁登りロボットの転倒安定性評価基準</a>
     
     _日本ロボット学会誌_，vol. 42, no. 3, pp. 295--298, 2023.
 
@@ -174,7 +173,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 4. 
     加藤 匠哉, **宇野 健太朗**, 吉田 和哉, 
 
-    "<a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-02.html" target="_blank">ピン配列型凹凸地形把持機構</a>," 
+    <a href="https://www.rsj.or.jp/pub/jrsj/advpub/231213-02.html" target="_blank">ピン配列型凹凸地形把持機構</a>
     
     _日本ロボット学会誌_，vol. 42, no. 2, pp. 177--180, 2023.
 
@@ -182,20 +181,19 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
     <br>
 
-3. 
-    Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, 
-    
-    "<a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank">Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain</a>", 
+3. Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, 
+
+    <a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank">Analysis of Motion Control for a Quadruped Ground-Gripping Robot for Minor Body Exploration on Uneven Terrain</a>", 
     
     _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 19, no. 5, pp. 794--801, 2021. 
-    
+
     <a href="https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.794/_article" target="_blank"><img src="assets/img/J-STAGE_logo_A3.png" height="25" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
 
     <br>
 
 2. **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, 
 
-    "<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_619/_article/-char/en" target="_blank">Qualification of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>", 
+    <a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_619/_article/-char/en" target="_blank">Qualification of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>", 
     
     _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 16, no. 7, pp. 619--627, 2018. 
     
@@ -206,7 +204,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 1. 
     Takuto Oikawa, Toshiki Tanaka, Yuto Suebe, **Kentaro Uno**, Hugo Zuliani, Louis-Jerome Burtz, Kazuya Yoshida, 
 
-    "<a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_613/_article/-char/en" target="_blank">Preliminary Radiation Test Result for Space-Ready Qualification of Lunar Micro Rover</a>", 
+    <a href="https://www.jstage.jst.go.jp/article/tastj/16/7/16_613/_article/-char/en" target="_blank">Preliminary Radiation Test Result for Space-Ready Qualification of Lunar Micro Rover</a>", 
     
     _Transactions of The Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan (Trans. JSASS)_, vol. 16, no. 7, pp. 613--618, 2018. 
     
@@ -223,7 +221,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 42. 
     **Kentaro Uno**\*, Masazumi Imai\*, Kazuki Takada, Teruhiro Kataonami, Yudai Matsuura, Antonin Ringeval-Meusnier, Keita Nagaoka, Mikio Eguchi, Ryo Nishibe, Kazuya Yoshida (\*These authors contributed equally.), 
 
-    "**LIMBERO: A Limbed Climbing Exploration Robot Toward Traveling on Rocky Cliffs**," 
+    <span style="color: #85ceff" font-weight="bold">LIMBERO: A Limbed Climbing Exploration Robot Toward Traveling on Rocky Cliffs</span>
     
     _Proceedings of the 2026 IEEE International Conference on Robotics and Automation (ICRA)_, 2026. 
 
@@ -235,7 +233,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 41. 
     Keita Nagaoka\*, **Kentaro Uno**\*, Kazuya Yoshida (\*These authors contributed equally.), 
     
-    "**A Pin-Array Structured Climbing Robot for Stable Locomotion on Steep Rocky Terrain**,"
+    <span style="color: #85ceff" font-weight="bold">A Pin-Array Structured Climbing Robot for Stable Locomotion on Steep Rocky Terrain</span>
     
     _Proceedings of the 2026 IEEE International Conference on Robotics and Automation (ICRA)_, 2026.
     
@@ -247,7 +245,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 40. 
     Jakob Marian Kern, James Michael Hurrell, Shreya Santra, Keisuke Takehana, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/11436587" target="_blank">Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11436587" target="_blank">Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers</a> 
     
     _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp. 662--668, 2025.
     
@@ -260,22 +258,20 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 39. 
     Ashutosh Mishra, Shreya Santra, Elian Neppel, Edoardo Marsigli Rossi Lombardi, Shamistan Karimov, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/11436148" target="_blank">Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11436148" target="_blank">Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots</a> 
     
-    _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp, 329--335, 2025.
+    _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp, 329--335, 2025. <span style="color: #ffd258ff">(Best Papers Award)</span>#85ceff
 
     <a href="https://youtu.be/6kRCybQMMCI" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
-    
     <a href="https://arxiv.org/pdf/2510.20347" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
 <a href="https://ieeexplore.ieee.org/document/11436148" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
-<span style="color: #ffd258ff">(Best Papers Award)</span>
 
     <br>
 
 38. 
     Gustavo Hernan Diaz Huenupan, A. Sejal Jain, Matteo Brugnera, Elian Neppel, Shreya Santra, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/11437309" target="_blank">Design and Development of Moonbots Modular Limbs for Reconfigurable Robots on the Moon</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11437309" target="_blank">Design and Development of Moonbots Modular Limbs for Reconfigurable Robots on the Moon</a> 
     
     _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp. 85--90, 2025.
 
@@ -288,7 +284,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 37. 
     Shamistan Karimov, Elian Neppel, Shreya Santra, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/11437339" target="_blank">An Agnostic End-Effector Alignment Controller for Robust Assembly of Modular Space Robots</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11437339" target="_blank">An Agnostic End-Effector Alignment Controller for Robust Assembly of Modular Space Robots</a> 
     
     _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp. 511--516, 2025.
 
@@ -300,7 +296,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 36. 
     Akiyoshi Uchida, Antoine Richard, **Kentaro Uno**, Miguel A. Olivares-Mendez, Kazuya Yoshida, 
-    "<a href="https://ieeexplore.ieee.org/document/11437302" target="_blank">Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator Towards Space Applications</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11437302" target="_blank">Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator Towards Space Applications</a> 
     
     _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp. 14--21, 2025.
 
@@ -313,7 +309,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 35. 
     Simon Giel, James Michael Hurrell, Shreya Santra, Ashutosh Mishra, **Kentaro Uno**, Kazuya Yoshida, 
 
-    "<a href="https://ieeexplore.ieee.org/document/11437320" target="_blank">Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11437320" target="_blank">Design and Development of a Modular Bucket Drum Excavator for Lunar ISRU</a> 
     
     _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp. 505--510, 2025.
 
@@ -326,7 +322,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 34. 
     Kenta Iizuka, Akiyoshi Uchida, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/11437304" target="_blank">Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11437304" target="_blank">Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking</a> 
     
     _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp. 610--617, 2025.
 
@@ -339,7 +335,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 33. 
     Elian Neppel, Shamistan Karimov, Ashutosh Mishra, Gustavo Hernan Diaz Huenupan, Hazal Gozbasi, **Kentaro Uno**, Shreya Santra, Kazuya Yoshida, 
     
-    "<a href="https://arxiv.org/pdf/2511.01437" target="_blank">Designing for Distributed Heterogeneous Modularity: On Software Architecture and Deployment of MoonBots</a>," 
+    <a href="https://arxiv.org/pdf/2511.01437" target="_blank">Designing for Distributed Heterogeneous Modularity: On Software Architecture and Deployment of MoonBots</a> 
     
     _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp. 79--84, 2025.
 
@@ -352,7 +348,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 32. 
     Taku Okawara, Ryo Nishibe, Mao Kasano, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/11436177" target="_blank">3D Mapping Using a Lightweight and Low-Power Monocular Camera Embedded inside a Gripper of Limbed Climbing Robots</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11436177" target="_blank">3D Mapping Using a Lightweight and Low-Power Monocular Camera Embedded inside a Gripper of Limbed Climbing Robots</a> 
     
     _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp. 677--683, 2025.
 
@@ -365,7 +361,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 31. 
     Elian Neppel, Ashutosh Mishra, Shamistan Karimov, **Kentaro Uno**, Shreya Santra, and Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/11246735" target="_blank">Robust and Modular Multi-Limb Synchronization in Motion Stack for Space Robots with Trajectory Clamping via Hypersphere</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank">Robust and Modular Multi-Limb Synchronization in Motion Stack for Space Robots with Trajectory Clamping via Hypersphere</a> 
     
     _Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, pp. 3767--3772, 2025.
 
@@ -379,7 +375,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 30. 
     Ashutosh Mishra, Shreya Santra, Hazal Gozbasi, **Kentaro Uno**, and Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/11163924" target="_blank">Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments</a>," 
+    <a href="https://ieeexplore.ieee.org/document/11163924" target="_blank">Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments</a> 
     
     _Proceedings of the IEEE International Conference on Automation Science and Engineering (CASE)_, pp. 527--532, 2025. 
 
@@ -391,7 +387,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 29. 
     Keigo Torii, **Kentaro Uno**, Shreya Santra, and Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/10934866" target="_blank">A Sequential Hermaphrodite Coupling Mechanism for Lattice-Based Modular Robots</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10934866" target="_blank">A Sequential Hermaphrodite Coupling Mechanism for Lattice-Based Modular Robots</a> 
     
     _Proceedings of the 2025 IEEE International Conference on Mechatronics (ICM'25)_, pp. 1--6, 2025.
 
@@ -403,7 +399,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 28. 
     Riku Suzuki, Ayumi Umemura, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/10977686" target="_blank">Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10977686" target="_blank">Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain</a> 
     
     _Proceedings of the 11th International Conference on Automation, Robotics, and Applications (ICARA)_, pp. 214--218, 2025.
 
@@ -415,7 +411,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 27. 
     Seiko Piotr Yamaguchi\*, **Kentaro Uno**\*, Yasumaru Fujii, Masazumi Imai, Kazuki Takada, Kazuya Yoshida (\*These authors contributed equally.), 
     
-    "<a href="https://ieeexplore.ieee.org/document/10870890" target="_blank">Towards the Automation in the Space Station: Feasibility Study and Ground Tests of a Multi-Limbed Intra Vehicular Robot</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10870890" target="_blank">Towards the Automation in the Space Station: Feasibility Study and Ground Tests of a Multi-Limbed Intra Vehicular Robot</a> 
     
     _Proceedings of the IEEE/SICE International Symposium on System Integration (SII)_, pp. 1095--1101, 2025. 
 
@@ -427,7 +423,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 26. 
     Luca Nunziante, **Kentaro Uno**, Gustavo H. Diaz, Shreya Santra, Alessandro De Luca, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/10870982" target="_blank">Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10870982" target="_blank">Assembling Solar Panels by Dual Robot Arms Towards Full Autonomous Lunar Base Construction</a> 
     
     _Proceedings of the IEEE/SICE International Symposium on System Integration (SII)_, pp. 1497--1502, 2025.
 
@@ -442,7 +438,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 25. 
     Junnosuke Kamohara\*, Vinicius Ares\*, James Hurrell, Keisuke Takehana, Antoine Richard, Shreya Santra, **Kentaro Uno**, Eric Rohmer, Kazuya Yoshida (\*These authors contributed equally.), 
     
-    "<a href="https://2024.istvs.org/submissions/papers/8590" target="_blank">Modeling of Terrain Deformation by a Grouser Wheel for Lunar Rover Simulation</a>," 
+    <a href="https://2024.istvs.org/submissions/papers/8590" target="_blank">Modeling of Terrain Deformation by a Grouser Wheel for Lunar Rover Simulation</a> 
     
     _Proceedings of the 21st International and 12th Asia-Pacific Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. 283--289, 2024. 
 
@@ -453,7 +449,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 24. 
     Tomomi Tanaka\*, Keisuke Takehana\*, James Hurrell, **Kentaro Uno**, and Kazuya Yoshida (\*These authors contributed equally.), 
     
-    "<a href="https://2024.istvs.org/submissions/papers/3773" target="_blank">Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil</a>," 
+    <a href="https://2024.istvs.org/submissions/papers/3773" target="_blank">Evaluation of the Multi-Pass Effect of an Exploration Rover by Single Wheel Testing Assuming Lunar Gravity and Soil</a> 
     
     _Proceedings of the 21st International and 12th Asia-Pacific Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. 129--136, 2024.  
     
@@ -463,7 +459,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 23. 
     Keisuke Takehana, Kenta Sawa, **Kentaro Uno**, Shreya Santra, and Kazuya Yoshida, 
     
-    "<a href="https://2024.istvs.org/submissions/papers/0412" target="_blank">Evaluation of Grouser Wheel Traction Performance in High-Speed by Single-Wheel Test</a>," 
+    <a href="https://2024.istvs.org/submissions/papers/0412" target="_blank">Evaluation of Grouser Wheel Traction Performance in High-Speed by Single-Wheel Test</a> 
     
     _Proceedings of the 21st International and 12th Asia-Pacific Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)_, pp. 9--18, 2024. 
     
@@ -474,7 +470,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 22. 
     Masazumi Imai, **Kentaro Uno**, and Kazuya Yoshida, 
     
-    "<a href="https://link.springer.com/chapter/10.1007/978-3-031-71301-9_15" target="_blank">Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots</a>," 
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-71301-9_15" target="_blank">Admittance Control-based Floating Base Reaction Mitigation for Limbed Climbing Robots</a> 
     
     _Proceedings of the 27th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2024_, vol. 1115, pp. 157--168, 2024. 
 
@@ -486,7 +482,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 21. 
     **Kentaro Uno**\*, Takehiro Matsuoka\*, Akiyoshi Uchida, and Kazuya Yoshida (\*These authors contributed equally.), 
     
-    "<a href="https://ieeexplore.ieee.org/document/10711467" target="_blank">Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10711467" target="_blank">Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris</a> 
     
     _Proceedings of the IEEE International Conference on Automation Science and Engineering (CASE)_, pp. 1283--1288, 2024. 
     
@@ -498,7 +494,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 20. 
     Shreya Santra\*, **Kentaro Uno**\*, Gen Kudo\* Kazuya Yoshida (\*These authors contributed equally.), 
     
-    "<a href="https://ieeexplore.ieee.org/document/10687663" target="_blank">Risk-Aware Coverage Path Planning for Lunar Micro-Rovers Leveraging Global and Local Environmental Data</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10687663" target="_blank">Risk-Aware Coverage Path Planning for Lunar Micro-Rovers Leveraging Global and Local Environmental Data</a> 
     
     _Proceedings of the 2024 International Conference on Space Robotics (iSpaRo)_, pp. 42--47, 2024. 
     
@@ -510,7 +506,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 19. 
     Akiyoshi Uchida, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank">Space Debris Reliable Capturing by a Dual-Arm Orbital Robot: Detumbling and Caging</a> 
     
     _Proceedings of the 2024 International Conference on Space Robotics (iSpaRo)_, pp. 194--201, 2024. <span style="color: #ffd258ff">(Best Papers Award)</span>
     
@@ -522,7 +518,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 18. Antoine Richard\*, Junnosuke Kamohara\*, **Kentaro Uno**, Shreya Santra, Dave van der Meer, Miguel Olivares-Mendez, and Kazuya Yoshida (\*These authors contributed equally.), 
 
-    "<a href="https://ieeexplore.ieee.org/abstract/document/10610026" target="_blank">OmniLRS: A Photorealistic Simulator for Lunar Robotics</a>," 
+    <a href="https://ieeexplore.ieee.org/abstract/document/10610026" target="_blank">OmniLRS: A Photorealistic Simulator for Lunar Robotics</a> 
     
     *Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)*, pp. 16901--16907, 2024.  
     
@@ -533,12 +529,12 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
     
     <br>
 
-    <!-- 17. David Rodr´ıguez-Mart´ınez\*, **Kentaro Uno**\*, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, "<a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>,"  _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, <a href="DOI: 10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>, 2023. \*These authors contributed equally. (This work will be presented in IEEE ICRA 2024 @Yokohama) <a href="https://youtu.be/usZFhx5iGGY" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <!-- 17. David Rodr´ıguez-Mart´ınez\*, **Kentaro Uno**\*, Kenta Sawa, Masahiro Uda, Gen Kudo, Gustavo Hernen Diaz, Ayumi Umemura, Shreya Santra, and Kazuya Yoshida, <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">Enabling Faster Locomotion of Planetary Rovers with a Mechanically-Hybrid Suspension</a>  _IEEE Robotics and Automation Letters (IEEE RA-L)_, vol. 9, no. 1, pp. 619--626, <a href="DOI: 10.1109/LRA.2023.3335769" target="_blank">DOI: 10.1109/LRA.2023.3335769</a>, 2023. \*These authors contributed equally. (This work will be presented in IEEE ICRA 2024 @Yokohama) <a href="https://youtu.be/usZFhx5iGGY" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
 
 16. 
     Gustavo H. Diaz, Tharit Sinsunthorn, Shreya Santra, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "Toward Autonomous Assembly of Modular Robots and Structures using Real-time Object Detection and Imitation Learning for Lunar Missions," 
+    <span style="color: #85ceff" font-weight="bold">Toward Autonomous Assembly of Modular Robots and Structures using Real-time Object Detection and Imitation Learning for Lunar Missions</span>
     
     _Proceedings of the 29th International Symposium on Artificial Life and Robotics (AROB 29th 2024)_, pp. 1389--1393, 2024.
 
@@ -546,7 +542,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 15. **Kentaro Uno**, Kazuki Takada, Keita Nagaoka, Takuya Kato, Arthur Candalot, and Kazuya Yoshida, 
 
-    "<a href="https://ieeexplore.ieee.org/document/10417210" target="_blank">Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments</a>,"  
+    <a href="https://ieeexplore.ieee.org/document/10417210" target="_blank">Lower Gravity Demonstratable Testbed for Space Mobile Robot Experiments</a>  
     
     *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. 1183--1184, 2024. 
     
@@ -558,7 +554,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 14. Camille Boucher, Gustavo H. A. Diaz, Shreya Santra, **Kentaro Uno**, and Kazuya Yoshida, 
 
-    "<a href="https://ieeexplore.ieee.org/document/10417086" target="_blank">Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10417086" target="_blank">Integration of Vision-based Object Detection and Grasping for Articulated Manipulator in Lunar Conditions</a> 
     
     *Proceedings of the IEEE/SICE International Symposium on System Integration (SII)*, pp. 484--489, 2024. 
     
@@ -571,7 +567,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 13. Kazuki Takada, **Kentaro Uno**, and Kazuya Yoshida, 
 
-    "<a href="https://ieeexplore.ieee.org/document/10458637" target="_blank">Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10458637" target="_blank">Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed Climbing Robots</a> 
     
     *Proceedings of the 2023 8th International Conference on Robotics and Automation Engineering (ICRAE 2023)*, pp. 1--6, 2023. <span style="color: #ffd258ff">(Best Presentation Achievement in the Session)</span> 
     
@@ -581,7 +577,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 12. Keisuke Takehana, Shino Kizaki, **Kentaro Uno**, Tomomi Tanaka, Gentaro Suda and Kazuya Yoshida, 
 
-    "<a href="https://doi.org/10.56884/JSFS4189" target="_blank">Evaluation and Comparison of Driving Performance of a Lunar Exploration Rover Wheel in Different Soils</a>," 
+    <a href="https://doi.org/10.56884/JSFS4189" target="_blank">Evaluation and Comparison of Driving Performance of a Lunar Exploration Rover Wheel in Different Soils</a> 
     
     *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023. <span style="color: #ffd258ff">(Best Papers Award)</span>
 
@@ -589,7 +585,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 11. James Hurrell, Keisuke Takehana, Gentaro Suda, **Kentaro Uno**, Kazuya Yoshida, 
 
-    "<a href="https://doi.org/10.56884/XUAC7188" target="_blank">Lunar Rover Discrete Element Method Study and Calibration</a>," 
+    <a href="https://doi.org/10.56884/XUAC7188" target="_blank">Lunar Rover Discrete Element Method Study and Calibration</a> 
     
     *Proceedings of the 16th European-African Regional Conference of the International Society for Terrain-Vehicle Systems (ISTVS)*, pp. TBD, 2023.
 
@@ -597,7 +593,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 10. Warley F. R. Ribeiro, **Kentaro Uno**, Masazumi Imai, Koki Murase, Barış Can Yalçın, Matteo El Hariry, Miguel A. Olivares-Mendez and Kazuya Yoshida, 
 
-    "<a href="https://doi.org/10.1007/978-3-031-47269-5_6" target="_blank">Mobility Strategy of Multi-Limbed Climbing Robots for Asteroid Exploration</a>", 
+    <a href="https://doi.org/10.1007/978-3-031-47269-5_6" target="_blank">Mobility Strategy of Multi-Limbed Climbing Robots for Asteroid Exploration</a>", 
     
     *Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2023*, pp. 33--45, 2023. <span style="color: #ffd258ff">(Highly Commended Paper)</span> 
     
@@ -608,7 +604,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 9. Warley F. R. Ribeiro, **Kentaro Uno**, Masazumi Imai, Koki Murase, Kazuya Yoshida, 
 
-    "<a href="https://ieeexplore.ieee.org/document/10161185" target="_blank">RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10161185" target="_blank">RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity</a> 
     
     *Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2023)*, pp. 11845--11851, 2023. <span style="color: #ffd258ff"><a style="color: #ffd258ff" href="https://www.icra2023.org/awards-finalists" target="_blank">(ICRA 2023 Outstanding Locomotion Paper Finalist)</a></span> <span style="color: #ffd258ff">(IEEE RAS Japan Joint Chapter Young Award (ICRA2023))</span>
     
@@ -620,7 +616,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 8. Andrew Price, **Kentaro Uno**, Swapnil Parekh, Til Reichelt, Kazuya Yoshida, 
 
-    "<a href="https://ieeexplore.ieee.org/document/10115874" target="_blank">Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10115874" target="_blank">Render-to-Real Image Dataset and CNN Pose Estimation for Down-Link Restricted Spacecraft Missions</a> 
     
     *Proceedings of the 2023 IEEE Aerospace Conference*, pp. 1--11, 2023. 
     
@@ -632,7 +628,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 7. Takuya Kato, **Kentaro Uno**, Kazuya Yoshida, 
 
-    "<a href="https://ieeexplore.ieee.org/document/10011858" target="_blank">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile</a>," 
+    <a href="https://ieeexplore.ieee.org/document/10011858" target="_blank">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profile</a> 
     
     *Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO 2022)*, pp. 1365--1370, 2022. 
     
@@ -645,7 +641,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 6. 
     Warley F. R. Ribeiro, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/9708772" target="_blank">Low-Reaction Trajectory Generation for a Legged Robot in Microgravity</a>," 
+    <a href="https://ieeexplore.ieee.org/document/9708772" target="_blank">Low-Reaction Trajectory Generation for a Legged Robot in Microgravity</a> 
     
     *Proceedings of the 2022 IEEE/SICE International Symposium on System Integration (SII)*, pp. 505--510, 2022. 
     
@@ -658,7 +654,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 5. 
     **Kentaro Uno**\*, Giorgio Valsecchi\*, Marco Hutter, Kazuya Yoshida (\*These authors contributed equally.), 
     
-    "<a href="https://doi.org/10.1007/978-3-030-86294-7_16" target="_blank">Simulation-Based Climbing Capability Analysis for Quadrupedal Robots</a>", 
+    <a href="https://doi.org/10.1007/978-3-030-86294-7_16" target="_blank">Simulation-Based Climbing Capability Analysis for Quadrupedal Robots</a>
     
     *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 179--191, 2021.
 
@@ -670,7 +666,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 4. 
     **Kentaro Uno**\*, Warley F. R. Ribeiro\*, Yusuke Koizumi, Keigo Haji, Koki Kurihara, William Jones, Kazuya Yoshida (\*These authors contributed equally.), 
     
-    <a href="https://doi.org/10.1007/978-3-030-86294-7_20" target="_blank">ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics</a>", 
+    <a href="https://doi.org/10.1007/978-3-030-86294-7_20" target="_blank">ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics</a>
     
     *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 229--241, 2021. <span style="color: #ffd258ff">(Highly Commended Paper)</span> 
     
@@ -683,7 +679,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 3. 
     **Kentaro Uno**, Naomasa Takada, Taku Okawara, Keigo Haji, Arthur Candalot, Warley F. R. Ribeiro, Kenji Nagaoka, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/9555799" target="_blank">HubRobo: A Lightweight Multi-Limbed Climbing Robot for Exploration in Challenging Terrain</a>", 
+    <a href="https://ieeexplore.ieee.org/document/9555799" target="_blank">HubRobo: A Lightweight Multi-Limbed Climbing Robot for Exploration in Challenging Terrain</a>
     
     *Proceedings of the 2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids)*, pp. 209--215, 2021.
 
@@ -697,7 +693,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 2. 
     Warley F. R. Ribeiro, **Kentaro Uno**, Kenji Nagaoka, Kazuya Yoshida, 
 
-    "<a href="https://clawar.org/wp-content/uploads/2021/02/Clawar2020_Paper_18.pdf" target="_blank">Dynamic Equilibrium of Climbing Robots Based on Stability Polyhedron for Gravito-Inertial Acceleration</a>", 
+    <a href="https://clawar.org/wp-content/uploads/2021/02/Clawar2020_Paper_18.pdf" target="_blank">Dynamic Equilibrium of Climbing Robots Based on Stability Polyhedron for Gravito-Inertial Acceleration</a>
     
     *Proceedings of the 23rd International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR)*, pp. 297--304, 2020. <span style="color: #ffd258ff">(Conference Awards a Third Prize)</span> 
     
@@ -707,7 +703,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 1. 
     **Kentaro Uno**, Warley F. R. Ribeiro, William Jones, Yuki Shirai, Hayato Minote, Kenji Nagaoka, Kazuya Yoshida, 
     
-    "<a href="https://ieeexplore.ieee.org/document/8700455" target="_blank">Gait Planning for a Free-Climbing Robot based on Tumble Stability</a>", 
+    <a href="https://ieeexplore.ieee.org/document/8700455" target="_blank">Gait Planning for a Free-Climbing Robot based on Tumble Stability</a>
     
     *Proceedings of the 2019 IEEE/SICE International Symposium on System Integration*, pp. 289-294, 2019. 
     
@@ -720,10 +716,12 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 <!-- Tim? -->
 
+<!-- Tim? -->
+
 10. 
     Hazal Gozbasi, Elian Neppel, Shreya Santra, Kentaro Uno, Kazuya Yoshida, 
     
-    "Vision-based Multi-Camera Mapping for Lunar Construction Environments," 
+    <span style="color: #85ceff" font-weight="bold">Vision-based Multi-Camera Mapping for Lunar Construction Environments</span>
     
     _late-breaking results short paper for the Workshop in 2024 International Conference on Space Robotics (iSpaRo)_, 2025.
 
@@ -732,7 +730,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 9. 
     Gustavo H. Diaz\*, **Kentaro Uno**\*, Shreya Santra, Kazuya Yoshida (\*These authors contributed equally.), 
     
-    "**Towards Self-Assembling of Modular Robots for the Human Outpost Construction on the Moon**," 
+    <span style="color: #85ceff" font-weight="bold">Towards Self-Assembling of Modular Robots for the Human Outpost Construction on the Moon</span>
     
     _late-breaking results short paper for the Workshop on Exploring the Lunar Frontier Leveraging Robotic Missions in 2024 International Conference on Space Robotics (iSpaRo)_, pp. TBD, 2024. <!-- <a href="https://arxiv.org/pdf/2404.18721" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> \*These authors contributed equally.  -->
 
@@ -741,7 +739,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 8. 
     Ayumi Umemura, **Kentaro Uno**, Shreya Santra, Miguel Angel Olivares Mendez, Kazuya Yoshida, 
 
-    "Refining of Localization and Mapping by Multiple Rovers for Planetary Exploration", 
+    <span style="color: #85ceff" font-weight="bold">Refining of Localization and Mapping by Multiple Rovers for Planetary Exploration</span>
     
     *Contributed paper of the ICRA2023 workshop: Heterogeneous Multi-robot Cooperation for Exploration and Science in Extreme Environments (HERMES)*, 2023. 
     
@@ -753,7 +751,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 7. 
     Keigo Haji, **Kentaro Uno**, Warley F. R. Ribeiro, Kazuya Yoshida, 
     
-    "Path and Gait Planning of Limbed Climbing Robots for Planetary Cliff Exploration," 
+    <span style="color: #85ceff" font-weight="bold">Path and Gait Planning of Limbed Climbing Robots for Planetary Cliff Exploration</span>
     
     *Proceedings of the 33rd International Symposium on Space Technology Science (ISTS)*, #2022-k-11, 2022.
 
@@ -762,7 +760,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 6. 
     Taku Okawara, **Kentaro Uno**, Kazuya Yoshida, 
     
-    "Lunar Skylight Exploration by a Limbed Climbing Robot Using a Hand-Eye System," 
+    <span style="color: #85ceff" font-weight="bold">Lunar Skylight Exploration by a Limbed Climbing Robot Using a Hand-Eye System</span>
     
     *Proceedings of the 33rd International Symposium on Space Technology Science (ISTS)*, #2022-k-09, 2022.
 
@@ -771,7 +769,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 5. 
     **Kentaro Uno**, Yusuke Koizumi, Keigo Haji, Maximilian Keiff, Simon Harms, Warley F. R. Ribeiro, Kenji Nagaoka, Kazuya Yoshida, 
 
-    "<a href="https://www.hou.usra.edu/meetings/isairas2020fullpapers/pdf/5027.pdf" target="_blank">Non-Periodic Gait Planning Based on Salient Region Detection for a Planetary Cave Exploration Robot</a>", 
+    <a href="https://www.hou.usra.edu/meetings/isairas2020fullpapers/pdf/5027.pdf" target="_blank">Non-Periodic Gait Planning Based on Salient Region Detection for a Planetary Cave Exploration Robot</a>
     
     *Proceedings of the 15th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, #5027, 2020.
 
@@ -780,7 +778,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 4. 
     **Kentaro Uno**, Louis-Jerome Burtz, Masafumi Endo, Kenji Nagaoka, Kazuya Yoshida, 
     
-    "<a href="https://robotics.estec.esa.int/i-SAIRAS/isairas2018/Papers/Session%2010a/2_uno-86-110-Uno-Kentaro.pdf" target="_blank">Quality of the 3D Point Cloud of a Time-of-Flight Camera Under Lunar Surface Illumination Conditions: Impact Improvement Techniques</a>", 
+    <a href="https://robotics.estec.esa.int/i-SAIRAS/isairas2018/Papers/Session%2010a/2_uno-86-110-Uno-Kentaro.pdf" target="_blank">Quality of the 3D Point Cloud of a Time-of-Flight Camera Under Lunar Surface Illumination Conditions: Impact Improvement Techniques</a>
     
     *Proceedings of the 14th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, #10a-2, 2018.
 
@@ -790,7 +788,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 3. 
     **Kentaro Uno**, Louis-Jerome Burtz, Marc Hulcelle, Kazuya Yoshida, 
 
-    "<a href="/assets/files/ISTS2017_KentaroUno.pdf" target="_blank">Capability of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>", 
+    <a href="/assets/files/ISTS2017_KentaroUno.pdf" target="_blank">Capability of a Time-of-Flight Camera as a Hazard Detection and Avoidance Sensor for a Moon Exploration Microrover</a>
     
     *Proceedings of the 31st International Symposium on Space Technology Science (ISTS)*, #2017-k-37, 2017.
 
@@ -799,7 +797,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 2. 
     Takuto Oikawa, Toshiki Tanaka, John Walker, **Kentaro Uno**, Paulo Costa, Nathan Britton, Kazuya Yoshida, 
 
-    "**Preliminary Radiation Test Result for Space-Ready Qualification of Lunar Micro Rover**", 
+    <span style="color: #85ceff" font-weight="bold">Preliminary Radiation Test Result for Space-Ready Qualification of Lunar Micro Rover</span>
     
     *Proceedings of the 31st International Symposium on Space Technology Science (ISTS)*, #2017-i-10, 2017.
 
@@ -808,7 +806,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 1. 
     Takuto Oikawa, Toshiki Tanaka, John Walker, **Kentaro Uno**, Paulo Costa, Nathan Britton, Kazuya Yoshida, 
     
-    "**Thermal Design Analysis of Conceptual Flight Model for a Lunar Exploration Rover,**" 
+    <span style="color: #85ceff" font-weight="bold">Thermal Design Analysis of Conceptual Flight Model for a Lunar Exploration Rover</span>
     
     *Proceedings of the 13th International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS)*, 2016.
 
