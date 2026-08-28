@@ -216,7 +216,16 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
 ### 2026
 
-### 2026
+43. 
+    Ashutosh Mishra, Elian Neppel, Antoine Jonquières, Muhammad Athallah Naufal, Shreya Santra1, **Kentaro Uno**, Kazuya Yoshida
+
+    <span style="color: #85ceff" font-weight="bold">Distributed Multi-Robot Lunar Cargo Transportation via Phase-Decomposed Reinforcement Learning</span>
+    
+    _Proceedings of the 2026 IEEE International Conference on Intelligent Robots and Systems (IROS)_, 2026.
+
+    <a href="https://arxiv.org/pdf/2607.00160" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <!-- <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+
+    <br>
 
 42. 
     **Kentaro Uno**\*, Masazumi Imai\*, Kazuki Takada, Teruhiro Kataonami, Yudai Matsuura, Antonin Ringeval-Meusnier, Keita Nagaoka, Mikio Eguchi, Ryo Nishibe, Kazuya Yoshida (\*These authors contributed equally.), 
@@ -820,11 +829,20 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 ### 2026
 
 38. 
-    〇池野 航太，小出 健司，高野瀬 碧輝，大石 修士，横塚 将志，**宇野 健太朗**，吉田 和哉, 
+    〇**宇野 健太朗**，今井 正純，吉田 和哉
 
-    "Wi-Fi CSIのMUSIC法を用いた位相回転停止手法"，
+    “宇宙ステーション船内伝い歩き作業ロボットの自律移動計画および制御手法のシミュレーション検討”，
     
-    第31回ロボティクスシンポジア，2025.
+    第70回宇宙科学技術連合講演会，#3C04，2026．
+
+    <br>
+
+38. 
+    〇吉田 和哉，**宇野 健太朗**（東北大学），大西 正悟（株式会社 Space Quarters），広瀬 茂男（白山工業株式会社 極限環境ロボット研究所），清水 敏郎（株式会社システム計画研究所），アレハンドロ セラ（株式会社 JAOPS），園田 智也（アステリアART 合同会社）
+
+    “Lunar PIONEERプロジェクト：月面インフラ構築のための電子ビームによるレゴリス溶融技術とロボットシステムの開発”，
+    
+    第70回宇宙科学技術連合講演会，#4Q08，2026．
 
     <br>
 

@@ -35,7 +35,8 @@ Wheeled robotic exploration on planetary surfaces needs an innovation in terms o
     </div>
     <p class="video-caption">
 OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10610026" target="_blank"> ICRA 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2309.08997" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10610026" target="_blank"> ICRA 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+    <a href="https://arxiv.org/pdf/2309.08997" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -48,8 +49,7 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
       <iframe src="https://www.youtube.com/embed/sgN9BIufv4g" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers</p>
-    <p class="video-caption2">(Paper: 
-    <!-- <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">IEEE RA-L  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/11436587" target="_blank"> ICRA 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
      <a href="https://arxiv.org/pdf/2601.04547" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
@@ -135,9 +135,9 @@ To drastically extend the robots' explorable world, for exploring the steep and 
     <p class="video-caption">
 3D Mapping Using a Monocular Hand-Eye Camera of Limbed Climbing Robots</p>
     <p class="video-caption2">(Paper: 
-    <!-- <a href="https://ieeexplore.ieee.org/document/10711467" target="_blank"> -->
+    <a href="https://ieeexplore.ieee.org/document/11436177" target="_blank">
     iSpaRo 2025 
-    <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>  -->
+    <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     <a href="https://arxiv.org/pdf/2511.05816" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
@@ -183,7 +183,7 @@ Innovative mechanism enhances the robotic system drastically.
 
 </div>
 
-## Orbital Servicing Robitics
+## Orbital Servicing Robotics
 
 With the boost in the number of spacecraft launches in the current decades, the space debris problem is daily becoming significantly crucial. For sustainable space utilization, the continuous removal of space debris is the most severe problem for humanityActive Debris Removal (ADR) is the essential towards the sustainable orbital activity.
 
@@ -214,9 +214,9 @@ With the boost in the number of spacecraft launches in the current decades, the 
     <p class="video-caption">
 Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking</p>
     <p class="video-caption2">(Paper: 
-    <!-- <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank"> -->
-    iSpaRo 2025  
-    <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <a href="https://ieeexplore.ieee.org/document/11437304" target="_blank">
+    iSpaRo 2025 
+    <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     <a href="https://arxiv.org/pdf/2512.21882" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
     )</p>
   </div>
@@ -232,9 +232,9 @@ Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking</p>
     <p class="video-caption">
 Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator Towards Space Applications</p>
     <p class="video-caption2">(Paper: 
-    <!-- <a href="https://ieeexplore.ieee.org/document/10687710" target="_blank"> -->
-    iSpaRo 2025  
-    <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <a href="https://ieeexplore.ieee.org/document/11437302" target="_blank">
+    iSpaRo 2025 
+    <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     <a href="https://arxiv.org/pdf/2512.21886" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
     )</p>
   </div>
@@ -304,7 +304,8 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
     </div>
     <p class="video-caption"> Motion Stack: Robust and Modular Multi-Limb Synchronization for Space Robots with Trajectory Clamping via Hypersphere</p>
     <p class="video-caption2">(Paper: 
-        <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank">IEEE/RSJ IROS 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2507.03934" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank">IEEE/RSJ IROS 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+        <a href="https://arxiv.org/pdf/2507.03934" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
         <a href="https://github.com/2lian/Motion-Stack" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
         ) 
     </p>
@@ -316,7 +317,8 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
     </div>
     <p class="video-caption">An Agnostic End-Effector Alignment Controller for Robust Assembly of Modular Robots</p>
     <p class="video-caption2">(Paper: 
-        <a href="https://arxiv.org/pdf/2510.21164" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        <a href="https://ieeexplore.ieee.org/document/11437339" target="_blank">iSpaRo 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        <a href="https://arxiv.org/pdf/2510.21164" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
         )
     </p>
   </div>
@@ -327,7 +329,8 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
     </div>
     <p class="video-caption">Modular Limbs for Reconfigurable Robots on the Moon</p>
     <p class="video-caption2">(Paper: 
-    <a href="https://arxiv.org/pdf/2601.04541" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        <a href="https://ieeexplore.ieee.org/document/11437309" target="_blank">iSpaRo 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <a href="https://arxiv.org/pdf/2601.04541" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -341,7 +344,8 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
     </div>
     <p class="video-caption">Software Architecture and Deployment of MoonBots</p>
     <p class="video-caption2">(Paper: 
-    <a href="https://arxiv.org/pdf/2511.01437" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        <a href="https://ieeexplore.ieee.org/document/11436187" target="_blank">iSpaRo 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <a href="https://arxiv.org/pdf/2511.01437" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -351,7 +355,8 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
     </div>
     <p class="video-caption">Modular Bucket Drum Excavator for Lunar ISRU</p>
     <p class="video-caption2">(Paper: 
-    <a href="https://arxiv.org/pdf/2511.00492" target="_blank"> iSpaRo 2025 <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        <a href="https://ieeexplore.ieee.org/document/11437320" target="_blank">iSpaRo 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <a href="https://arxiv.org/pdf/2511.00492" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -361,9 +366,9 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
     </div>
     <p class="video-caption">Reinforcement Learning for Modular Reconfigurable Lunar Robots</p>
     <p class="video-caption2">( <span style="color: #ffd258ff">Best Paper Award</span> in 
-    <!-- <a href="https://ieeexplore.ieee.org/document/10161185" target="_blank"> -->
-     iSpaRo 2025 
-    <!-- </a>  -->
+    <a href="https://ieeexplore.ieee.org/document/11436148" target="_blank">
+     iSpaRo 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon">
+    </a> 
     <a href="https://arxiv.org/pdf/2510.20347" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>

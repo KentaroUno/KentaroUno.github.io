@@ -214,6 +214,18 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>
 
 ### 2026
 
+43. 
+    Ashutosh Mishra, Elian Neppel, Antoine Jonquières, Muhammad Athallah Naufal, Shreya Santra1, **Kentaro Uno**, Kazuya Yoshida
+
+    <span style="color: #85ceff" font-weight="bold">Distributed Multi-Robot Lunar Cargo Transportation via Phase-Decomposed Reinforcement Learning</span>
+    
+    _Proceedings of the 2026 IEEE International Conference on Intelligent Robots and Systems (IROS)_, 2026.
+
+    <a href="https://arxiv.org/pdf/2607.00160" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <!-- <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+
+    <br>
+
+
 42. 
     **Kentaro Uno**\*, Masazumi Imai\*, Kazuki Takada, Teruhiro Kataonami, Yudai Matsuura, Antonin Ringeval-Meusnier, Keita Nagaoka, Mikio Eguchi, Ryo Nishibe, Kazuya Yoshida (\*These authors contributed equally.), 
 
