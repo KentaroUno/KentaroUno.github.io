@@ -49,7 +49,7 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
       <iframe src="https://www.youtube.com/embed/sgN9BIufv4g" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/11436587" target="_blank"> ICRA 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/11436587" target="_blank"> iSpaRo 2025  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
      <a href="https://arxiv.org/pdf/2601.04547" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
