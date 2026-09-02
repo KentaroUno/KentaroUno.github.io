@@ -16,8 +16,7 @@ Wheeled robotic exploration on planetary surfaces needs an innovation in terms o
       <iframe src="https://www.youtube.com/embed/usZFhx5iGGY" allowfullscreen></iframe>
     </div>
     <p class="video-caption">High-Speed and High-Traversability Rover</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">IEEE RA-L  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10325569" target="_blank">IEEE RA-L  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2307.04494.pdf" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>)</p>
   </div>
 
   <div class="video-item">
@@ -25,8 +24,7 @@ Wheeled robotic exploration on planetary surfaces needs an innovation in terms o
       <iframe src="https://www.youtube.com/embed/UzxpKbpj6OA" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Risk-Aware Coverage Path Planning</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10687663" target="_blank"> iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2404.18721" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10687663" target="_blank"> iSpaRo 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2404.18721" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>)</p>
   </div>
 
   <div class="video-item">
@@ -36,8 +34,7 @@ Wheeled robotic exploration on planetary surfaces needs an innovation in terms o
     <p class="video-caption">
 OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
     <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10610026" target="_blank"> ICRA 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
-    <a href="https://arxiv.org/pdf/2309.08997" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
+    <a href="https://arxiv.org/pdf/2309.08997" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>)</p>
   </div>
 
 </div>
@@ -50,8 +47,7 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
     </div>
     <p class="video-caption">Data-Driven Terramechanics Approach Towards a Realistic Real-Time Simulator for Lunar Rovers</p>
     <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/11436587" target="_blank"> iSpaRo 2025  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
-     <a href="https://arxiv.org/pdf/2601.04547" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
+     <a href="https://arxiv.org/pdf/2601.04547" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>)</p>
   </div>
 
 
@@ -69,8 +65,7 @@ To drastically extend the robots' explorable world, for exploring the steep and 
       <iframe src="https://www.youtube.com/embed/c3cIx2A6K-4" allowfullscreen></iframe>
     </div>
     <p class="video-caption">LIMBERO: A Limbed Climbing Exploration Robot Toward Traveling on Rocky Cliffs</p>
-    <p class="video-caption2">(Paper: ICRA 2026 (accepted) <a href="https://arxiv.org/pdf/2603.16531" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
+    <p class="video-caption2">(Paper: ICRA 2026 (accepted) <a href="https://arxiv.org/pdf/2603.16531" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>)</p>
   </div>
 
   <div class="video-item">
@@ -78,8 +73,7 @@ To drastically extend the robots' explorable world, for exploring the steep and 
       <iframe src="https://www.youtube.com/embed/Ucs3YwUMPW8" allowfullscreen></iframe>
     </div>
     <p class="video-caption">A Pin-Array Structured Climbing Robot for Stable Locomotion on Steep Rocky Terrain</p>
-    <p class="video-caption2">(Paper: ICRA 2026 (accepted) <a href="https://arxiv.org/pdf/2603.16543" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
+    <p class="video-caption2">(Paper: ICRA 2026 (accepted) <a href="https://arxiv.org/pdf/2603.16543" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>)</p>
 
   </div>
 
@@ -90,6 +84,42 @@ To drastically extend the robots' explorable world, for exploring the steep and 
     <p class="video-caption">HubRobo: Light-Weight Quadrupedal Climbing Robot Testbed</p>
     <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/9555799" target="_blank"> IEEE-RAS Humanoids 2020  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
+  </div>
+
+</div>
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/M-kWp0qJOTI" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity</p>
+    <p class="video-caption2">( <span style="color: #ffd258ff">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10161185" target="_blank"> ICRA 2023  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+    <!-- <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    )</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/beSt5cv2d0g" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Terrain-, Inclination-, and Gravity-Adjustable Testfield</p>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10417210" target="_blank"> IEEE/SICE SII 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/4iWhG7Kisn0" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">
+3D Mapping Using a Monocular Hand-Eye Camera of Limbed Climbing Robots</p>
+    <p class="video-caption2">(Paper: 
+    <a href="https://ieeexplore.ieee.org/document/11436177" target="_blank">
+    iSpaRo 2025 
+    <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <a href="https://arxiv.org/pdf/2511.05816" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>)</p>
   </div>
 
 </div>
@@ -115,71 +145,39 @@ To drastically extend the robots' explorable world, for exploring the steep and 
 
   </div>
 
+  <div class="video-item">
+    <div class="video-container">
+        <img src="assets/img/three_limbed_four_steps.png" allowfullscreen width="100%">
+    </div>
+    <p class="video-caption">Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed
+Climbing Robots</p>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10458637" target="_blank"> IEEE ICRAE 2023  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+<!-- <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    )
+    </p>
+  </div>
+
 </div>
+
+## Robotics and Automation in Space Stations
+
+With the boost in the number of spacecraft launches in the current decades, the space debris problem is daily becoming significantly crucial. For sustainable space utilization, the continuous removal of space debris is the most severe problem for humanityActive Debris Removal (ADR) is the essential towards the sustainable orbital activity.
 
 <div class="video-grid">
 
   <div class="video-item">
     <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/beSt5cv2d0g" allowfullscreen></iframe>
-    </div>
-    <p class="video-caption">Terrain-, Inclination-, and Gravity-Adjustable Testfield</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10417210" target="_blank"> IEEE/SICE SII 2024  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
-  </div>
-
-  <div class="video-item">
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/4iWhG7Kisn0" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/69p-YU6ZlCY" allowfullscreen></iframe>
     </div>
     <p class="video-caption">
-3D Mapping Using a Monocular Hand-Eye Camera of Limbed Climbing Robots</p>
+Graph-Based Path and Foothold Planning for Multi-Limbed Intra-Vehicular Robots in Space Stations</p>
     <p class="video-caption2">(Paper: 
-    <a href="https://ieeexplore.ieee.org/document/11436177" target="_blank">
-    iSpaRo 2025 
-    <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    <a href="https://arxiv.org/pdf/2511.05816" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <!-- <a href="https://ieeexplore.ieee.org/document/11436177" target="_blank"> -->
+    iSpaRo 2026 
+    <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <!-- <a href="https://arxiv.org/pdf/2511.05816" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
     )</p>
   </div>
-
-  <div class="video-item">
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/M-kWp0qJOTI" allowfullscreen></iframe>
-    </div>
-    <p class="video-caption">RAMP: Reaction-Aware Motion Planning of Multi-Legged Robots for Locomotion in Microgravity</p>
-    <p class="video-caption2">( <span style="color: #ffd258ff">Best Paper Award</span> in <a href="https://ieeexplore.ieee.org/document/10161185" target="_blank"> ICRA 2023  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
-    <!-- <a href="https://arxiv.org/pdf/2309.10268" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
-    )</p>
-  </div>
-
-</div>
-
-## Novel Mechanisms
-
-Innovative mechanism enhances the robotic system drastically. 
-
-<div class="video-grid">
-
-  <div class="video-item">
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/dWo28Nl5jgE" allowfullscreen></iframe>
-    </div>
-    <p class="video-caption">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10011858" target="_blank"> IEEE ROBIO 2022  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
-    <a href="https://arxiv.org/pdf/2601.08143" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
-  </div>
-
-  <div class="video-item">
-    <div class="video-container">
-        <img src="assets/img/K_Torii_et_al_ICM2025_submit.png" allowfullscreen width="100%">
-    </div>
-    <p class="video-caption">A Sequential Hermaphrodite Coupling Mechanism for Lattice-Based Modular Robots</p>
-    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10934866" target="_blank"> IEEE ICM 2022  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
-    <a href="https://arxiv.org/pdf/2512.23154" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
-  </div>
-
 
 </div>
 
@@ -259,6 +257,34 @@ Online Inertia Parameter Estimation for Unknown Objects Grasped by a Manipulator
 
 </div>
 
+## Novel Mechanisms
+
+Innovative mechanism enhances the robotic system drastically. 
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/dWo28Nl5jgE" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">A Pin-Array Structure for Gripping and Shape Recognition of Convex and Concave Terrain Profiles</p>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10011858" target="_blank"> IEEE ROBIO 2022  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+    <a href="https://arxiv.org/pdf/2601.08143" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+        <img src="assets/img/K_Torii_et_al_ICM2025_submit.png" allowfullscreen width="100%">
+    </div>
+    <p class="video-caption">A Sequential Hermaphrodite Coupling Mechanism for Lattice-Based Modular Robots</p>
+    <p class="video-caption2">(Paper: <a href="https://ieeexplore.ieee.org/document/10934866" target="_blank"> IEEE ICM 2022  <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+    <a href="https://arxiv.org/pdf/2512.23154" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+
+</div>
 
 ## Robotics for Lunar Base Construction
 
@@ -300,15 +326,24 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
 
   <div class="video-item">
     <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/MtAXq8mNaiw" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/ccDAhaAJAL4" allowfullscreen></iframe>
     </div>
-    <p class="video-caption"> Motion Stack: Robust and Modular Multi-Limb Synchronization for Space Robots with Trajectory Clamping via Hypersphere</p>
+    <p class="video-caption">Robot-Assisted Deployment and Maintenance of Inflatable Modules for Lunar Habitation</p>
+    <!-- <p class="video-caption2">(Paper: 
+        <a href="https://ieeexplore.ieee.org/document/11436187" target="_blank">iSpaRo 2026 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <a href="https://arxiv.org/pdf/2511.01437" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p> -->
+  </div>
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/6XAfiojazxg" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Software Architecture and Deployment of MoonBots</p>
     <p class="video-caption2">(Paper: 
-        <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank">IEEE/RSJ IROS 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
-        <a href="https://arxiv.org/pdf/2507.03934" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-        <a href="https://github.com/2lian/Motion-Stack" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-        ) 
-    </p>
+        <a href="https://ieeexplore.ieee.org/document/11436187" target="_blank">iSpaRo 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <a href="https://arxiv.org/pdf/2511.01437" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
   </div>
 
   <div class="video-item">
@@ -323,31 +358,9 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
     </p>
   </div>
 
-  <div class="video-item">
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/5155AB8iMlc" allowfullscreen></iframe>
-    </div>
-    <p class="video-caption">Modular Limbs for Reconfigurable Robots on the Moon</p>
-    <p class="video-caption2">(Paper: 
-        <a href="https://ieeexplore.ieee.org/document/11437309" target="_blank">iSpaRo 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    <a href="https://arxiv.org/pdf/2601.04541" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
-  </div>
-
 </div>
 
 <div class="video-grid">
-
-  <div class="video-item">
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/6XAfiojazxg" allowfullscreen></iframe>
-    </div>
-    <p class="video-caption">Software Architecture and Deployment of MoonBots</p>
-    <p class="video-caption2">(Paper: 
-        <a href="https://ieeexplore.ieee.org/document/11436187" target="_blank">iSpaRo 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    <a href="https://arxiv.org/pdf/2511.01437" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p>
-  </div>
 
   <div class="video-item">
     <div class="video-container">
@@ -370,6 +383,36 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
      iSpaRo 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon">
     </a> 
     <a href="https://arxiv.org/pdf/2510.20347" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    )</p>
+  </div>
+
+</div>
+
+<div class="video-grid">
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/MtAXq8mNaiw" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption"> Motion Stack: Robust and Modular Multi-Limb Synchronization for Space Robots with Trajectory Clamping via Hypersphere</p>
+    <p class="video-caption2">(Paper: 
+        <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank">IEEE/RSJ IROS 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+        <a href="https://arxiv.org/pdf/2507.03934" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        <a href="https://github.com/2lian/Motion-Stack" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+        ) 
+    </p>
+  </div>
+
+
+
+  <div class="video-item">
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/5155AB8iMlc" allowfullscreen></iframe>
+    </div>
+    <p class="video-caption">Modular Limbs for Reconfigurable Robots on the Moon</p>
+    <p class="video-caption2">(Paper: 
+        <a href="https://ieeexplore.ieee.org/document/11437309" target="_blank">iSpaRo 2025 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <a href="https://arxiv.org/pdf/2601.04541" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
