@@ -64,8 +64,21 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
      </p>
   </div>
 
-
-
+  <div class="video-item">
+    <div class="video-container">
+      <center>
+      <img src="assets/img/DFT-based_PCD_compression.png" allowfullscreen width="95%">
+      </center>
+    </div>
+    <p class="video-caption">Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain</p>
+    <p class="video-caption2">(Paper: 
+    <a href="https://ieeexplore.ieee.org/document/10977686" target="_blank"> 
+    ICARA 2025
+    <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> 
+     <a href="https://arxiv.org/pdf/2601.04551v1" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+     )
+     </p>
+  </div>
 
 </div>
 
@@ -162,7 +175,9 @@ To drastically extend the robots' explorable world, for exploring the steep and 
 
   <div class="video-item">
     <div class="video-container">
-        <img src="assets/img/three_limbed_four_steps.png" allowfullscreen width="100%">
+      <center>
+      <img src="assets/img/three_limbed_four_steps.png" allowfullscreen width="90%">
+      </center>
     </div>
     <p class="video-caption">Graph-Based Path/Foothold Planning and Quantitative Map Evaluation for Multi-Limbed
 Climbing Robots</p>
@@ -176,13 +191,15 @@ Climbing Robots</p>
 
 ## Robotics and Automation in Space Stations
 
-With the boost in the number of spacecraft launches in the current decades, the space debris problem is daily becoming significantly crucial. For sustainable space utilization, the continuous removal of space debris is the most severe problem for humanityActive Debris Removal (ADR) is the essential towards the sustainable orbital activity.
+Robot-aided operations and autonomization technology in space stations are essential for reducing the workload of astronauts and improving the efficiency of on-orbit human activities.
 
 <div class="video-grid">
 
   <div class="video-item">
     <div class="video-container">
-        <img src="assets/img/PORTRS_concept.png" allowfullscreen width="100%">
+        <center>
+        <img src="assets/img/PORTRS_concept.png" allowfullscreen width="70%" >
+        </center>
     </div>
     <p class="video-caption">
     Towards the Automation in the Space Station: Feasibility Study and Ground Tests of a Multi-Limbed Intra-Vehicular Robot</p>
