@@ -234,7 +234,7 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 
     Masazumi Imai, **Kentaro Uno**, Toshinori Kuwahara, Kazuya Yoshida, 
     
-    <span style="color: #85ceff" font-weight="bold">Robot-Assisted Deployment and Maintenance of Inflatable Modules for Lunar Habitation: A Field Demonstration</span> 
+    <span style="color: #85ceff" font-weight="bold">Graph-Based Simultaneous Path and Foothold Planning for Multi-Limbed Intra-Vehicular Robots in Space Stations</span> 
     
     _Proceedings of the 2026 International Conference on Space Robotics (iSpaRo)_, pp. TBD, 2026.
 
