@@ -59,7 +59,7 @@ OmniLRS: A Photorealistic Simulator for Lunar Robotics</p>
     <!-- <a href="https://ieeexplore.ieee.org/document/11436587" target="_blank">  -->
     iSpaRo 2026 (accepted)  
     <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>  -->
-     <!-- <a href="https://arxiv.org/pdf/2601.04547" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+     <a href="https://arxiv.org/pdf/2609.38715" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
      )
      </p>
   </div>
@@ -221,7 +221,7 @@ Graph-Based Path and Foothold Planning for Multi-Limbed Intra-Vehicular Robots i
     <!-- <a href="https://ieeexplore.ieee.org/document/11436177" target="_blank"> -->
     iSpaRo 2026 
     <!-- <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
-    <!-- <a href="https://arxiv.org/pdf/2511.05816" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <a href="https://arxiv.org/pdf/2609.35000" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -375,10 +375,10 @@ For this mission, as a novel robotic solution, we introduce a heterogeneous modu
       <iframe src="https://www.youtube.com/embed/ccDAhaAJAL4" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Robot-Assisted Deployment and Maintenance of Inflatable Modules for Lunar Habitation</p>
-    <!-- <p class="video-caption2">(Paper: 
-        <a href="https://ieeexplore.ieee.org/document/11436187" target="_blank">iSpaRo 2026 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    <a href="https://arxiv.org/pdf/2511.01437" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
-    )</p> -->
+    <p class="video-caption2">(Paper:
+    <!-- <a href="https://ieeexplore.ieee.org/document/11436187" target="_blank">iSpaRo 2026 <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <a href="https://arxiv.org/pdf/2609.34498" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>)
+    </p>
   </div>
 
   <div class="video-item">

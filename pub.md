@@ -214,6 +214,48 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>
 
 ### 2026
 
+46. 
+
+    **Kentaro Uno**\*, Shamistan Karimov\*, Ashutosh Mishra, Elian Neppel, Hazal Gozbasi, Shreya Santra, Shinichi Kimura, Kazuya Yoshida (\*These authors contributed equally.), 
+    
+    <span style="color: #85ceff" font-weight="bold">Robot-Assisted Deployment and Maintenance of Inflatable Modules for Lunar Habitation: A Field Demonstration</span> 
+    
+    _Proceedings of the 2026 International Conference on Space Robotics (iSpaRo)_, pp. TBD, 2026.
+
+    <a href="https://youtu.be/ccDAhaAJAL4" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
+    <a href="https://arxiv.org/pdf/2609.34498" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
+    <!-- <a href="https://ieeexplore.ieee.org/document/11437309" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>  -->
+
+    <br>
+
+45. 
+
+    Masazumi Imai, **Kentaro Uno**, Toshinori Kuwahara, Kazuya Yoshida, 
+    
+    <span style="color: #85ceff" font-weight="bold">Robot-Assisted Deployment and Maintenance of Inflatable Modules for Lunar Habitation: A Field Demonstration</span> 
+    
+    _Proceedings of the 2026 International Conference on Space Robotics (iSpaRo)_, pp. TBD, 2026.
+
+    <a href="https://youtu.be/69p-YU6ZlCY" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
+    <a href="https://arxiv.org/pdf/2609.35000" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
+    <!-- <a href="https://ieeexplore.ieee.org/document/11437309" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>  -->
+
+    <br>
+
+44. 
+
+    Ryuya Matsuoka, Keisuke Takehana, **Kentaro Uno**, Toshinori Kuwahara, Kazuya Yoshida, 
+    
+    <span style="color: #85ceff" font-weight="bold">Path-Following Control and Terramechanics Analysis for Planetary Rovers Under Wheel-to-Wheel Traction  Asymmetry</span> 
+    
+    _Proceedings of the 2026 International Conference on Space Robotics (iSpaRo)_, pp. TBD, 2026.
+
+    <a href="https://youtu.be/gCxig4QyT-4" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
+    <a href="https://arxiv.org/pdf/2609.38715" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
+    <!-- <a href="https://ieeexplore.ieee.org/document/11437309" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>  -->
+
+    <br>
+
 43. 
     Ashutosh Mishra, Elian Neppel, Antoine Jonquières, Muhammad Athallah Naufal, Shreya Santra1, **Kentaro Uno**, Kazuya Yoshida
 
@@ -268,7 +310,7 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>
     
     <a href="https://ieeexplore.ieee.org/document/11436148" target="_blank">Multi-Modal Decentralized Reinforcement Learning for Modular Reconfigurable Lunar Robots</a> 
     
-    _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp, 329--335, 2025. <span style="color: #ffd258ff">(Best Papers Award)</span>#85ceff
+    _Proceedings of the 2025 International Conference on Space Robotics (iSpaRo)_, pp, 329--335, 2025. <span style="color: #ffd258ff">(Best Papers Award)</span>
 
     <a href="https://youtu.be/6kRCybQMMCI" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
     <a href="https://arxiv.org/pdf/2510.20347" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
