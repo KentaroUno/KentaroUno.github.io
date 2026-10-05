@@ -272,24 +272,26 @@ Innovative Space Technology | Tohoku University Cross-Technology Initiative for 
 42. 
     **Kentaro Uno**\*, Masazumi Imai\*, Kazuki Takada, Teruhiro Kataonami, Yudai Matsuura, Antonin Ringeval-Meusnier, Keita Nagaoka, Mikio Eguchi, Ryo Nishibe, Kazuya Yoshida (\*These authors contributed equally.), 
 
-    <span style="color: #85ceff" font-weight="bold">LIMBERO: A Limbed Climbing Exploration Robot Toward Traveling on Rocky Cliffs</span>
+    <a href="https://ieeexplore.ieee.org/document/11696606" target="_blank">LIMBERO: A Limbed Climbing Exploration Robot Toward Traveling on Rocky Cliffs</a>
     
-    _Proceedings of the 2026 IEEE International Conference on Robotics and Automation (ICRA)_, 2026. 
+    _Proceedings of the 2026 IEEE International Conference on Robotics and Automation (ICRA)_, pp. 21412--21419, 2026. 
 
     <a href="https://youtu.be/c3cIx2A6K-4" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
-    <a href="https://arxiv.org/pdf/2603.16531" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <!-- <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <a href="https://arxiv.org/pdf/2603.16531" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
+    <a href="https://ieeexplore.ieee.org/document/11696606" target="_blank"> <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
 
     <br>
 
 41. 
     Keita Nagaoka\*, **Kentaro Uno**\*, Kazuya Yoshida (\*These authors contributed equally.), 
     
-    <span style="color: #85ceff" font-weight="bold">A Pin-Array Structured Climbing Robot for Stable Locomotion on Steep Rocky Terrain</span>
+    <a href="https://ieeexplore.ieee.org/document/11696688" target="_blank">A Pin-Array Structured Climbing Robot for Stable Locomotion on Steep Rocky Terrain</a>
     
-    _Proceedings of the 2026 IEEE International Conference on Robotics and Automation (ICRA)_, 2026.
+    _Proceedings of the 2026 IEEE International Conference on Robotics and Automation (ICRA)_, pp. 18696--18702, 2026.
     
     <a href="https://youtu.be/Ucs3YwUMPW8" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
-    <a href="https://arxiv.org/pdf/2603.16543" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> <!-- <a href="https://ieeexplore.ieee.org/document/11246735" target="_blank"><img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a> -->
+    <a href="https://arxiv.org/pdf/2603.16543" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
+    <a href="https://ieeexplore.ieee.org/document/11696688" target="_blank"> <img src="assets/img/IEEE-Xplore-logo.png" width="80" alt="IEEE Xplore" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
    
     <h3 style="margin-left: -2em;">2025</h3> <!-- 2025 -->
 
