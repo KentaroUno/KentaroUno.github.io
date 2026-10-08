@@ -164,6 +164,7 @@ To drastically extend the robots' explorable world, for exploring the steep and 
     </div>
     <p class="video-caption">ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics</p>
     <p class="video-caption2">(Paper: <a href="https://doi.org/10.1007/978-3-030-86294-7_20" target="_blank"> CLAWAR 2021 <img src="assets/img/SpringerNatureLink_logo_Uni_blue_RGB.png" width="50" alt="Springer Nature" border="0" align="center" hspace="0" vspace="0" class="inline-icon">　</a> <a href="https://github.com/Space-Robotics-Laboratory/ClimbLab" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <a href="https://arxiv.org/pdf/2610.09315" target="_blank"><img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
     )</p>
   </div>
 
@@ -172,7 +173,9 @@ To drastically extend the robots' explorable world, for exploring the steep and 
       <iframe src="https://www.youtube.com/embed/dEEmm8hlXPU" allowfullscreen></iframe>
     </div>
     <p class="video-caption">Simulation-Based Climbing Capability Analysis for Quadrupedal Robots</p>
-    <p class="video-caption2">(Paper: <a href="https://doi.org/10.3929/ethz-b-000501538" target="_blank">CLAWAR 2021</a>
+    <p class="video-caption2">(Paper: <a href="https://doi.org/10.1007/978-3-030-86294-7_16" target="_blank">CLAWAR 2021
+    <img src="assets/img/SpringerNatureLink_logo_Uni_blue_RGB.png" width="50" alt="Springer Nature" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <a href="https://doi.org/10.3929/ethz-b-000501538" target="_blank">, Preprint</a>
     )</p>
 
   </div>

@@ -711,6 +711,7 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>
     *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 179--191, 2021.
 
     <a href="https://www.youtube.com/watch?v=dEEmm8hlXPU" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
+    <a href="https://doi.org/10.3929/ethz-b-000501538" target="_blank">Preprint</a>
     <a href="https://doi.org/10.1007/978-3-030-86294-7_16" target="_blank"> <img src="assets/img/SpringerNatureLink_logo_Uni_blue_RGB.png" width="50" alt="Springer Nature" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
 
     <br>
@@ -723,8 +724,9 @@ Acceleration for Wall-Climbing Motion of Legged Robots</a>
     *Robotics for Sustainable Future: Proceedings of the 24th International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR) 2021*, pp. 229--241, 2021. <span style="color: #ffd258ff">(Highly Commended Paper)</span> 
     
     <a href="https://www.youtube.com/watch?v=nNB8uTTsJJg" target="_blank"> <img src="assets/img/youtubeLogo.png" width="60" alt="YouTube video" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
-    <a href="https://github.com/Space-Robotics-Laboratory/ClimbLab" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
+    <a href="https://arxiv.org/pdf/2610.09315" target="_blank"> <img src="assets/img/arxiv-logo.png" width="50" alt="arXiv link" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a> 
     <a href="https://doi.org/10.1007/978-3-030-86294-7_20" target="_blank"> <img src="assets/img/SpringerNatureLink_logo_Uni_blue_RGB.png" width="50" alt="Springer Nature" border="0" align="center" hspace="0" vspace="0" class="inline-icon"> </a>
+    <a href="https://github.com/Space-Robotics-Laboratory/ClimbLab" target="_blank"><img src="assets/img/github_logo.png" width="80" alt="github-logo" border="0" align="center" hspace="0" vspace="0" class="inline-icon"></a>
 
     <br>
 
